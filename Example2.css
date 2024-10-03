@@ -10,9 +10,9 @@ multi line comment */
 @import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@900&display=swap');
 
 
-/* Format my paragraph */
+/* Format my paragraph. Look for more google fonts*/
 p {
-	font-size: 18px;
+	font-size: 28px;
 	margin: 5px 5px;
 	line-height: 22.4px;
 	color: #323232;
