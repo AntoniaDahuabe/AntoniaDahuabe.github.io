@@ -4,14 +4,31 @@
 /* These are comments in CSS. Comments don't do anything except explain your working to make code easier to understand. */
 
 
+/* CSS for the two-color bar */
+.top-bar {
+  background-color: #001F3F; /* Top blue color */
+  height: 50px;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+  border-bottom: 10px solid #FF6F61; /* Horizontal line as a second color */
+  box-shadow: 0 6px 0 0 #A8E6CE, /* Second bottom line (using shadow for spacing) */
+  0 10px 0 0 #edfbf5;   /* Third bottom line */
+}
+
+
+
+
 body { /* We can style any HTML element by using its name - here we're styling the body */
   /* We want text that uses a clean sans-serif font, is usually 16px big and close to black */
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Nunito Sans', Nunito Sans;
   font-size: 16px;
-  color: #333;
+  color: #2E2E2E;
   line-height: 1.6;
   /* we want a white page, that's centered and not too wide */
-  background-color: #d2f8f2;
+  background-color: #fffefc;
   margin:0 auto;
   max-width: 800px;
   padding-top: 60px;
@@ -19,9 +36,18 @@ body { /* We can style any HTML element by using its name - here we're styling t
 
 
 /* Headings */
-h1, h2, h3, h4, h5, h6 {
-  color: #013533;
+h1 {
+  color: #3d1d42;
   margin-top: 24px;
+  margin-bottom: 16px;
+  margin-left: 24px ;
+  font-weight: 600;
+  text-shadow: 2px 2px 5px rgba(182, 200, 210, 0.772); /* Horizontal, Vertical, Blur, Color */
+}
+h2, h3, h4, h5, h6 {
+  color: #37376b;
+  margin-top: 24px;
+  margin-left: 24px ;
   margin-bottom: 16px;
   font-weight: 600;
 }
@@ -46,6 +72,7 @@ h2 {
 /* Paragraph */
 p {
   margin-bottom: 1em;
+  margin-left: 24px ;
   font-weight: 300;
 }
 
@@ -56,7 +83,7 @@ section {
 /* Links */
 /* We want the links to be a little more visible  and a different color */
 a {
-  color: #127f7a;
+  color: #52c498;
   text-decoration: none;
 }
 
