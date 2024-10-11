@@ -1,0 +1,59 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Hours Worked in Great Britain",
+    "anchor": "start",
+    "subtitle": "Total weekly hours worked, millions | Source: ONS through ECO API",
+    "fontSize": 14,
+    "subtitleFontSize": 12,
+    "color": "#ffffff",
+    "subtitleColor": "#ffffff"
+  },
+  "height": 250,
+  "width": "container",
+  "autosize": {"type": "fit", "contains": "padding"},
+  "background": "#0a3933",
+  "view": {"fill": "#749490f5", "strokeOpacity": 0},
+  "data": {
+    "url": "https://api.economicsobservatory.com/gbr/hours?vega",
+    "format": {"type": "json"}
+  },
+  "layer": [
+    {
+      "mark": {"type": "line", "color": "#ecff8b", "strokeWidth": 2},
+      "encoding": {
+        "x": {
+          "field": "date",
+          "type": "temporal",
+          "axis": {
+            "title": "",
+            "titleColor": "#ffffff",
+            "labelColor": "#ffffff",
+            "grid": false
+          }
+        },
+        "y": {
+          "field": "value",
+          "type": "quantitative",
+          "axis": {
+            "title": "",
+            "titleColor": "#ffffff",
+            "labelColor": "#ffffff",
+            "grid": true
+          }
+        }
+      }
+    },
+    {
+      "mark": {"type": "point", "color": "red", "size": 100},
+      "encoding": {
+        "x": {"field": "date", "type": "temporal"},
+        "y": {"field": "value", "type": "quantitative"}
+      },
+      "transform": [
+        {"filter": "(datum.date === 34214400000) && (datum.value === 864.3)"}
+      ]
+    }
+  ],
+  "config": {}
+}
