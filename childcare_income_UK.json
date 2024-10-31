@@ -179,7 +179,7 @@
     "url": "https://raw.githubusercontent.com/jhellingsdata/RADataHub/main/Chart%20Packs/Childcare/data/C5_income_childcare_accessibility.csv"
   },
   "height": 350,
-  "width": "container",
+  "width": 350,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.17.0.json",
   "autosize": {"type": "fit", "contains": "padding", "resize": false}
 }
