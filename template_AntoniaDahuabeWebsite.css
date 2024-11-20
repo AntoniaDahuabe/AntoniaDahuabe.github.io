@@ -163,8 +163,15 @@ img {
 
   .iframe-wrapper {
       flex-direction: column;
+      min-height: 300px;
+      max-height: 500px; /* Use a max height on small screens */
       overflow: auto; /* scrollbars */
   }
+
+  .embedded-iframe {
+    height: 250px; /* Set a specific height for small screens */
+    min-height: 200px;
+}
 
   iframe {
       height: 200px; /* Reduce iframe height on smaller screens */
