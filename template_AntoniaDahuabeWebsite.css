@@ -1,0 +1,161 @@
+/* Top bar styling*/
+.top-bar {
+  background-color: #67c8a4; 
+  height: 50px;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+  border-bottom: 10px solid #d79898; 
+  box-shadow: 0 6px 0 0 #f7c8c8, 
+              0 10px 0 0 #c9edd7; 
+}
+
+/* Body styling */
+body {
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 16px;
+  color: #72522a; 
+  line-height: 1.6;
+  background-color: #F4F6F8; 
+  margin: 0 auto;
+  max-width: 800px;
+  padding-top: 60px;
+}
+
+/* Headings */
+h1 {
+  color: #023339; 
+  margin-top: 24px;
+  margin-bottom: 16px;
+  margin-left: 24px;
+  font-weight: 600;
+  text-shadow: 2px 2px 5px rgba(124, 142, 143, 0.5); /* Updated shadow to soft blue */
+}
+
+h2, h3, h4, h5, h6 {
+  color: #0a5656; 
+  margin-top: 24px;
+  margin-left: 24px;
+  margin-bottom: 16px;
+  font-weight: 600;
+}
+
+/* Text sizing */
+.big {
+  font-size: 3em;
+}
+h2 {
+  font-size: 2.5em;
+}
+.small {
+  font-size: 1.25em;
+}
+
+/* h1.big {
+  font-size: 2.5rem; /* Relative to the root font size */
+/* }*/
+
+
+/* Paragraph styling */
+p {
+  font-size: 1rem; /* 1 rem = default font size of the root (typically 16px) */
+  margin-bottom: 1em;
+  margin-left: 24px;
+  color: #525A76; 
+  font-weight: 300;
+}
+
+/* Section styling */
+section {
+  background-color: #FFFFFF; /* White background for each section*/
+  margin: 20px 0;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.1); /* Shadow for each box */
+}
+
+/* Links styling */
+a {
+  color: #69A6A0; 
+  text-decoration: none;
+}
+
+/* Hovering styling*/
+a:hover {
+  color: #2A2A72; 
+  text-decoration: underline;
+}
+
+/* Images styling */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Styling for iframe wrapper */
+.iframe-wrapper {
+  position: relative;
+  display: inline-block;
+  width: 100%;
+  height: 500px;  /* Adjust height as needed */
+  border-radius: 10px; /* Optional: rounded corners */
+  padding: 0px; /* Optional: add padding around the iframe */
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Optional: shadow around the border */
+}
+
+/* Transparent overlay that makes iframe content clickable */
+.iframe-wrapper .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 98%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.02); /* Semi-transparent white */
+  z-index: 1;
+  cursor: pointer;
+}
+
+
+/* Allow scrolling within the iframe */
+.embedded-iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+  z-index: 0;  /* Ensure iframe content is below overlay */
+}
+
+
+/*Size*/
+.chart-description {
+  width: 90%; /* Relative width */
+  max-width: 1200px; /* Optional: Limit the maximum width */
+  margin: 0 auto; /* Center it */
+}
+
+/* Styles for devices smaller than 768px (like tablets and phones) */
+@media screen and (max-width: 768px) {
+  .big {
+      font-size: 1.5em;
+  }
+
+  .chart-description {
+      width: 90%; /* Make content wider on smaller screens */
+  }
+}
+
+/* Styles for devices smaller than 480px (like mobile phones) */
+@media screen and (max-width: 480px) {
+  .big {
+      font-size: 1.2em;
+  }
+
+  .iframe-wrapper {
+      flex-direction: column;
+  }
+
+  iframe {
+      height: 200px; /* Reduce iframe height on smaller screens */
+  }
+}
