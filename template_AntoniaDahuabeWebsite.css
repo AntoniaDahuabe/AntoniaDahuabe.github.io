@@ -163,7 +163,7 @@ img {
 
   .iframe-wrapper {
       flex-direction: column;
-      overflow: visible; /* Allow overflow */
+      overflow: auto; /* scrollbars */
   }
 
   iframe {
