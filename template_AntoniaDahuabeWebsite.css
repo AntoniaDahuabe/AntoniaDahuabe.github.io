@@ -108,7 +108,6 @@ img {
 
 /* Transparent overlay that makes iframe content clickable */
 .iframe-wrapper .overlay {
-  position: absolute;
   top: 0;
   left: 0;
   width: 98%;
