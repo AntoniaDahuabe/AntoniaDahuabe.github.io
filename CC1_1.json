@@ -6,7 +6,7 @@
     "subtitle": [
       "Deprivation and Post-65 life expectancy",
       "Source: GCPH",
-      "Changes: (1) LE value when hoovering (2) Trend line, and (3) Additional text"
+      "Changes: (1) Values when hoovering (2) Trend line, and (3) Additional text"
     ],
     "subtitleFontStyle": "italic",
     "subtitleFontSize": 10,
@@ -51,6 +51,12 @@
       {
         "field": "post65LE",
         "title": "Post-65 LE",
+        "type": "quantitative",
+        "format": "0.1f"
+      },
+      {
+        "field": "incomeDeprevation",
+        "title": "Income Deprivation Rate",
         "type": "quantitative",
         "format": "0.1f"
       }
