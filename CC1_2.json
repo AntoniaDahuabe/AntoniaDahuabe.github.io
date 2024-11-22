@@ -15,7 +15,7 @@
     "fontWeight": "bold",
     "frame": "group",
     "offset": 10,
-    "anchor": "start",
+    "anchor": "right",
     "color": "rgb(0,0,0,1)"
   },
   "width": 270,
@@ -96,7 +96,15 @@
           "field": "diff",
           "type": "quantitative",
           "legend": null
-        }
+        },
+        "tooltip":[
+          {
+            "field":"country", "title":"Country:"
+          },
+          {
+            "field":"value", "title":"Gap:"
+          }
+        ]
       }
     },
     {
@@ -115,14 +123,14 @@
       "data": {
         "values": [
           {
-            "text": "Changes: New colours and conditions, added title and notes."
+            "text": "Changes: New colours and conditions, boxes when hovering, added title and notes."
           }
         ]
       },
-      "mark": {"type": "text", "align": "right"},
+      "mark": {"type": "text", "align": "rigth"},
       "encoding": {
         "text": {"field": "text"},
-        "x": {"value": 280},
+        "x": {"value": 320},
         "y": {"value": -50},
         "color": {"value": "rgb(0, 0, 0, .6)"}
       }
