@@ -1,0 +1,61 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "height": 250,
+  "width": 400,
+  "title": {
+    "text": "Growth Incidence Curves in the UK (1982-2022)",
+    "anchor": "start",
+    "subtitle": "Ages 16 and over, % | Source: IFS Living standards, poverty and inequality in the UK",
+    "fontSize": 14,
+    "subtitleFontSize": 12,
+    "color": "#000000",
+    "subtitleColor": "#000000"
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/AntoniaDahuabe/AntoniaDahuabe.github.io/refs/heads/main/filtered_Income%20growth%20across%20distribution%20-%20data.csv"
+  },
+  "mark": "line",
+  "encoding": {
+    "x": {
+      "field": "Percentile",
+      "type": "quantitative",
+      "axis": {"title": "Income percentile"}
+    },
+    "y": {
+      "field": "value",
+      "type": "quantitative",
+      "axis": {"title": "Average annual growth in incomes"}
+    },
+    "color": {
+      "field": "variable",
+      "type": "nominal",
+      "legend": {"title": null, "columns": 4, "orient": "bottom"},
+      "scale": {
+        "domain": [
+          "1982 to 1992",
+          "1992 to 2002",
+          "2002 to 2012",
+          "2012 to 2022"
+        ],
+        "range": ["#c9edd7", "#67c8a4", "teal", "#d79898"]
+      }
+    },
+    "tooltip": [
+      {"field": "Percentile", "type": "quantitative", "title": "Percentile"},
+      {
+        "field": "value",
+        "type": "quantitative",
+        "title": "Growth Rate",
+        "format": ".2f"
+      },
+      {"field": "variable", "type": "nominal", "title": "Period"}
+    ]
+  },
+  "transform": [
+    {
+      "fold": ["1982 to 1992", "1992 to 2002", "2002 to 2012", "2012 to 2022"],
+      "as": ["variable", "value"]
+    }
+  ],
+  "config": {}
+}
