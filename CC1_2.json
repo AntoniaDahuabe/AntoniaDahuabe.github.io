@@ -15,7 +15,7 @@
     "fontWeight": "bold",
     "frame": "group",
     "offset": 10,
-    "anchor": "right",
+    "anchor": "middle",
     "color": "rgb(0,0,0,1)"
   },
   "width": 270,
@@ -127,10 +127,12 @@
           }
         ]
       },
-      "mark": {"type": "text", "align": "rigth"},
+      "mark": {"type": "text", "align": "left"},
       "encoding": {
-        "text": {"field": "text"},
-        "x": {"value": 320},
+        "text": {
+          "field": "text"
+          },
+        "x": {"value": -80},
         "y": {"value": -50},
         "color": {"value": "rgb(0, 0, 0, .6)"}
       }

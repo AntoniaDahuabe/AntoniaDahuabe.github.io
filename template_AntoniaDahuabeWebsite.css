@@ -136,6 +136,7 @@ img {
 .chart-description {
   width: 100%; /* Relative width */
   /*max-width: 1200px; /* Optional: Limit the maximum width */
+  align-items: center;
   margin: 0 auto; /* Center it */
 }
 
