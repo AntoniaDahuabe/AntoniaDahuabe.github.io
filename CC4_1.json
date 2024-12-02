@@ -1,0 +1,14 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/AntoniaDahuabe/AntoniaDahuabe.github.io/refs/heads/main/long_format_data_Figure_4__Daily_time_use.csv"
+  },
+  "mark": "bar",
+  "encoding": {
+    "x": {"field": "Category"},
+    "y": {"field": "Value", "type": "quantitative"},
+    "xOffset": {"field": "Unnamed: 0"},
+    "color": {"field": "Unnamed: 0"}
+  },
+  "config": {}
+}
