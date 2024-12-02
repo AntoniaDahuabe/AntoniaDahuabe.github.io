@@ -8,10 +8,10 @@
     <title>Antonia Dahuabe's Portfolio</title>
 
   <!--Vega embed wsettings-->
-  <script src="https://cdn.jsdelivr.net/npm/vega@5.17.0"></script>
-  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.0"></script>
-  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.12.2"></script>
-  <!-- For screen size adjustment -->
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.30.0"></script>
+   <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.21.0"></script>
+   <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.29.0"></script>
+<!-- For screen size adjustment -->
   <style> 
     #chartGrid {
     display: flex;
@@ -64,12 +64,21 @@
         <div class="chart-description">
             <h3>CC3. Debating. Use a visualisation in economic/policy commentary
            </h3>
-            <p> 25 words: topic discussed </p> 
-            <p> https://ifs.org.uk/articles/income-and-wealth-inequality-explained-5-charts  </p>
-            <p> https://www.economicsobservatory.com/beyond-fair-play-what-would-a-fair-society-look-like</p>
-            <figure id="Location5"></figure>
+            <p> Income inequality translates into opportunity -and outcome- inequalities that affect both individual and colective wellbeing in our societies. 
+                From an economic perspective some inequalities are allowed as they signal most productive sectors in the economy. 
+                Nevertheless, as John Ralws (1971) argues, and Daniel Chandler supports (listen to debate <a href="https://www.linkedin.com/in/antonia-dahuabe/">here</a>)
+                there are core values/principles that shape how fairness in a society looks like. </p>
+            <p> For inequality to sustainably exist, 
+                it has to null in terms of opportunities for basic liberties (freedom of speech/sexuality/religion/politics), 
+                and it has to result in redistributions of its "benefits" to the entire population 
+                (specially those who allowed such levels of inequality; the most vulnerable). </p>
+            <p> Figure XX plots the income gradient for life expectancy for the UK, showing how health outcomes increase with income even on the top layers (when absolute poverty is less relevant). </p>
+            <figure id="Location5"></figure> 
+            <p> Source: <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthinequalities/bulletins/healthstatelifeexpectanciesbyindexofmultipledeprivationimd/2018to2020#:~:text=In%202018%20to%202020%2C%20male%20disability%2Dfree%20life%20expectancy%20(,years%20and%2066.4%20years%2C%20respectively">ONS</a> </p>
+            <p> Figure XX shows growth incidence curves for the UK, which portraits how economic growth is benefiting each aprt of society.</p>
+            <p>Disability-free life expectancy at birth, England, 2018 to 2020 </p>
             <figure id="Location6"></figure>
-            <p> 25 words: comment </p>
+            <p> Source: <a href="https://ifs.org.uk/living-standards-poverty-and-inequality-uk#:~:text=Another%20way%20to%20see%20how,distribution%2C%20for%20selected%20time%20periods.">ONS</a>  </p>
         </div>
     </section>
 
@@ -78,7 +87,9 @@
         <div class="chart-description">
             <h3>CC4. Replication. Re-create, then improve, someone else’s chart.
            </h3>
-            <p>  </p>
+           <p> Mention that I transformed data on python</p>
+           <figure id="Location7"></figure>
+            <p> Source: <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/timeuseintheuk/march2023"> ONS</a> </p>
         </div>
     </section>
 
@@ -151,6 +162,8 @@
         vegaEmbed('#Location5', figure_5_spec);
         let figure_6_spec = "CC3_2.json";
         vegaEmbed('#Location6', figure_6_spec);
+        let figure_7_spec = "CC4_1.json";
+        vegaEmbed('#Location7', figure_7_spec);
     </script>
    
 

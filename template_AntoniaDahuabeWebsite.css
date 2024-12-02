@@ -140,6 +140,8 @@ img {
   margin: 0 auto; /* Center it */
 }
 
+
+
 /* Styles for devices smaller than 768px (like tablets and phones) */
 @media screen and (max-width: 768px) {
   .big {

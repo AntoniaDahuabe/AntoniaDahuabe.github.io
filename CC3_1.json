@@ -1,0 +1,40 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "height": 250,
+  "width": 400,
+   "data": {
+    "url": "https://raw.githubusercontent.com/AntoniaDahuabe/AntoniaDahuabe.github.io/refs/heads/main/Figure_5__Male_DFLE_in_the_least_deprived_areas_was_2.6_years_higher_than_for_females.csv"
+  },
+  "mark": {"type": "bar", "width": 15},
+  "transform": [{"fold": ["Female", "Male"], "as": ["Gender", "Value"]}],
+  "encoding": {
+    "x": {
+      "field": "IMD Deciles",
+      "type": "ordinal",
+      "title": "Deprivation decile (1=most deprived, 10=least deprived)",
+      "sort": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"],
+      "axis": {"labelAngle": 0, "tickCount": 10}
+    },
+    "y": {
+      "field": "Value",
+      "type": "quantitative",
+      "title": "Life Expectancy at Birth (Disability-free)",
+      "scale": {"domain": [0, 80]}
+    },
+    "color": {
+      "field": "Gender",
+      "type": "nominal",
+      "scale": {"scheme": "bluegreen"},
+      "legend": {"title": "Gender"}
+    },
+    "xOffset": {
+      "field": "Gender",
+      "scale": {"domain": ["Female", "Male"], "range": [5, 35]}
+    },
+    "tooltip": [
+      {"field": "IMD Deciles", "type": "ordinal", "title": "Decile"},
+      {"field": "Gender", "type": "nominal", "title": "Gender"},
+      {"field": "Value", "type": "quantitative", "title": "Life Expectancy"}
+    ]
+  }
+}

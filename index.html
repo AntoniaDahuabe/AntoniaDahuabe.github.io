@@ -4,10 +4,10 @@
 <head>
     <link rel="stylesheet" type="text/css" href="template_AntoniaDahuabeWebsite.css">
     <title>Antonia Dahuabe's Website</title>
-    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.30.0"></script>
+   <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.21.0"></script>
+   <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.29.0"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
    <!-- For screen size adjustment -->
    <style> 
         #chartGrid {
@@ -49,7 +49,14 @@
     <section>
         <div class="chart-description">
             <h2>Section 2: Project</h2>
-            <p> Here we have my project...</p>
+            
+            <h3>Productive and reproductive labour balance in the UK and Chile. </h3>
+            <p> 1. Workforce participation by gender over the years. --> productive labour for women has increased </p>
+            <p> 2. Time use data unbalance. --> reproductive work for women has not decreased equally. </p>
+            <p> 3. Gender norms perception. --> There are rooted beliefs about labour distribution. </p>
+            <p> 4. Child and marriage penalty over the world. --> These unbalances are driven (or enhanced) after marriage and the first child. Every country in the world has a different weight on which penalty is stronger. </p>
+            <p> 5. Importance of productive labour for women and reproductive laboru for men? </p>
+            
         </div>
     </section>
 
@@ -57,10 +64,21 @@
         <div class="chart-description">
             <h2>Questions</h2>
             <p> 1. How to center my graphs on each section?</p>
+            <p> 2. How to put Figure labels?</p>
+            <figure id="Location1"></figure>
+            <figure id="Location2"></figure>
         </div>
     </section>
 
+    <script>
+        let figure_1_spec = "CC1_1.json";
+        vegaEmbed('#Location1', figure_1_spec);
+        let figure_2_spec = "CC1_2.json";
+        vegaEmbed('#Location2', figure_2_spec);
+    </script>
+   
 
 </body>
+
 
 </html>

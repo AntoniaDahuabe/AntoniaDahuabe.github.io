@@ -5,10 +5,20 @@
   },
   "mark": "bar",
   "encoding": {
-    "x": {"field": "Category"},
+    "x": {"field": "Unnamed: 0", "type": "nominal", "axis": {"labelAngle": 0}},
     "y": {"field": "Value", "type": "quantitative"},
-    "xOffset": {"field": "Unnamed: 0"},
-    "color": {"field": "Unnamed: 0"}
+    "color": {
+      "field": "Unnamed: 0",
+      "type": "nominal",
+      "scale": {"scheme": "purplegreen", "reverse": true},
+      "legend": {
+        "title": "Group (Gender x Employment status)",
+        "orient": "top",
+        "direction": "vertical",
+        "columns": 1
+      }
+    },
+    "facet": {"field": "Category", "type": "nominal", "columns": 2}
   },
   "config": {}
 }
