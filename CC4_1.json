@@ -3,22 +3,62 @@
   "data": {
     "url": "https://raw.githubusercontent.com/AntoniaDahuabe/AntoniaDahuabe.github.io/refs/heads/main/long_format_data_Figure_4__Daily_time_use.csv"
   },
+  "transform": [
+    {"calculate": "datum['Unnamed: 0']", "as": "Group"},
+    {"filter": "datum.Group !== null && datum.Group !== ''"}
+  ],
   "mark": "bar",
   "encoding": {
-    "x": {"field": "Unnamed: 0", "type": "nominal", "axis": {"labelAngle": 0}},
-    "y": {"field": "Value", "type": "quantitative"},
-    "color": {
-      "field": "Unnamed: 0",
+    "x": {
+      "field": "Group",
       "type": "nominal",
-      "scale": {"scheme": "purplegreen", "reverse": true},
+      "axis": {
+        "labelAngle": 0,
+        "title": "",
+        "labels": false,
+        "ticks": false,
+        "domain": false
+      },
+      "sort": [
+        "Men in employment",
+        "Women in employment",
+        "Women economically inactive",
+        "Men economically inactive"
+      ]
+    },
+    "y": {"field": "Value", "type": "quantitative", "title": "% of the day"},
+    "color": {
+      "field": "Group",
+      "type": "nominal",
+      "scale": {
+        "domain": [
+          "Men in employment",
+          "Women in employment",
+          "Women economically inactive",
+          "Men economically inactive"
+        ],
+        "range": ["#8C6A90", "#4AD2A6", "#C7A9C3", "#B9E0D8"]
+      },
       "legend": {
-        "title": "Group (Gender x Employment status)",
+        "title": "Group (Gender x Employment Status)",
+        "titleAlign": "center",
         "orient": "top",
-        "direction": "vertical",
-        "columns": 1
+        "direction": "horizontal",
+        "columns": 4,
+        "titleAnchor": "middle"
       }
     },
-    "facet": {"field": "Category", "type": "nominal", "columns": 2}
+    "tooltip": [
+      {"field": "Group", "type": "nominal", "title": "Group"},
+      {"field": "Value", "type": "quantitative", "title": "Daily Time (hours)"},
+      {"field": "Category"}
+    ],
+    "facet": {
+      "field": "Category",
+      "type": "nominal",
+      "columns": 4,
+      "title": "Activities"
+    }
   },
   "config": {}
 }
