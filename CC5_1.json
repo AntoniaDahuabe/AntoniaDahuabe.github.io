@@ -1,0 +1,38 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "height": 250,
+  "width": 400,
+  "title": {
+    "text": "Child Penalty Chile",
+    "anchor": "start",
+    "subtitle": "Source: Child Penalty Atlas",
+    "fontSize": 14,
+    "subtitleFontSize": 12,
+    "color": "#000000",
+    "subtitleColor": "#000000"
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/AntoniaDahuabe/AntoniaDahuabe.github.io/refs/heads/main/estimates_CL.csv"
+  },
+  "mark": "line",
+  "encoding": {
+    "x": {
+      "field": "t_es",
+      "type": "ordinal",
+      "axis": {"title": "Years w.r.t Event"}
+    },
+    "y": {
+      "field": "estimate",
+      "type": "quantitative",
+      "axis": {"title": "Penalty"},
+      "scale": {"domain": [-1, 0.5]}
+    },
+    "color": {"field": "gender", "type": "nominal"},
+    "tooltip": [
+      {"field": "estimate", "type": "quantitative", "title": "Child Penalty"},
+      {"field": "t_es", "type": "ordinal", "title": "Year"},
+      {"field": "gender", "type": "nominal", "title": "Gender"}
+    ]
+  },
+  "config": {}
+}
