@@ -5,7 +5,7 @@
   "title": {
     "text": "Child Penalty Chile",
     "anchor": "start",
-    "subtitle": "Source: Child Penalty Atlas",
+    "subtitle": "Source: childpenaltyatlas.org",
     "fontSize": 14,
     "subtitleFontSize": 12,
     "color": "#000000",
@@ -14,25 +14,50 @@
   "data": {
     "url": "https://raw.githubusercontent.com/AntoniaDahuabe/AntoniaDahuabe.github.io/refs/heads/main/estimates_CL.csv"
   },
-  "mark": "line",
-  "encoding": {
-    "x": {
-      "field": "t_es",
-      "type": "ordinal",
-      "axis": {"title": "Years w.r.t Event"}
+  "layer": [
+    {
+      "mark": {"type": "line", "tooltip": true, "point": {"size": 70}},
+      "encoding": {
+        "x": {
+          "field": "t_es",
+          "type": "quantitative",
+          "axis": {"title": "Years w.r.t Event"}
+        },
+        "y": {
+          "field": "estimate",
+          "type": "quantitative",
+          "axis": {"title": "Penalty"},
+          "scale": {"domain": [-0.8, 0.8]}
+        },
+        "color": {
+          "field": "gender",
+          "type": "nominal",
+          "scale": {
+            "domain": ["male", "female"],
+            "range": ["rgba(0, 128, 128, 0.5)", "rgba(128,0,0,.5)"]
+          },
+          "legend": {"title": "Gender", "orient": "top"}
+        },
+        "tooltip": [
+          {
+            "field": "estimate",
+            "type": "quantitative",
+            "title": "Child Penalty"
+          },
+          {"field": "t_es", "type": "ordinal", "title": "Year"},
+          {"field": "gender", "type": "nominal", "title": "Gender"}
+        ]
+      }
     },
-    "y": {
-      "field": "estimate",
-      "type": "quantitative",
-      "axis": {"title": "Penalty"},
-      "scale": {"domain": [-1, 0.5]}
-    },
-    "color": {"field": "gender", "type": "nominal"},
-    "tooltip": [
-      {"field": "estimate", "type": "quantitative", "title": "Child Penalty"},
-      {"field": "t_es", "type": "ordinal", "title": "Year"},
-      {"field": "gender", "type": "nominal", "title": "Gender"}
-    ]
-  },
+    {
+      "mark": {
+        "type": "rule",
+        "color": "grey",
+        "strokeWidth": 1,
+        "strokeDash": [4, 4]
+      },
+      "encoding": {"x": {"datum": 0}, "size": {"value": 2}}
+    }
+  ],
   "config": {}
 }
