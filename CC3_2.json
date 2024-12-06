@@ -14,7 +14,10 @@
   "data": {
     "url": "https://raw.githubusercontent.com/AntoniaDahuabe/AntoniaDahuabe.github.io/refs/heads/main/filtered_Income%20growth%20across%20distribution%20-%20data.csv"
   },
-  "mark": "line",
+  "mark": {
+    "type": "line",
+    "strokeWidth": 4  
+  },
   "encoding": {
     "x": {
       "field": "Percentile",
@@ -29,7 +32,7 @@
     "color": {
       "field": "variable",
       "type": "nominal",
-      "legend": {"title": null, "columns": 4, "orient": "bottom"},
+      "legend": {"title": null, "columns": 4, "orient": "bottom",  "symbolSize": 300, "symbolStrokeWidth": 10},
       "scale": {
         "domain": [
           "1982 to 1992",
