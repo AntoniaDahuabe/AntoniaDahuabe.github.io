@@ -34,10 +34,10 @@
         "domain": [
           "Men in employment",
           "Women in employment",
-          "Women economically inactive",
-          "Men economically inactive"
+          "Men economically inactive",
+          "Women economically inactive"
         ],
-        "range": ["#8C6A90", "#4AD2A6", "#C7A9C3", "#B9E0D8"]
+        "range": ["#4AD2A6", "#8C6A90", "#B9E0D8", "#C7A9C3"]
       },
       "legend": {
         "title": "Group (Gender x Employment Status)",
@@ -57,7 +57,8 @@
       "field": "Category",
       "type": "nominal",
       "columns": 4,
-      "title": "Activities"
+      "title": "Activities",
+      "header": {"labelFontWeight": "bold"}
     }
   },
   "config": {}
