@@ -22,8 +22,8 @@
       "sort": [
         "Men in employment",
         "Women in employment",
-        "Women economically inactive",
-        "Men economically inactive"
+        "Men economically inactive",
+        "Women economically inactive"
       ]
     },
     "y": {"field": "Value", "type": "quantitative", "title": "% of the day"},
@@ -45,7 +45,8 @@
         "orient": "top",
         "direction": "horizontal",
         "columns": 4,
-        "titleAnchor": "middle"
+        "titleAnchor": "middle",
+        "titleLimit": 400
       }
     },
     "tooltip": [
@@ -58,7 +59,19 @@
       "type": "nominal",
       "columns": 4,
       "title": "Activities",
-      "header": {"labelFontWeight": "bold"}
+      "header": {"labelFontWeight": "bold"},
+      "sort": [
+        "Paid work",
+        "Unpaid care",
+        "Unpaid household work",
+        "Sleep and rest",
+        "Education and study",
+        "Entertainment and leisure",
+        "Watching TV",
+        "Travel",
+        "Personal care",
+        "Other activities"
+      ]
     }
   },
   "config": {}
