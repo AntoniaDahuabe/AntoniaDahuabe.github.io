@@ -1,0 +1,5541 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Arica y Parinacota",
+                "province": "Arica",
+                "municipality": "Arica",
+                "code": "15101"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Arica y Parinacota",
+                "province": "Arica",
+                "municipality": "Camarones",
+                "code": "15102"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Arica y Parinacota",
+                "province": "Parinacota",
+                "municipality": "Putre",
+                "code": "15201"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Arica y Parinacota",
+                "province": "Parinacota",
+                "municipality": "General Lagos",
+                "code": "15202"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Tarapac\u00e1",
+                "province": "Iquique",
+                "municipality": "Iquique",
+                "code": "01101"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Tarapac\u00e1",
+                "province": "Iquique",
+                "municipality": "Alto Hospicio",
+                "code": "01107"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Tarapac\u00e1",
+                "province": "Tamarugal",
+                "municipality": "Pozo Almonte",
+                "code": "01401"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Tarapac\u00e1",
+                "province": "Tamarugal",
+                "municipality": "Cami\u00f1a",
+                "code": "01402"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Tarapac\u00e1",
+                "province": "Tamarugal",
+                "municipality": "Colchane",
+                "code": "01403"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Tarapac\u00e1",
+                "province": "Tamarugal",
+                "municipality": "Huara",
+                "code": "01404"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Tarapac\u00e1",
+                "province": "Tamarugal",
+                "municipality": "Pica",
+                "code": "01405"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Antofagasta",
+                "province": "Antofagasta",
+                "municipality": "Antofagasta",
+                "code": "02101"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Antofagasta",
+                "province": "Antofagasta",
+                "municipality": "Mejillones",
+                "code": "02102"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Antofagasta",
+                "province": "Antofagasta",
+                "municipality": "Sierra Gorda",
+                "code": "02103"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Antofagasta",
+                "province": "Antofagasta",
+                "municipality": "Taltal",
+                "code": "02104"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Antofagasta",
+                "province": "El Loa",
+                "municipality": "Calama",
+                "code": "02201"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Antofagasta",
+                "province": "El Loa",
+                "municipality": "Ollag\u00fce",
+                "code": "02202"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Antofagasta",
+                "province": "El Loa",
+                "municipality": "San Pedro de Atacama",
+                "code": "02203"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Antofagasta",
+                "province": "Tocopilla",
+                "municipality": "Tocopilla",
+                "code": "02301"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Antofagasta",
+                "province": "Tocopilla",
+                "municipality": "Mar\u00eda Elena",
+                "code": "02302"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Atacama",
+                "province": "Copiap\u00f3",
+                "municipality": "Copiap\u00f3",
+                "code": "03101"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Atacama",
+                "province": "Copiap\u00f3",
+                "municipality": "Caldera",
+                "code": "03102"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Atacama",
+                "province": "Copiap\u00f3",
+                "municipality": "Tierra Amarilla",
+                "code": "03103"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Atacama",
+                "province": "Cha\u00f1aral",
+                "municipality": "Cha\u00f1aral",
+                "code": "03201"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Atacama",
+                "province": "Cha\u00f1aral",
+                "municipality": "Diego de Almagro",
+                "code": "03202"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Atacama",
+                "province": "Huasco",
+                "municipality": "Vallenar",
+                "code": "03301"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Atacama",
+                "province": "Huasco",
+                "municipality": "Alto del Carmen",
+                "code": "03302"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Atacama",
+                "province": "Huasco",
+                "municipality": "Freirina",
+                "code": "03303"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Atacama",
+                "province": "Huasco",
+                "municipality": "Huasco",
+                "code": "03304"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Coquimbo",
+                "province": "Elqui",
+                "municipality": "La Serena",
+                "code": "04101"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Coquimbo",
+                "province": "Elqui",
+                "municipality": "Coquimbo",
+                "code": "04102"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Coquimbo",
+                "province": "Elqui",
+                "municipality": "Andacollo",
+                "code": "04103"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Coquimbo",
+                "province": "Elqui",
+                "municipality": "La Higuera",
+                "code": "04104"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Coquimbo",
+                "province": "Elqui",
+                "municipality": "Paiguano",
+                "code": "04105"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Coquimbo",
+                "province": "Elqui",
+                "municipality": "Vicu\u00f1a",
+                "code": "04106"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Coquimbo",
+                "province": "Choapa",
+                "municipality": "Illapel",
+                "code": "04201"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Coquimbo",
+                "province": "Choapa",
+                "municipality": "Canela",
+                "code": "04202"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Coquimbo",
+                "province": "Choapa",
+                "municipality": "Los Vilos",
+                "code": "04203"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Coquimbo",
+                "province": "Choapa",
+                "municipality": "Salamanca",
+                "code": "04204"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Coquimbo",
+                "province": "Limar\u00ed",
+                "municipality": "Ovalle",
+                "code": "04301"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Coquimbo",
+                "province": "Limar\u00ed",
+                "municipality": "Combarbal\u00e1",
+                "code": "04302"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Coquimbo",
+                "province": "Limar\u00ed",
+                "municipality": "Monte Patria",
+                "code": "04303"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Coquimbo",
+                "province": "Limar\u00ed",
+                "municipality": "Punitaqui",
+                "code": "04304"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Coquimbo",
+                "province": "Limar\u00ed",
+                "municipality": "R\u00edo Hurtado",
+                "code": "04305"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Valpara\u00edso",
+                "province": "Valpara\u00edso",
+                "municipality": "Valpara\u00edso",
+                "code": "05101"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Valpara\u00edso",
+                "province": "Valpara\u00edso",
+                "municipality": "Casablanca",
+                "code": "05102"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Valpara\u00edso",
+                "province": "Valpara\u00edso",
+                "municipality": "Conc\u00f3n",
+                "code": "05103"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Valpara\u00edso",
+                "province": "Valpara\u00edso",
+                "municipality": "Juan Fern\u00e1ndez",
+                "code": "05104"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Valpara\u00edso",
+                "province": "Valpara\u00edso",
+                "municipality": "Puchuncav\u00ed",
+                "code": "05105"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Valpara\u00edso",
+                "province": "Valpara\u00edso",
+                "municipality": "Quintero",
+                "code": "05107"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Valpara\u00edso",
+                "province": "Valpara\u00edso",
+                "municipality": "Vi\u00f1a del Mar",
+                "code": "05109"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Valpara\u00edso",
+                "province": "Isla de Pascua",
+                "municipality": "Isla de Pascua",
+                "code": "05201"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Valpara\u00edso",
+                "province": "Los Andes",
+                "municipality": "Los Andes",
+                "code": "05301"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Valpara\u00edso",
+                "province": "Los Andes",
+                "municipality": "Calle Larga",
+                "code": "05302"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Valpara\u00edso",
+                "province": "Los Andes",
+                "municipality": "Riconada",
+                "code": "05303"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Valpara\u00edso",
+                "province": "Los Andes",
+                "municipality": "San Esteban",
+                "code": "05304"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Valpara\u00edso",
+                "province": "Petorca",
+                "municipality": "La Ligua",
+                "code": "05401"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Valpara\u00edso",
+                "province": "Petorca",
+                "municipality": "Cabildo",
+                "code": "05402"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Valpara\u00edso",
+                "province": "Petorca",
+                "municipality": "Papudo",
+                "code": "05403"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Valpara\u00edso",
+                "province": "Petorca",
+                "municipality": "Petorca",
+                "code": "05404"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Valpara\u00edso",
+                "province": "Petorca",
+                "municipality": "Zapallar",
+                "code": "05405"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Valpara\u00edso",
+                "province": "Quillota",
+                "municipality": "Quillota",
+                "code": "05501"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Valpara\u00edso",
+                "province": "Quillota",
+                "municipality": "La Calera",
+                "code": "05502"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Valpara\u00edso",
+                "province": "Quillota",
+                "municipality": "Hijuelas",
+                "code": "05503"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Valpara\u00edso",
+                "province": "Quillota",
+                "municipality": "La Cruz",
+                "code": "05504"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Valpara\u00edso",
+                "province": "Quillota",
+                "municipality": "Nogales",
+                "code": "05506"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Valpara\u00edso",
+                "province": "San Antonio",
+                "municipality": "San Antonio",
+                "code": "05601"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Valpara\u00edso",
+                "province": "San Antonio",
+                "municipality": "Algarrobo",
+                "code": "05602"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Valpara\u00edso",
+                "province": "San Antonio",
+                "municipality": "Cartagena",
+                "code": "05603"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Valpara\u00edso",
+                "province": "San Antonio",
+                "municipality": "El Quisco",
+                "code": "05604"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Valpara\u00edso",
+                "province": "San Antonio",
+                "municipality": "El Tabo",
+                "code": "05605"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Valpara\u00edso",
+                "province": "San Antonio",
+                "municipality": "Santo Domingo",
+                "code": "05606"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Valpara\u00edso",
+                "province": "San Felipe de Aconcagua",
+                "municipality": "San Felipe",
+                "code": "05701"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Valpara\u00edso",
+                "province": "San Felipe de Aconcagua",
+                "municipality": "Catemu",
+                "code": "05702"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Valpara\u00edso",
+                "province": "San Felipe de Aconcagua",
+                "municipality": "Llaillay",
+                "code": "05703"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Valpara\u00edso",
+                "province": "San Felipe de Aconcagua",
+                "municipality": "Panquehue",
+                "code": "05704"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Valpara\u00edso",
+                "province": "San Felipe de Aconcagua",
+                "municipality": "Putaendo",
+                "code": "05705"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Valpara\u00edso",
+                "province": "San Felipe de Aconcagua",
+                "municipality": "Santa Mar\u00eda",
+                "code": "05706"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Valpara\u00edso",
+                "province": "Marga Marga",
+                "municipality": "Quilpu\u00e9",
+                "code": "05801"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Valpara\u00edso",
+                "province": "Marga Marga",
+                "municipality": "Limache",
+                "code": "05802"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Valpara\u00edso",
+                "province": "Marga Marga",
+                "municipality": "Olmu\u00e9",
+                "code": "05803"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Valpara\u00edso",
+                "province": "Marga Marga",
+                "municipality": "Villa Alemana",
+                "code": "05804"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Libertador Gral. Bernardo O'Higgins",
+                "province": "Cachapoal",
+                "municipality": "Rancagua",
+                "code": "06101"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Libertador Gral. Bernardo O'Higgins",
+                "province": "Cachapoal",
+                "municipality": "Codegua",
+                "code": "06102"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Libertador Gral. Bernardo O'Higgins",
+                "province": "Cachapoal",
+                "municipality": "Coinco",
+                "code": "06103"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Libertador Gral. Bernardo O'Higgins",
+                "province": "Cachapoal",
+                "municipality": "Coltauco",
+                "code": "06104"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Libertador Gral. Bernardo O'Higgins",
+                "province": "Cachapoal",
+                "municipality": "Do\u00f1ihue",
+                "code": "06105"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Libertador Gral. Bernardo O'Higgins",
+                "province": "Cachapoal",
+                "municipality": "Graneros",
+                "code": "06106"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Libertador Gral. Bernardo O'Higgins",
+                "province": "Cachapoal",
+                "municipality": "Las Cabras",
+                "code": "06107"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Libertador Gral. Bernardo O'Higgins",
+                "province": "Cachapoal",
+                "municipality": "Machal\u00ed",
+                "code": "06108"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Libertador Gral. Bernardo O'Higgins",
+                "province": "Cachapoal",
+                "municipality": "Malloa",
+                "code": "06109"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Libertador Gral. Bernardo O'Higgins",
+                "province": "Cachapoal",
+                "municipality": "Mostazal",
+                "code": "06110"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Libertador Gral. Bernardo O'Higgins",
+                "province": "Cachapoal",
+                "municipality": "Olivar",
+                "code": "06111"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Libertador Gral. Bernardo O'Higgins",
+                "province": "Cachapoal",
+                "municipality": "Peumo",
+                "code": "06112"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Libertador Gral. Bernardo O'Higgins",
+                "province": "Cachapoal",
+                "municipality": "Pichidegua",
+                "code": "06113"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Libertador Gral. Bernardo O'Higgins",
+                "province": "Cachapoal",
+                "municipality": "Quinta de Tilcoco",
+                "code": "06114"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Libertador Gral. Bernardo O'Higgins",
+                "province": "Cachapoal",
+                "municipality": "Rengo",
+                "code": "06115"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Libertador Gral. Bernardo O'Higgins",
+                "province": "Cachapoal",
+                "municipality": "Requ\u00ednoa",
+                "code": "06116"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Libertador Gral. Bernardo O'Higgins",
+                "province": "Cachapoal",
+                "municipality": "San Vicente",
+                "code": "06117"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Libertador Gral. Bernardo O'Higgins",
+                "province": "Cardenal Caro",
+                "municipality": "Pichilemu",
+                "code": "06201"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Libertador Gral. Bernardo O'Higgins",
+                "province": "Cardenal Caro",
+                "municipality": "La Estrella",
+                "code": "06202"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Libertador Gral. Bernardo O'Higgins",
+                "province": "Cardenal Caro",
+                "municipality": "Litueche",
+                "code": "06203"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Libertador Gral. Bernardo O'Higgins",
+                "province": "Cardenal Caro",
+                "municipality": "Marichihue",
+                "code": "06204"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Libertador Gral. Bernardo O'Higgins",
+                "province": "Cardenal Caro",
+                "municipality": "Navidad",
+                "code": "06205"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Libertador Gral. Bernardo O'Higgins",
+                "province": "Cardenal Caro",
+                "municipality": "Paredones",
+                "code": "06206"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Libertador Gral. Bernardo O'Higgins",
+                "province": "Colchagua",
+                "municipality": "San Fernando",
+                "code": "06301"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Libertador Gral. Bernardo O'Higgins",
+                "province": "Colchagua",
+                "municipality": "Ch\u00e9pica",
+                "code": "06302"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Libertador Gral. Bernardo O'Higgins",
+                "province": "Colchagua",
+                "municipality": "Chimbarongo",
+                "code": "06303"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Libertador Gral. Bernardo O'Higgins",
+                "province": "Colchagua",
+                "municipality": "Lolol",
+                "code": "06304"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Libertador Gral. Bernardo O'Higgins",
+                "province": "Colchagua",
+                "municipality": "Nancagua",
+                "code": "06305"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Libertador Gral. Bernardo O'Higgins",
+                "province": "Colchagua",
+                "municipality": "Palmilla",
+                "code": "06306"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Libertador Gral. Bernardo O'Higgins",
+                "province": "Colchagua",
+                "municipality": "Peralillo",
+                "code": "06307"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Libertador Gral. Bernardo O'Higgins",
+                "province": "Colchagua",
+                "municipality": "Placilla",
+                "code": "06308"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Libertador Gral. Bernardo O'Higgins",
+                "province": "Colchagua",
+                "municipality": "Pumanque",
+                "code": "06309"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Libertador Gral. Bernardo O'Higgins",
+                "province": "Colchagua",
+                "municipality": "Santa Cruz",
+                "code": "06310"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Maule",
+                "province": "Talca",
+                "municipality": "Talca",
+                "code": "07101"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Maule",
+                "province": "Talca",
+                "municipality": "Constituci\u00f3n",
+                "code": "07102"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Maule",
+                "province": "Talca",
+                "municipality": "Curepto",
+                "code": "07103"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Maule",
+                "province": "Talca",
+                "municipality": "Empedrado",
+                "code": "07104"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Maule",
+                "province": "Talca",
+                "municipality": "Maule",
+                "code": "07105"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Maule",
+                "province": "Talca",
+                "municipality": "Pelarco",
+                "code": "07106"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Maule",
+                "province": "Talca",
+                "municipality": "Pencahue",
+                "code": "07107"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Maule",
+                "province": "Talca",
+                "municipality": "R\u00edo Claro",
+                "code": "07108"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Maule",
+                "province": "Talca",
+                "municipality": "San Clemente",
+                "code": "07109"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Maule",
+                "province": "Talca",
+                "municipality": "San Rafael",
+                "code": "07110"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Maule",
+                "province": "Cauquenes",
+                "municipality": "Cauquenes",
+                "code": "07201"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Maule",
+                "province": "Cauquenes",
+                "municipality": "Chanco",
+                "code": "07202"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Maule",
+                "province": "Cauquenes",
+                "municipality": "Pelluhue",
+                "code": "07203"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Maule",
+                "province": "Curic\u00f3",
+                "municipality": "Curic\u00f3",
+                "code": "07301"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Maule",
+                "province": "Curic\u00f3",
+                "municipality": "Huala\u00f1\u00e9",
+                "code": "07302"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Maule",
+                "province": "Curic\u00f3",
+                "municipality": "Licant\u00e9n",
+                "code": "07303"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Maule",
+                "province": "Curic\u00f3",
+                "municipality": "Molina",
+                "code": "07304"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Maule",
+                "province": "Curic\u00f3",
+                "municipality": "Rauco",
+                "code": "07305"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Maule",
+                "province": "Curic\u00f3",
+                "municipality": "Romeral",
+                "code": "07306"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Maule",
+                "province": "Curic\u00f3",
+                "municipality": "Sagrada Familia",
+                "code": "07307"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Maule",
+                "province": "Curic\u00f3",
+                "municipality": "Teno",
+                "code": "07308"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Maule",
+                "province": "Curic\u00f3",
+                "municipality": "Vichuqu\u00e9n",
+                "code": "07309"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Maule",
+                "province": "Linares",
+                "municipality": "Linares",
+                "code": "07401"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Maule",
+                "province": "Linares",
+                "municipality": "Colb\u00fan",
+                "code": "07402"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Maule",
+                "province": "Linares",
+                "municipality": "Longav\u00ed",
+                "code": "07403"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Maule",
+                "province": "Linares",
+                "municipality": "Parral",
+                "code": "07404"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Maule",
+                "province": "Linares",
+                "municipality": "Retiro",
+                "code": "07405"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Maule",
+                "province": "Linares",
+                "municipality": "San Javier",
+                "code": "07406"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Maule",
+                "province": "Linares",
+                "municipality": "Villa Alegre",
+                "code": "07407"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Maule",
+                "province": "Linares",
+                "municipality": "Yerbas Buenas",
+                "code": "07408"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de \u00d1uble",
+                "province": "Diguill\u00edn",
+                "municipality": "Chill\u00e1n",
+                "code": "16101"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de \u00d1uble",
+                "province": "Diguill\u00edn",
+                "municipality": "Chill\u00e1n Viejo",
+                "code": "16102"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de \u00d1uble",
+                "province": "Diguill\u00edn",
+                "municipality": "Quill\u00f3n",
+                "code": "16103"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de \u00d1uble",
+                "province": "Diguill\u00edn",
+                "municipality": "Bulnes",
+                "code": "16104"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de \u00d1uble",
+                "province": "Diguill\u00edn",
+                "municipality": "San Ignacio",
+                "code": "16105"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de \u00d1uble",
+                "province": "Diguill\u00edn",
+                "municipality": "El Carmen",
+                "code": "16106"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de \u00d1uble",
+                "province": "Diguill\u00edn",
+                "municipality": "Pinto",
+                "code": "16107"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de \u00d1uble",
+                "province": "Diguill\u00edn",
+                "municipality": "Pemuco",
+                "code": "16108"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de \u00d1uble",
+                "province": "Diguill\u00edn",
+                "municipality": "Yungay",
+                "code": "16109"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de \u00d1uble",
+                "province": "Itata",
+                "municipality": "Quirihue",
+                "code": "16201"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de \u00d1uble",
+                "province": "Itata",
+                "municipality": "Cobquecura",
+                "code": "16202"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de \u00d1uble",
+                "province": "Itata",
+                "municipality": "Ninhue",
+                "code": "16203"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de \u00d1uble",
+                "province": "Itata",
+                "municipality": "Treguaco",
+                "code": "16204"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de \u00d1uble",
+                "province": "Itata",
+                "municipality": "Coelemu",
+                "code": "16205"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de \u00d1uble",
+                "province": "Itata",
+                "municipality": "Portezuelo",
+                "code": "16206"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de \u00d1uble",
+                "province": "Itata",
+                "municipality": "R\u00e1nqui",
+                "code": "16207"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de \u00d1uble",
+                "province": "Punilla",
+                "municipality": "San Carlos",
+                "code": "16301"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de \u00d1uble",
+                "province": "Punilla",
+                "municipality": "\u00d1iqu\u00e9n",
+                "code": "16302"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de \u00d1uble",
+                "province": "Punilla",
+                "municipality": "Coihueco",
+                "code": "16303"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de \u00d1uble",
+                "province": "Punilla",
+                "municipality": "San Fabi\u00e1n",
+                "code": "16304"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de \u00d1uble",
+                "province": "Punilla",
+                "municipality": "San Nico",
+                "code": "16305"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Biob\u00edo",
+                "province": "Concepci\u00f3n",
+                "municipality": "Concepci\u00f3n",
+                "code": "08101"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Biob\u00edo",
+                "province": "Concepci\u00f3n",
+                "municipality": "Coronel",
+                "code": "08102"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Biob\u00edo",
+                "province": "Concepci\u00f3n",
+                "municipality": "Chiguayante",
+                "code": "08103"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Biob\u00edo",
+                "province": "Concepci\u00f3n",
+                "municipality": "Florida",
+                "code": "08104"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Biob\u00edo",
+                "province": "Concepci\u00f3n",
+                "municipality": "Hualqui",
+                "code": "08105"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Biob\u00edo",
+                "province": "Concepci\u00f3n",
+                "municipality": "Lota",
+                "code": "08106"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Biob\u00edo",
+                "province": "Concepci\u00f3n",
+                "municipality": "Penco",
+                "code": "08107"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Biob\u00edo",
+                "province": "Concepci\u00f3n",
+                "municipality": "San Pedro de la Paz",
+                "code": "08108"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Biob\u00edo",
+                "province": "Concepci\u00f3n",
+                "municipality": "Santa Juana",
+                "code": "08109"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Biob\u00edo",
+                "province": "Concepci\u00f3n",
+                "municipality": "Talcahuano",
+                "code": "08110"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Biob\u00edo",
+                "province": "Concepci\u00f3n",
+                "municipality": "Tom\u00e9",
+                "code": "08111"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Biob\u00edo",
+                "province": "Concepci\u00f3n",
+                "municipality": "Hualp\u00e9n",
+                "code": "08112"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Biob\u00edo",
+                "province": "Arauco",
+                "municipality": "Lebu",
+                "code": "08201"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Biob\u00edo",
+                "province": "Arauco",
+                "municipality": "Arauco",
+                "code": "08202"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Biob\u00edo",
+                "province": "Arauco",
+                "municipality": "Ca\u00f1ete",
+                "code": "08203"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Biob\u00edo",
+                "province": "Arauco",
+                "municipality": "Contulmo",
+                "code": "08204"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Biob\u00edo",
+                "province": "Arauco",
+                "municipality": "Curanilahue",
+                "code": "08205"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Biob\u00edo",
+                "province": "Arauco",
+                "municipality": "Los \u00c1lamos",
+                "code": "08206"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Biob\u00edo",
+                "province": "Arauco",
+                "municipality": "Tir\u00faa",
+                "code": "08207"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Biob\u00edo",
+                "province": "Biob\u00edo",
+                "municipality": "Los \u00c1ngeles",
+                "code": "08301"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Biob\u00edo",
+                "province": "Biob\u00edo",
+                "municipality": "Antuco",
+                "code": "08302"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Biob\u00edo",
+                "province": "Biob\u00edo",
+                "municipality": "Cabrero",
+                "code": "08303"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Biob\u00edo",
+                "province": "Biob\u00edo",
+                "municipality": "Laja",
+                "code": "08304"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Biob\u00edo",
+                "province": "Biob\u00edo",
+                "municipality": "Mulch\u00e9n",
+                "code": "08305"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Biob\u00edo",
+                "province": "Biob\u00edo",
+                "municipality": "Nacimiento",
+                "code": "08306"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Biob\u00edo",
+                "province": "Biob\u00edo",
+                "municipality": "Negrete",
+                "code": "08307"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Biob\u00edo",
+                "province": "Biob\u00edo",
+                "municipality": "Quilaco",
+                "code": "08308"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Biob\u00edo",
+                "province": "Biob\u00edo",
+                "municipality": "Quilleco",
+                "code": "08309"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Biob\u00edo",
+                "province": "Biob\u00edo",
+                "municipality": "San Rosendo",
+                "code": "08310"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Biob\u00edo",
+                "province": "Biob\u00edo",
+                "municipality": "Santa B\u00e1rbara",
+                "code": "08311"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Biob\u00edo",
+                "province": "Biob\u00edo",
+                "municipality": "Tucapel",
+                "code": "08312"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Biob\u00edo",
+                "province": "Biob\u00edo",
+                "municipality": "Yumbel",
+                "code": "08313"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n del Biob\u00edo",
+                "province": "Biob\u00edo",
+                "municipality": "Alto Biob\u00edo",
+                "code": "08314"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de la Araucan\u00eda",
+                "province": "Caut\u00edn",
+                "municipality": "Temuco",
+                "code": "09101"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de la Araucan\u00eda",
+                "province": "Caut\u00edn",
+                "municipality": "Carahue",
+                "code": "09102"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de la Araucan\u00eda",
+                "province": "Caut\u00edn",
+                "municipality": "Cunco",
+                "code": "09103"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de la Araucan\u00eda",
+                "province": "Caut\u00edn",
+                "municipality": "Curarrehue",
+                "code": "09104"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de la Araucan\u00eda",
+                "province": "Caut\u00edn",
+                "municipality": "Freire",
+                "code": "09105"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de la Araucan\u00eda",
+                "province": "Caut\u00edn",
+                "municipality": "Galvarino",
+                "code": "09106"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de la Araucan\u00eda",
+                "province": "Caut\u00edn",
+                "municipality": "Gorbea",
+                "code": "09107"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de la Araucan\u00eda",
+                "province": "Caut\u00edn",
+                "municipality": "Lautaro",
+                "code": "09108"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de la Araucan\u00eda",
+                "province": "Caut\u00edn",
+                "municipality": "Loncoche",
+                "code": "09109"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de la Araucan\u00eda",
+                "province": "Caut\u00edn",
+                "municipality": "Melipeuco",
+                "code": "09110"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de la Araucan\u00eda",
+                "province": "Caut\u00edn",
+                "municipality": "Nueva Imperial",
+                "code": "09111"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de la Araucan\u00eda",
+                "province": "Caut\u00edn",
+                "municipality": "Padre Las Casas",
+                "code": "09112"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de la Araucan\u00eda",
+                "province": "Caut\u00edn",
+                "municipality": "Perquenco",
+                "code": "09113"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de la Araucan\u00eda",
+                "province": "Caut\u00edn",
+                "municipality": "Pitrufqu\u00e9n",
+                "code": "09114"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de la Araucan\u00eda",
+                "province": "Caut\u00edn",
+                "municipality": "Puc\u00f3n",
+                "code": "09115"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de la Araucan\u00eda",
+                "province": "Caut\u00edn",
+                "municipality": "Saavedra",
+                "code": "09116"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de la Araucan\u00eda",
+                "province": "Caut\u00edn",
+                "municipality": "Teodoro Schmidt",
+                "code": "09117"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de la Araucan\u00eda",
+                "province": "Caut\u00edn",
+                "municipality": "Tolt\u00e9n",
+                "code": "09118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de la Araucan\u00eda",
+                "province": "Caut\u00edn",
+                "municipality": "Vilc\u00fan",
+                "code": "09119"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de la Araucan\u00eda",
+                "province": "Caut\u00edn",
+                "municipality": "Villarrica",
+                "code": "09120"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de la Araucan\u00eda",
+                "province": "Caut\u00edn",
+                "municipality": "Cholchol",
+                "code": "09121"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de la Araucan\u00eda",
+                "province": "Malleco",
+                "municipality": "Angol",
+                "code": "09201"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de la Araucan\u00eda",
+                "province": "Malleco",
+                "municipality": "Collipulli",
+                "code": "09202"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de la Araucan\u00eda",
+                "province": "Malleco",
+                "municipality": "Curacaut\u00edn",
+                "code": "09203"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de la Araucan\u00eda",
+                "province": "Malleco",
+                "municipality": "Ercilla",
+                "code": "09204"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de la Araucan\u00eda",
+                "province": "Malleco",
+                "municipality": "Lonquimay",
+                "code": "09205"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de la Araucan\u00eda",
+                "province": "Malleco",
+                "municipality": "Los Sauces",
+                "code": "09206"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de la Araucan\u00eda",
+                "province": "Malleco",
+                "municipality": "Lumaco",
+                "code": "09207"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de la Araucan\u00eda",
+                "province": "Malleco",
+                "municipality": "Pur\u00e9n",
+                "code": "09208"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de la Araucan\u00eda",
+                "province": "Malleco",
+                "municipality": "Renaico",
+                "code": "09209"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de la Araucan\u00eda",
+                "province": "Malleco",
+                "municipality": "Traigu\u00e9n",
+                "code": "09210"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de la Araucan\u00eda",
+                "province": "Malleco",
+                "municipality": "Victoria",
+                "code": "09211"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de los R\u00edos",
+                "province": "Valdivia",
+                "municipality": "Valdivia",
+                "code": "14101"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de los R\u00edos",
+                "province": "Valdivia",
+                "municipality": "Corral",
+                "code": "14102"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de los R\u00edos",
+                "province": "Valdivia",
+                "municipality": "Lanco",
+                "code": "14103"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de los R\u00edos",
+                "province": "Valdivia",
+                "municipality": "Los Lagos",
+                "code": "14104"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de los R\u00edos",
+                "province": "Valdivia",
+                "municipality": "M\u00e1fil",
+                "code": "14105"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de los R\u00edos",
+                "province": "Valdivia",
+                "municipality": "Mariquina",
+                "code": "14106"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de los R\u00edos",
+                "province": "Valdivia",
+                "municipality": "Paillaco",
+                "code": "14107"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de los R\u00edos",
+                "province": "Valdivia",
+                "municipality": "Panguipulli",
+                "code": "14108"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de los R\u00edos",
+                "province": "Ranco",
+                "municipality": "La Uni\u00f3n",
+                "code": "14201"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de los R\u00edos",
+                "province": "Ranco",
+                "municipality": "Futrono",
+                "code": "14202"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de los R\u00edos",
+                "province": "Ranco",
+                "municipality": "Lago Ranco",
+                "code": "14203"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de los R\u00edos",
+                "province": "Ranco",
+                "municipality": "R\u00edo Bueno",
+                "code": "14204"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de los Lagos",
+                "province": "Llanquihue",
+                "municipality": "Puerto Montt",
+                "code": "10101"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de los Lagos",
+                "province": "Llanquihue",
+                "municipality": "Calbuco",
+                "code": "10102"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de los Lagos",
+                "province": "Llanquihue",
+                "municipality": "Cocham\u00f3",
+                "code": "10103"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de los Lagos",
+                "province": "Llanquihue",
+                "municipality": "Fresia",
+                "code": "10104"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de los Lagos",
+                "province": "Llanquihue",
+                "municipality": "Frutillar",
+                "code": "10105"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de los Lagos",
+                "province": "Llanquihue",
+                "municipality": "Los Muermos",
+                "code": "10106"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de los Lagos",
+                "province": "Llanquihue",
+                "municipality": "Llanquihue",
+                "code": "10107"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de los Lagos",
+                "province": "Llanquihue",
+                "municipality": "Maull\u00edn",
+                "code": "10108"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de los Lagos",
+                "province": "Llanquihue",
+                "municipality": "Puerto Varas",
+                "code": "10109"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de los Lagos",
+                "province": "Chilo\u00e9",
+                "municipality": "Castro",
+                "code": "10201"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de los Lagos",
+                "province": "Chilo\u00e9",
+                "municipality": "Ancud",
+                "code": "10202"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de los Lagos",
+                "province": "Chilo\u00e9",
+                "municipality": "Chonchi",
+                "code": "10203"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de los Lagos",
+                "province": "Chilo\u00e9",
+                "municipality": "Curaco de V\u00e9lez",
+                "code": "10204"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de los Lagos",
+                "province": "Chilo\u00e9",
+                "municipality": "Dalcahue",
+                "code": "10205"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de los Lagos",
+                "province": "Chilo\u00e9",
+                "municipality": "Puqueld\u00f3n",
+                "code": "10206"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de los Lagos",
+                "province": "Chilo\u00e9",
+                "municipality": "Queil\u00e9n",
+                "code": "10207"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de los Lagos",
+                "province": "Chilo\u00e9",
+                "municipality": "Quell\u00f3n",
+                "code": "10208"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de los Lagos",
+                "province": "Chilo\u00e9",
+                "municipality": "Quemchi",
+                "code": "10209"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de los Lagos",
+                "province": "Chilo\u00e9",
+                "municipality": "Quinchao",
+                "code": "10210"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de los Lagos",
+                "province": "Osorno",
+                "municipality": "Osorno",
+                "code": "10301"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de los Lagos",
+                "province": "Osorno",
+                "municipality": "Puerto Octay",
+                "code": "10302"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de los Lagos",
+                "province": "Osorno",
+                "municipality": "Purranque",
+                "code": "10303"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de los Lagos",
+                "province": "Osorno",
+                "municipality": "Puyehue",
+                "code": "10304"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de los Lagos",
+                "province": "Osorno",
+                "municipality": "R\u00edo Negro",
+                "code": "10305"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de los Lagos",
+                "province": "Osorno",
+                "municipality": "San Juan de la Costa",
+                "code": "10306"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de los Lagos",
+                "province": "Osorno",
+                "municipality": "San Pablo",
+                "code": "10307"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de los Lagos",
+                "province": "Palena",
+                "municipality": "Chait\u00e9n",
+                "code": "10401"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de los Lagos",
+                "province": "Palena",
+                "municipality": "Futaleuf\u00fa",
+                "code": "10402"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de los Lagos",
+                "province": "Palena",
+                "municipality": "Hualaihu\u00e9",
+                "code": "10403"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de los Lagos",
+                "province": "Palena",
+                "municipality": "Palena",
+                "code": "10404"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Ais\u00e9n del Gral. Carlos Iba\u00f1ez del Campo",
+                "province": "Coyhaique",
+                "municipality": "Coihaique",
+                "code": "11101"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Ais\u00e9n del Gral. Carlos Iba\u00f1ez del Campo",
+                "province": "Coyhaique",
+                "municipality": "Lago Verde",
+                "code": "11102"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Ais\u00e9n del Gral. Carlos Iba\u00f1ez del Campo",
+                "province": "Ais\u00e9n",
+                "municipality": "Ais\u00e9n",
+                "code": "11201"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Ais\u00e9n del Gral. Carlos Iba\u00f1ez del Campo",
+                "province": "Ais\u00e9n",
+                "municipality": "Cisnes",
+                "code": "11202"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Ais\u00e9n del Gral. Carlos Iba\u00f1ez del Campo",
+                "province": "Ais\u00e9n",
+                "municipality": "Guaitecas",
+                "code": "11203"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Ais\u00e9n del Gral. Carlos Iba\u00f1ez del Campo",
+                "province": "Capit\u00e1n Pratt",
+                "municipality": "Cochrane",
+                "code": "11301"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Ais\u00e9n del Gral. Carlos Iba\u00f1ez del Campo",
+                "province": "Capit\u00e1n Pratt",
+                "municipality": "O'Higgins",
+                "code": "11302"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Ais\u00e9n del Gral. Carlos Iba\u00f1ez del Campo",
+                "province": "Capit\u00e1n Pratt",
+                "municipality": "Tortel",
+                "code": "11303"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Ais\u00e9n del Gral. Carlos Iba\u00f1ez del Campo",
+                "province": "General Carrera",
+                "municipality": "Chile Chico",
+                "code": "11401"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Ais\u00e9n del Gral. Carlos Iba\u00f1ez del Campo",
+                "province": "General Carrera",
+                "municipality": "R\u00edo Ib\u00e1\u00f1ez",
+                "code": "11402"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena",
+                "province": "Magallanes",
+                "municipality": "Punta Arenas",
+                "code": "12101"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena",
+                "province": "Magallanes",
+                "municipality": "Laguna Blanca",
+                "code": "12102"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena",
+                "province": "Magallanes",
+                "municipality": "R\u00edo Verde",
+                "code": "12103"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena",
+                "province": "Magallanes",
+                "municipality": "San Gregorio",
+                "code": "12104"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena",
+                "province": "Ant\u00e1rtica Chilena",
+                "municipality": "Cabo de Hornos",
+                "code": "12201"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena",
+                "province": "Ant\u00e1rtica Chilena",
+                "municipality": "Ant\u00e1rtica",
+                "code": "12202"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena",
+                "province": "Tierra del Fuego",
+                "municipality": "Porvenir",
+                "code": "12301"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena",
+                "province": "Tierra del Fuego",
+                "municipality": "Primavera",
+                "code": "12302"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena",
+                "province": "Tierra del Fuego",
+                "municipality": "Timaukel",
+                "code": "12303"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena",
+                "province": "\u00daltima Esperanza",
+                "municipality": "Natales",
+                "code": "12401"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena",
+                "province": "\u00daltima Esperanza",
+                "municipality": "Torres del Paine",
+                "code": "12402"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Santiago",
+                "municipality": "Santiago",
+                "code": "13101"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Santiago",
+                "municipality": "Cerrillos",
+                "code": "13102"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Santiago",
+                "municipality": "Cerro Navia",
+                "code": "13103"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Santiago",
+                "municipality": "Conchal\u00ed",
+                "code": "13104"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Santiago",
+                "municipality": "El Bosque",
+                "code": "13105"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Santiago",
+                "municipality": "Estaci\u00f3n Central",
+                "code": "13106"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Santiago",
+                "municipality": "Huechuraba",
+                "code": "13107"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Santiago",
+                "municipality": "Independencia",
+                "code": "13108"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Santiago",
+                "municipality": "La Cisterna",
+                "code": "13109"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Santiago",
+                "municipality": "La Florida",
+                "code": "13110"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Santiago",
+                "municipality": "La Granja",
+                "code": "13111"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Santiago",
+                "municipality": "La Pintana",
+                "code": "13112"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Santiago",
+                "municipality": "La Reina",
+                "code": "13113"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Santiago",
+                "municipality": "Las Condes",
+                "code": "13114"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Santiago",
+                "municipality": "Lo Barnechea",
+                "code": "13115"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Santiago",
+                "municipality": "Lo Espejo",
+                "code": "13116"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Santiago",
+                "municipality": "Lo Prado",
+                "code": "13117"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Santiago",
+                "municipality": "Macul",
+                "code": "13118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Santiago",
+                "municipality": "Maip\u00fa",
+                "code": "13119"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Santiago",
+                "municipality": "\u00d1u\u00f1oa",
+                "code": "13120"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Santiago",
+                "municipality": "Pedro Aguirre Cerda",
+                "code": "13121"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Santiago",
+                "municipality": "Pe\u00f1alol\u00e9n",
+                "code": "13122"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Santiago",
+                "municipality": "Providencia",
+                "code": "13123"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Santiago",
+                "municipality": "Pudahuel",
+                "code": "13124"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Santiago",
+                "municipality": "Quilicura",
+                "code": "13125"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Santiago",
+                "municipality": "Quinta Normal",
+                "code": "13126"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Santiago",
+                "municipality": "Recoleta",
+                "code": "13127"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Santiago",
+                "municipality": "Renca",
+                "code": "13128"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Santiago",
+                "municipality": "San Joaqu\u00edn",
+                "code": "13129"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Santiago",
+                "municipality": "San Miguel",
+                "code": "13130"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Santiago",
+                "municipality": "San Ram\u00f3n",
+                "code": "13131"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Santiago",
+                "municipality": "Vitacura",
+                "code": "13132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Cordillera",
+                "municipality": "Puente Alto",
+                "code": "13201"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Cordillera",
+                "municipality": "Pirque",
+                "code": "13202"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Cordillera",
+                "municipality": "San Jos\u00e9 de Maipo",
+                "code": "13203"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Chacabuco",
+                "municipality": "Colina",
+                "code": "13301"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Chacabuco",
+                "municipality": "Lampa",
+                "code": "13302"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Chacabuco",
+                "municipality": "Tiltil",
+                "code": "13303"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Maipo",
+                "municipality": "San Bernardo",
+                "code": "13401"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Maipo",
+                "municipality": "Buin",
+                "code": "13402"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Maipo",
+                "municipality": "Calera de Tango",
+                "code": "13403"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Maipo",
+                "municipality": "Paine",
+                "code": "13404"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Mellipilla",
+                "municipality": "Melipilla",
+                "code": "13501"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Mellipilla",
+                "municipality": "Alhu\u00e9",
+                "code": "13502"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Mellipilla",
+                "municipality": "Curacav\u00ed",
+                "code": "13503"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Mellipilla",
+                "municipality": "Mar\u00eda Pinto",
+                "code": "13504"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Mellipilla",
+                "municipality": "San Pedro",
+                "code": "13505"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Talagante",
+                "municipality": "Talagante",
+                "code": "13601"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Talagante",
+                "municipality": "El Monte",
+                "code": "13602"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Talagante",
+                "municipality": "Isla de Maipo",
+                "code": "13603"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Talagante",
+                "municipality": "Padre Hurtado",
+                "code": "13604"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "region": "Regi\u00f3n Metropolitana de Santiago",
+                "province": "Talagante",
+                "municipality": "Pe\u00f1aflor",
+                "code": "13605"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            }
+        }
+    ]
+}
