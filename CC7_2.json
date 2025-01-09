@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "description": "Choropleth map of Santiago, Chile with population data.",
+  "title": "Map of Chile's population by municipality (2017)",
   "background": "white",
   "data": {
     "url": "https://raw.githubusercontent.com/AntoniaDahuabe/AntoniaDahuabe.github.io/refs/heads/main/chile_municipalities.geojson",
@@ -28,6 +28,10 @@
     {
       "calculate": "isValid(datum.Habitantes) ? toNumber(replace(datum.Habitantes, /\\D/g, '')) : 0",
       "as": "Habitantes"
+    },
+    {
+      "calculate": "datum.Habitantes === 0 ? 'No information' : format(datum.Habitantes, ',')",
+      "as": "HabitantesDisplay"
     }
   ],
   "projection": {
@@ -39,19 +43,20 @@
   "mark": {"type": "geoshape", "stroke": "black", "strokeWidth": 0.1},
   "encoding": {
     "color": {
-      "condition": {
-        "test": "datum.Habitantes > 0",
-        "field": "Habitantes",
-        "type": "quantitative",
-        "scale": {"scheme": "blues"}
+      "condition": {"test": "datum.Habitantes === 0", "value": "lightgray"},
+      "field": "Habitantes",
+      "type": "quantitative",
+      "scale": {
+        "scheme": "lightmulti",
+        "reverse": false,
+        "domain": [0, 100000, 200000, 300000, 400000, 500000]
       },
-      "value": "gray"
+      "legend": {"title": "Population"}
     },
     "tooltip": [
       {"field": "properties.Comuna", "title": "Municipality"},
-      {"field": "NormalizedComuna", "title": "Normalized Comuna"},
-      {"field": "Habitantes", "title": "Population"},
-      {"field": "NormalizedName", "title": "Normalized Name"}
+      {"field": "properties.Region", "title": "Region"},
+      {"field": "HabitantesDisplay", "title": "Population"}
     ]
   },
   "config": {
