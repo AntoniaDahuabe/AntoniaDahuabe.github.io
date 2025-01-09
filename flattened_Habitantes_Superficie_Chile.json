@@ -1,0 +1,3116 @@
+[
+  {
+    "name": "Arica",
+    "Habitantes": "229.689 ",
+    "Superficie": "4.799 km²",
+    "code": "15101",
+    "lng": "-70.3144444",
+    "lat": "-18.4750000",
+    "NormalizedName": "arica"
+  },
+  {
+    "name": "Camarones",
+    "Habitantes": "1.220",
+    "Superficie": "3.927 km²",
+    "code": "15102",
+    "lng": "-69.8666667",
+    "lat": "-19.0166667",
+    "NormalizedName": "camarones"
+  },
+  {
+    "name": "Putre",
+    "Habitantes": "1.462",
+    "Superficie": "5.902 km²",
+    "code": "15201",
+    "lng": "-69.5977778",
+    "lat": "-18.1916667",
+    "NormalizedName": "putre"
+  },
+  {
+    "name": "General Lagos",
+    "Habitantes": "1.179",
+    "Superficie": "2.244 km²",
+    "code": "15202",
+    "lng": "-69.5000000",
+    "lat": "-17.5666667",
+    "NormalizedName": "general lagos"
+  },
+  {
+    "name": "Iquique",
+    "Habitantes": "196.562",
+    "Superficie": "2.242 km²",
+    "code": "01101",
+    "lng": "-70.1666667",
+    "lat": "-20.2166667",
+    "NormalizedName": "iquique"
+  },
+  {
+    "name": "Alto Hospicio",
+    "Habitantes": "124.877",
+    "Superficie": "572,9 km²",
+    "code": "01102",
+    "lng": "-70.1166667",
+    "lat": "-20.2500000",
+    "NormalizedName": "alto hospicio"
+  },
+  {
+    "name": "Pozo Almonte",
+    "Habitantes": "14.366",
+    "Superficie": "13.766 km²",
+    "code": "01201",
+    "lng": "-69.7833333",
+    "lat": "-20.2666667",
+    "NormalizedName": "pozo almonte"
+  },
+  {
+    "name": "Camiña",
+    "Habitantes": "1.275",
+    "Superficie": "2.200 km²",
+    "code": "01402",
+    "lng": "-69.4166667",
+    "lat": "-19.3000000",
+    "NormalizedName": "camina"
+  },
+  {
+    "name": "Colchane",
+    "Habitantes": "1.629",
+    "Superficie": "4016 km²",
+    "code": "01403",
+    "lng": "-68.6166667",
+    "lat": "-19.2666667",
+    "NormalizedName": "colchane"
+  },
+  {
+    "name": "Huara",
+    "Habitantes": "2.599",
+    "Superficie": "10.475 km²",
+    "code": "01404",
+    "lng": "-69.7666667",
+    "lat": "-19.9666667",
+    "NormalizedName": "huara"
+  },
+  {
+    "name": "Pica",
+    "Habitantes": "9.296",
+    "Superficie": "8.934 km²",
+    "code": "01405",
+    "lng": "-69.3333333",
+    "lat": "-20.5000000",
+    "NormalizedName": "pica"
+  },
+  {
+    "name": "Antofagasta",
+    "Habitantes": "423.531",
+    "Superficie": "30.718 km²",
+    "code": "02101",
+    "lng": "-69.3333333",
+    "lat": "-20.5000000",
+    "NormalizedName": "antofagasta"
+  },
+  {
+    "name": "Mejillones",
+    "Habitantes": "13.467",
+    "Superficie": "3.804 km²",
+    "code": "02102",
+    "lng": "-70.4500000",
+    "lat": "-23.1000000",
+    "NormalizedName": "mejillones"
+  },
+  {
+    "name": "Sierra Gorda",
+    "Habitantes": "10.186",
+    "Superficie": "12.886 km²",
+    "code": "02103",
+    "lng": "-69.3166667",
+    "lat": "-22.8833333",
+    "NormalizedName": "sierra gorda"
+  },
+  {
+    "name": "Taltal",
+    "Habitantes": "13.317",
+    "Superficie": "20.405 km²",
+    "code": "02104",
+    "lng": "-69.7666667",
+    "lat": "-25.2833333",
+    "NormalizedName": "taltal"
+  },
+  {
+    "name": "Calama",
+    "Habitantes": "182.144",
+    "Superficie": "15.597 km²",
+    "code": "02201",
+    "lng": "-68.9166667",
+    "lat": "-22.4666667",
+    "NormalizedName": "calama"
+  },
+  {
+    "name": "Ollagüe",
+    "Habitantes": "332",
+    "Superficie": "2.964 km²",
+    "code": "02202",
+    "lng": "-68.9166667",
+    "lat": "-22.4666667",
+    "NormalizedName": "ollague"
+  },
+  {
+    "name": "San Pedro de Atacama",
+    "Habitantes": "4.969",
+    "Superficie": "23.439 km²",
+    "code": "02203",
+    "lng": "-68.2166667",
+    "lat": "-22.9166667",
+    "NormalizedName": "san pedro de atacama"
+  },
+  {
+    "name": "Tocopilla",
+    "Habitantes": "28.727",
+    "Superficie": "4.039 km²",
+    "code": "02301",
+    "lng": "-70.2000000",
+    "lat": "-22.0666667",
+    "NormalizedName": "tocopilla"
+  },
+  {
+    "name": "María Elena",
+    "Habitantes": "7.530",
+    "Superficie": "12.197 km²",
+    "code": "02302",
+    "lng": "-69.6666667",
+    "lat": "-22.3500000",
+    "NormalizedName": "maria elena"
+  },
+  {
+    "name": "Copiapó",
+    "Habitantes": "190.027",
+    "Superficie": "16.681 km²",
+    "code": "03101",
+    "lng": "-70.3166667",
+    "lat": "-27.3666667",
+    "NormalizedName": "copiapo"
+  },
+  {
+    "name": "Caldera",
+    "Habitantes": "14.719",
+    "Superficie": "4.667 km²",
+    "code": "03102",
+    "lng": "-70.8166667",
+    "lat": "-27.0666667",
+    "NormalizedName": "caldera"
+  },
+  {
+    "name": "Tierra Amarilla",
+    "Habitantes": "15.725",
+    "Superficie": "11.191 km²",
+    "code": "03103",
+    "lng": "-70.2666667",
+    "lat": "-27.4666667",
+    "NormalizedName": "tierra amarilla"
+  },
+  {
+    "name": "Chañaral",
+    "Habitantes": "13.410",
+    "Superficie": "5.772 km²",
+    "code": "03201",
+    "lng": "-70.6000000",
+    "lat": "-26.3333333",
+    "NormalizedName": "chanaral"
+  },
+  {
+    "name": "Diego de Almagro",
+    "Habitantes": "18.664",
+    "Superficie": "18.589 km²",
+    "code": "03202",
+    "lng": "-70.0500000",
+    "lat": "-26.3666667",
+    "NormalizedName": "diego de almagro"
+  },
+  {
+    "name": "Vallenar",
+    "Habitantes": "50.346",
+    "Superficie": "7.084 km²",
+    "code": "03301",
+    "lng": "-70.7500000",
+    "lat": "-28.5666667",
+    "NormalizedName": "vallenar"
+  },
+  {
+    "name": "Alto del Carmen",
+    "Habitantes": "4.840",
+    "Superficie": "5.939 km²",
+    "code": "03302",
+    "lng": "-70.4622222",
+    "lat": "-28.9336111",
+    "NormalizedName": "alto del carmen"
+  },
+  {
+    "name": "Freirina",
+    "Habitantes": "3.469",
+    "Superficie": "3.207 km²",
+    "code": "03303",
+    "lng": "-71.0666667",
+    "lat": "-28.5000000",
+    "NormalizedName": "freirina"
+  },
+  {
+    "name": "Huasco",
+    "Habitantes": "7.490",
+    "Superficie": "1.601 km²",
+    "code": "03304",
+    "lng": "-71.2166667",
+    "lat": "-28.4500000",
+    "NormalizedName": "huasco"
+  },
+  {
+    "name": "La Serena",
+    "Habitantes": "470.357",
+    "Superficie": "129 km²",
+    "code": "04101",
+    "lng": "-71.2500000",
+    "lat": "-29.9000000",
+    "NormalizedName": "la serena"
+  },
+  {
+    "name": "Coquimbo",
+    "Habitantes": "216.623",
+    "Superficie": "1.429 km²",
+    "code": "04102",
+    "lng": "-71.3333333",
+    "lat": "-29.9500000",
+    "NormalizedName": "coquimbo"
+  },
+  {
+    "name": "Andacollo",
+    "Habitantes": "10.288",
+    "Superficie": "310 km²",
+    "code": "04103",
+    "lng": "-71.0833333",
+    "lat": "-30.2166667",
+    "NormalizedName": "andacollo"
+  },
+  {
+    "name": "La Higuera",
+    "Habitantes": "3.892",
+    "Superficie": "4.158 km²",
+    "code": "04104",
+    "lng": "-71.2666667",
+    "lat": "-29.5000000",
+    "NormalizedName": "la higuera"
+  },
+  {
+    "name": "Paihuano",
+    "Habitantes": "4.168",
+    "Superficie": "1.495 km²",
+    "code": "04105",
+    "lng": "-70.5166667",
+    "lat": "-30.0166667",
+    "NormalizedName": "paihuano"
+  },
+  {
+    "name": "Vicuña",
+    "Habitantes": "29.741",
+    "Superficie": "7.694 km²",
+    "code": "04106",
+    "lng": "-70.7000000",
+    "lat": "-30.0166667",
+    "NormalizedName": "vicuna"
+  },
+  {
+    "name": "Illapel",
+    "Habitantes": "31.304",
+    "Superficie": "2.629 km²",
+    "code": "04201",
+    "lng": "-71.1500000",
+    "lat": "-31.6166667",
+    "NormalizedName": "illapel"
+  },
+  {
+    "name": "Canela",
+    "Habitantes": "8.955",
+    "Superficie": "2.197 km²",
+    "code": "04202",
+    "lng": "-71.4500000",
+    "lat": "-31.4000000",
+    "NormalizedName": "canela"
+  },
+  {
+    "name": "Los Vilos",
+    "Habitantes": "23.374",
+    "Superficie": "1.824 km²",
+    "code": "04203",
+    "lng": "-71.5166667",
+    "lat": "-31.9000000",
+    "NormalizedName": "los vilos"
+  },
+  {
+    "name": "Salamanca",
+    "Habitantes": "29.347",
+    "Superficie": "3.445 km²",
+    "code": "04204",
+    "lng": "-70.9666667",
+    "lat": "-31.7666667",
+    "NormalizedName": "salamanca"
+  },
+  {
+    "name": "Ovalle",
+    "Habitantes": "89.333",
+    "Superficie": "3.835 km²",
+    "code": "04301",
+    "lng": "-71.2000000",
+    "lat": "-30.5833333",
+    "NormalizedName": "ovalle"
+  },
+  {
+    "name": "Combarbalá",
+    "Habitantes": "13.322",
+    "Superficie": "2.258 km²",
+    "code": "04302",
+    "lng": "-71.0500000",
+    "lat": "-31.1666667",
+    "NormalizedName": "combarbala"
+  },
+  {
+    "name": "Monte Patria",
+    "Habitantes": "31.714",
+    "Superficie": "4.337 km²",
+    "code": "04303",
+    "lng": "-70.9333333",
+    "lat": "-30.6833333",
+    "NormalizedName": "monte patria"
+  },
+  {
+    "name": "Punitaqui",
+    "Habitantes": "10.719",
+    "Superficie": "1.339 km²",
+    "code": "04304",
+    "lng": "-71.2666667",
+    "lat": "-30.9000000",
+    "NormalizedName": "punitaqui"
+  },
+  {
+    "name": "Río Hurtado",
+    "Habitantes": "4049",
+    "Superficie": "2.180 km²",
+    "code": "04305",
+    "lng": "-70.7000000",
+    "lat": "-30.2666667",
+    "NormalizedName": "rio hurtado"
+  },
+  {
+    "name": "Valparaíso",
+    "Habitantes": "295.113",
+    "Superficie": "402 km²",
+    "code": "05101",
+    "lng": "-71.6163889",
+    "lat": "-33.0458333",
+    "NormalizedName": "valparaiso"
+  },
+  {
+    "name": "Casablanca",
+    "Habitantes": "21.874",
+    "Superficie": "953 km²",
+    "code": "05102",
+    "lng": "-71.4166667",
+    "lat": "-33.3166667",
+    "NormalizedName": "casablanca"
+  },
+  {
+    "name": "Concón",
+    "Habitantes": "42.152",
+    "Superficie": "76 km²",
+    "code": "05103",
+    "lng": "-71.5166667",
+    "lat": "-32.9166667",
+    "NormalizedName": "concon"
+  },
+  {
+    "name": "Juan Fernández",
+    "Habitantes": "598",
+    "Superficie": "149 km²",
+    "code": "05104",
+    "lng": "-78.8666667",
+    "lat": "-33.6166667",
+    "NormalizedName": "juan fernandez"
+  },
+  {
+    "name": "Puchuncaví",
+    "Habitantes": "18.546",
+    "Superficie": "300 km²",
+    "code": "05105",
+    "lng": "-71.4166667",
+    "lat": "-32.7333333",
+    "NormalizedName": "puchuncavi"
+  },
+  {
+    "name": "Quintero",
+    "Habitantes": "21.144",
+    "Superficie": "148 km²",
+    "code": "05107",
+    "lng": "-71.5333333",
+    "lat": "-32.7833333",
+    "NormalizedName": "quintero"
+  },
+  {
+    "name": "Viña del Mar",
+    "Habitantes": "361.371",
+    "Superficie": "122 km²",
+    "code": "05109",
+    "lng": "-71.5333333",
+    "lat": "-33.0333333",
+    "NormalizedName": "vina del mar"
+  },
+  {
+    "name": "Isla de Pascua",
+    "Habitantes": "8.277",
+    "Superficie": "163,6 km²",
+    "code": "05201",
+    "lng": "-109.3750000",
+    "lat": "-27.0833333",
+    "NormalizedName": "isla de pascua"
+  },
+  {
+    "name": "Los Andes",
+    "Habitantes": "66.708",
+    "Superficie": "1.248 km²",
+    "code": "05301",
+    "lng": "-70.6166667",
+    "lat": "-32.8166667",
+    "NormalizedName": "los andes"
+  },
+  {
+    "name": "Calle Larga",
+    "Habitantes": "66.708",
+    "Superficie": "1.248 km²",
+    "code": "05302",
+    "lng": "-70.6333333",
+    "lat": "-32.8500000",
+    "NormalizedName": "calle larga"
+  },
+  {
+    "name": "Rinconada",
+    "Habitantes": "7.481",
+    "Superficie": "123 km²",
+    "code": "05303",
+    "lng": "-70.7000000",
+    "lat": "-32.8333333",
+    "NormalizedName": "rinconada"
+  },
+  {
+    "name": "San Esteban",
+    "Habitantes": "18.855",
+    "Superficie": "1.362 km²",
+    "code": "05304",
+    "lng": "-70.5833333",
+    "lat": "-32.8000000",
+    "NormalizedName": "san esteban"
+  },
+  {
+    "name": "La Ligua",
+    "Habitantes": "35.390",
+    "Superficie": "1.163 km²",
+    "code": "05401",
+    "lng": "-71.2166667",
+    "lat": "-32.4500000",
+    "NormalizedName": "la ligua"
+  },
+  {
+    "name": "Cabildo",
+    "Habitantes": "19.388",
+    "Superficie": "1.455 km²",
+    "code": "05402",
+    "lng": "-71.1333333",
+    "lat": "-32.4166667",
+    "NormalizedName": "cabildo"
+  },
+  {
+    "name": "Papudo",
+    "Habitantes": "6.356",
+    "Superficie": "64,27 km²",
+    "code": "05403",
+    "lng": "-71.4500000",
+    "lat": "-32.5166667",
+    "NormalizedName": "papudo"
+  },
+  {
+    "name": "Petorca",
+    "Habitantes": "9.826",
+    "Superficie": "1.517 km²",
+    "code": "05404",
+    "lng": "-70.9333333",
+    "lat": "-32.2500000",
+    "NormalizedName": "petorca"
+  },
+  {
+    "name": "Zapallar",
+    "Habitantes": "7.339",
+    "Superficie": "288 km²",
+    "code": "05405",
+    "lng": "-71.4666667",
+    "lat": "-32.5333333",
+    "NormalizedName": "zapallar"
+  },
+  {
+    "name": "Quillota",
+    "Habitantes": "90.517",
+    "Superficie": "302 km²",
+    "code": "05501",
+    "lng": "-71.2666667",
+    "lat": "-32.8833333",
+    "NormalizedName": "quillota"
+  },
+  {
+    "name": "La Calera",
+    "Habitantes": "50.554",
+    "Superficie": "60,5 km²",
+    "code": "05502",
+    "lng": "-71.2166667",
+    "lat": "-32.7833333",
+    "NormalizedName": "la calera"
+  },
+  {
+    "name": "Hijuelas",
+    "Habitantes": "17.988",
+    "Superficie": "267 km²",
+    "code": "05503",
+    "lng": "-71.1666667",
+    "lat": "-32.8000000",
+    "NormalizedName": "hijuelas"
+  },
+  {
+    "name": "La Cruz",
+    "Habitantes": "22.098",
+    "Superficie": "78 km²",
+    "code": "05504",
+    "lng": "-71.2333333",
+    "lat": "-32.8166667",
+    "NormalizedName": "la cruz"
+  },
+  {
+    "name": "Nogales",
+    "Habitantes": "22.120",
+    "Superficie": "405 km²",
+    "code": "05506",
+    "lng": "-71.2333333",
+    "lat": "-32.7166667",
+    "NormalizedName": "nogales"
+  },
+  {
+    "name": "San Antonio",
+    "Habitantes": "91.350",
+    "Superficie": "405 km²",
+    "code": "05601",
+    "lng": "-71.6166667",
+    "lat": "-33.6000000",
+    "NormalizedName": "san antonio"
+  },
+  {
+    "name": "Algarrobo",
+    "Habitantes": "13.817",
+    "Superficie": "176 km²",
+    "code": "05602",
+    "lng": "-71.6927778",
+    "lat": "-33.3911111",
+    "NormalizedName": "algarrobo"
+  },
+  {
+    "name": "Cartagena",
+    "Habitantes": "22.738",
+    "Superficie": "246 km²",
+    "code": "05603",
+    "lng": "-71.6000000",
+    "lat": "-33.5500000",
+    "NormalizedName": "cartagena"
+  },
+  {
+    "name": "El Quisco",
+    "Habitantes": "15.955",
+    "Superficie": "51 km²",
+    "code": "05604",
+    "lng": "-71.7000000",
+    "lat": "-33.4000000",
+    "NormalizedName": "el quisco"
+  },
+  {
+    "name": "El Tabo",
+    "Habitantes": "13.286",
+    "Superficie": "99 km²",
+    "code": "05605",
+    "lng": "-71.6666667",
+    "lat": "-33.4500000",
+    "NormalizedName": "el tabo"
+  },
+  {
+    "name": "Santo Domingo",
+    "Habitantes": "10.900",
+    "Superficie": "536 km²",
+    "code": "05606",
+    "lng": "-71.6500000",
+    "lat": "-33.6333333",
+    "NormalizedName": "santo domingo"
+  },
+  {
+    "name": "San Felipe",
+    "Habitantes": "76.844",
+    "Superficie": "186 km²",
+    "code": "05701",
+    "lng": "-70.7333333",
+    "lat": "-32.7500000",
+    "NormalizedName": "san felipe"
+  },
+  {
+    "name": "Catemu",
+    "Habitantes": "13.998",
+    "Superficie": "361,1 km²",
+    "code": "05702",
+    "lng": "-71.0333333",
+    "lat": "-32.6333333",
+    "NormalizedName": "catemu"
+  },
+  {
+    "name": "Llaillay",
+    "Habitantes": "24.608",
+    "Superficie": "349,1 km²",
+    "code": "05703",
+    "lng": "-70.9666667",
+    "lat": "-32.8500000",
+    "NormalizedName": "llaillay"
+  },
+  {
+    "name": "Panquehue",
+    "Habitantes": "7.273",
+    "Superficie": "122 km²",
+    "code": "05704",
+    "lng": "-70.8333333",
+    "lat": "-32.8000000",
+    "NormalizedName": "panquehue"
+  },
+  {
+    "name": "Putaendo",
+    "Habitantes": "16.754",
+    "Superficie": "1474 km²",
+    "code": "05705",
+    "lng": "-70.7333333",
+    "lat": "-32.6333333",
+    "NormalizedName": "putaendo"
+  },
+  {
+    "name": "Santa María",
+    "Habitantes": "15.241",
+    "Superficie": "166,3 km²",
+    "code": "05706",
+    "lng": "-70.6666667",
+    "lat": "-32.7500000",
+    "NormalizedName": "santa maria"
+  },
+  {
+    "name": "Quilpué",
+    "Habitantes": "151.708",
+    "Superficie": "537 km²",
+    "code": "05801",
+    "lng": "-71.4500000",
+    "lat": "-33.0500000",
+    "NormalizedName": "quilpue"
+  },
+  {
+    "name": "Limache",
+    "Habitantes": "46.121",
+    "Superficie": "294 km²",
+    "code": "05802",
+    "lng": "-71.2833333",
+    "lat": "-32.9833333",
+    "NormalizedName": "limache"
+  },
+  {
+    "name": "Olmué",
+    "Habitantes": "17.516",
+    "Superficie": "232 km²",
+    "code": "05803",
+    "lng": "-71.2000000",
+    "lat": "-33.0000000",
+    "NormalizedName": "olmue"
+  },
+  {
+    "name": "Villa Alemana",
+    "Habitantes": "126.548",
+    "Superficie": "97 km²",
+    "code": "05804",
+    "lng": "-71.3666667",
+    "lat": "-33.0500000",
+    "NormalizedName": "villa alemana"
+  },
+  {
+    "name": "Rancagua",
+    "Habitantes": "241.774",
+    "Superficie": "260 km²",
+    "code": "06101",
+    "lng": "-70.7397222",
+    "lat": "-34.1652778",
+    "NormalizedName": "rancagua"
+  },
+  {
+    "name": "Codegua",
+    "Habitantes": "12.988",
+    "Superficie": "287 km²",
+    "code": "06102",
+    "lng": "-70.6666667",
+    "lat": "-34.0333333",
+    "NormalizedName": "codegua"
+  },
+  {
+    "name": "Coinco",
+    "Habitantes": "7.359",
+    "Superficie": "98 km²",
+    "code": "06103",
+    "lng": "-70.9666667",
+    "lat": "-34.2666667",
+    "NormalizedName": "coinco"
+  },
+  {
+    "name": "Coltauco",
+    "Habitantes": "19.597",
+    "Superficie": "225 km²",
+    "code": "06104",
+    "lng": "-71.0857230",
+    "lat": "34.2872290",
+    "NormalizedName": "coltauco"
+  },
+  {
+    "name": "Doñihue",
+    "Habitantes": "20.887",
+    "Superficie": "78 km²",
+    "code": "06105",
+    "lng": "-70.9666667",
+    "lat": "-34.2333333",
+    "NormalizedName": "donihue"
+  },
+  {
+    "name": "Graneros",
+    "Habitantes": "33.437",
+    "Superficie": "113 km²",
+    "code": "06106",
+    "lng": "-70.7266667",
+    "lat": "-34.0647222",
+    "NormalizedName": "graneros"
+  },
+  {
+    "name": "Las Cabras",
+    "Habitantes": "24.640",
+    "Superficie": "749 km²",
+    "code": "06107",
+    "lng": "-71.3166667",
+    "lat": "-34.3000000",
+    "NormalizedName": "las cabras"
+  },
+  {
+    "name": "Machalí",
+    "Habitantes": "52.505",
+    "Superficie": "2.597 km²",
+    "code": "06108",
+    "lng": "-70.6511111",
+    "lat": "-34.1825000",
+    "NormalizedName": "machali"
+  },
+  {
+    "name": "Malloa",
+    "Habitantes": "13.407",
+    "Superficie": "113 km²",
+    "code": "06109",
+    "lng": "-70.9500000",
+    "lat": "-34.4500000",
+    "NormalizedName": "malloa"
+  },
+  {
+    "name": "Mostazal",
+    "Habitantes": "25.343",
+    "Superficie": "524 km²",
+    "code": "06110",
+    "lng": "-70.7000000",
+    "lat": "-33.9833333",
+    "NormalizedName": "mostazal"
+  },
+  {
+    "name": "Olivar",
+    "Habitantes": "13.608",
+    "Superficie": "45 km²",
+    "code": "06111",
+    "lng": "-70.8175000",
+    "lat": "-34.2100000",
+    "NormalizedName": "olivar"
+  },
+  {
+    "name": "Peumo",
+    "Habitantes": "14.313",
+    "Superficie": "153 km²",
+    "code": "06112",
+    "lng": "-71.1666667",
+    "lat": "-34.4000000",
+    "NormalizedName": "peumo"
+  },
+  {
+    "name": "Pichidegua",
+    "Habitantes": "19.714",
+    "Superficie": "320 km²",
+    "code": "06113",
+    "lng": "-71.3000000",
+    "lat": "-34.3500000",
+    "NormalizedName": "pichidegua"
+  },
+  {
+    "name": "Quinta de Tilcoco",
+    "Habitantes": "13.002",
+    "Superficie": "93 km²",
+    "code": "06114",
+    "lng": "-70.9833333",
+    "lat": "-34.3500000",
+    "NormalizedName": "quinta de tilcoco"
+  },
+  {
+    "name": "Rengo",
+    "Habitantes": "58.825",
+    "Superficie": "755 km²",
+    "code": "06115",
+    "lng": "-70.8666667",
+    "lat": "-34.4166667",
+    "NormalizedName": "rengo"
+  },
+  {
+    "name": "Requínoa",
+    "Habitantes": "27.968",
+    "Superficie": "673 km²",
+    "code": "06116",
+    "lng": "-70.8333333",
+    "lat": "-34.2833333",
+    "NormalizedName": "requinoa"
+  },
+  {
+    "name": "San Vicente",
+    "Habitantes": "46.766",
+    "Superficie": "498 km²",
+    "code": "06117",
+    "lng": "-71.1333333",
+    "lat": "-34.5000000",
+    "NormalizedName": "san vicente"
+  },
+  {
+    "name": "Pichilemu",
+    "Habitantes": "16.394",
+    "Superficie": "749 km²",
+    "code": "06201",
+    "lng": "-72.0000000",
+    "lat": "-34.3833333",
+    "NormalizedName": "pichilemu"
+  },
+  {
+    "name": "La Estrella",
+    "Habitantes": "3.041",
+    "Superficie": "435 km²",
+    "code": "06202",
+    "lng": "-71.6666667",
+    "lat": "-34.2000000",
+    "NormalizedName": "la estrella"
+  },
+  {
+    "name": "Litueche",
+    "Habitantes": "6.294",
+    "Superficie": "619 km²",
+    "code": "06203",
+    "lng": "-71.7333333",
+    "lat": "-34.1166667",
+    "NormalizedName": "litueche"
+  },
+  {
+    "name": "Marchihue",
+    "Habitantes": "7.308",
+    "Superficie": "660 km²",
+    "code": "06204",
+    "lng": "-71.6333333",
+    "lat": "-34.4000000",
+    "NormalizedName": "marchihue"
+  },
+  {
+    "name": "Navidad",
+    "Habitantes": "6.641",
+    "Superficie": "300 km²",
+    "code": "06205",
+    "lng": "-71.8333333",
+    "lat": "-33.9333333",
+    "NormalizedName": "navidad"
+  },
+  {
+    "name": "Paredones",
+    "Habitantes": "6.188",
+    "Superficie": "562 km²",
+    "code": "06206",
+    "lng": "-71.1666667",
+    "lat": "-34.7833333",
+    "NormalizedName": "paredones"
+  },
+  {
+    "name": "San Fernando",
+    "Habitantes": "73.973",
+    "Superficie": "2.441 km²",
+    "code": "06301",
+    "lng": "-70.9666667",
+    "lat": "-34.5833333",
+    "NormalizedName": "san fernando"
+  },
+  {
+    "name": "Chépica",
+    "Habitantes": "15.037",
+    "Superficie": "503 km²",
+    "code": "06302",
+    "lng": "-71.2833333",
+    "lat": "-34.7333333",
+    "NormalizedName": "chepica"
+  },
+  {
+    "name": "Chimbarongo",
+    "Habitantes": "35.399",
+    "Superficie": "498 km²",
+    "code": "06303",
+    "lng": "-71.0500000",
+    "lat": "-34.7000000",
+    "NormalizedName": "chimbarongo"
+  },
+  {
+    "name": "Lolol",
+    "Habitantes": "6.811",
+    "Superficie": "597 km²",
+    "code": "06304",
+    "lng": "-71.6447222",
+    "lat": "-34.7286111",
+    "NormalizedName": "lolol"
+  },
+  {
+    "name": "Nancagua",
+    "Habitantes": "17.833",
+    "Superficie": "111 km²",
+    "code": "06305",
+    "lng": "-71.2166667",
+    "lat": "-34.6666667",
+    "NormalizedName": "nancagua"
+  },
+  {
+    "name": "Palmilla",
+    "Habitantes": "12.482",
+    "Superficie": "237 km²",
+    "code": "06306",
+    "lng": "-71.3666667",
+    "lat": "-34.6000000",
+    "NormalizedName": "palmilla"
+  },
+  {
+    "name": "Peralillo",
+    "Habitantes": "11.007",
+    "Superficie": "283 km²",
+    "code": "06307",
+    "lng": "-71.4833333",
+    "lat": "-34.4833333",
+    "NormalizedName": "peralillo"
+  },
+  {
+    "name": "Placilla",
+    "Habitantes": "8.738",
+    "Superficie": "147 km²",
+    "code": "06308",
+    "lng": "-71.1166667",
+    "lat": "-34.6333333",
+    "NormalizedName": "placilla"
+  },
+  {
+    "name": "Pumanque",
+    "Habitantes": "3.421",
+    "Superficie": "441 km²",
+    "code": "06309",
+    "lng": "-71.6666667",
+    "lat": "-34.6000000",
+    "NormalizedName": "pumanque"
+  },
+  {
+    "name": "Santa Cruz",
+    "Habitantes": "37.855",
+    "Superficie": "419 km²",
+    "code": "06310",
+    "lng": "-71.3666667",
+    "lat": "-34.6333333",
+    "NormalizedName": "santa cruz"
+  },
+  {
+    "name": "Talca",
+    "Habitantes": "220.357",
+    "Superficie": "232.007 km²",
+    "code": "07101",
+    "lng": "-71.6666667",
+    "lat": "-35.4333333",
+    "NormalizedName": "talca"
+  },
+  {
+    "name": "Constitución",
+    "Habitantes": "46.068",
+    "Superficie": "1.344 km²",
+    "code": "07102",
+    "lng": "-72.4166667",
+    "lat": "-35.3333333",
+    "NormalizedName": "constitucion"
+  },
+  {
+    "name": "Curepto",
+    "Habitantes": "9.448",
+    "Superficie": "1.074 km²",
+    "code": "07103",
+    "lng": "-72.0166667",
+    "lat": "-35.0833333",
+    "NormalizedName": "curepto"
+  },
+  {
+    "name": "Empedrado",
+    "Habitantes": "4.142",
+    "Superficie": "565 km²",
+    "code": "07104",
+    "lng": "-72.2833333",
+    "lat": "-35.6000000",
+    "NormalizedName": "empedrado"
+  },
+  {
+    "name": "Maule",
+    "Habitantes": "49.721",
+    "Superficie": "190 km²",
+    "code": "07105",
+    "lng": "-71.7000000",
+    "lat": "-35.5333333",
+    "NormalizedName": "maule"
+  },
+  {
+    "name": "Pelarco",
+    "Habitantes": "8.422",
+    "Superficie": "332 km²",
+    "code": "07106",
+    "lng": "-71.4500000",
+    "lat": "-35.3833333",
+    "NormalizedName": "pelarco"
+  },
+  {
+    "name": "Pencahue",
+    "Habitantes": "8.245",
+    "Superficie": "957 km²",
+    "code": "07107",
+    "lng": "-71.8166667",
+    "lat": "-35.4000000",
+    "NormalizedName": "pencahue"
+  },
+  {
+    "name": "Río Claro",
+    "Habitantes": "13.906",
+    "Superficie": "430 km²",
+    "code": "07108",
+    "lng": "-71.2666667",
+    "lat": "-35.2833333",
+    "NormalizedName": "rio claro"
+  },
+  {
+    "name": "San Clemente",
+    "Habitantes": "43.269",
+    "Superficie": "4.504 km²",
+    "code": "07109",
+    "lng": "-71.4833333",
+    "lat": "-35.5500000",
+    "NormalizedName": "san clemente"
+  },
+  {
+    "name": "San Rafael",
+    "Habitantes": "9.191",
+    "Superficie": "263 km²",
+    "code": "07110",
+    "lng": "-71.5333333",
+    "lat": "-35.3166667",
+    "NormalizedName": "san rafael"
+  },
+  {
+    "name": "Cauquenes",
+    "Habitantes": "40.441",
+    "Superficie": "2.126 km²",
+    "code": "07201",
+    "lng": "-72.3500000",
+    "lat": "-35.9666667",
+    "NormalizedName": "cauquenes"
+  },
+  {
+    "name": "Chanco",
+    "Habitantes": "8.928",
+    "Superficie": "530 km²",
+    "code": "07202",
+    "lng": "-72.5333333",
+    "lat": "-35.7333333",
+    "NormalizedName": "chanco"
+  },
+  {
+    "name": "Pelluhue",
+    "Habitantes": "7.571",
+    "Superficie": "371 km²",
+    "code": "07203",
+    "lng": "-72.6333333",
+    "lat": "-35.8333333",
+    "NormalizedName": "pelluhue"
+  },
+  {
+    "name": "Curicó",
+    "Habitantes": "149.136",
+    "Superficie": "1328 km²",
+    "code": "07301",
+    "lng": "-71.2333333",
+    "lat": "-34.9833333",
+    "NormalizedName": "curico"
+  },
+  {
+    "name": "Hualañé",
+    "Habitantes": "9.657",
+    "Superficie": "629 km²",
+    "code": "07302",
+    "lng": "-71.8047222",
+    "lat": "-34.9766667",
+    "NormalizedName": "hualane"
+  },
+  {
+    "name": "Licantén",
+    "Habitantes": "6.653",
+    "Superficie": "273 km²",
+    "code": "07303",
+    "lng": "-72.0000000",
+    "lat": "-34.9833333",
+    "NormalizedName": "licanten"
+  },
+  {
+    "name": "Molina",
+    "Habitantes": "45.976",
+    "Superficie": "1552 km²",
+    "code": "07304",
+    "lng": "-71.2833333",
+    "lat": "-34.1166667",
+    "NormalizedName": "molina"
+  },
+  {
+    "name": "Rauco",
+    "Habitantes": "10.484",
+    "Superficie": "309 km²",
+    "code": "07305",
+    "lng": "-71.3166667",
+    "lat": "-34.9333333",
+    "NormalizedName": "rauco"
+  },
+  {
+    "name": "Romeral",
+    "Habitantes": "15.187",
+    "Superficie": "1.597 km²",
+    "code": "07306",
+    "lng": "-71.1333333",
+    "lat": "-34.9666667",
+    "NormalizedName": "romeral"
+  },
+  {
+    "name": "Sagrada Familia",
+    "Habitantes": "18.544",
+    "Superficie": "549 km²",
+    "code": "07307",
+    "lng": "-71.3833333",
+    "lat": "-35.0000000",
+    "NormalizedName": "sagrada familia"
+  },
+  {
+    "name": "Teno",
+    "Habitantes": "28.921",
+    "Superficie": "618 km²",
+    "code": "07308",
+    "lng": "-71.1833333",
+    "lat": "-34.8666667",
+    "NormalizedName": "teno"
+  },
+  {
+    "name": "Vichuquén",
+    "Habitantes": "4.322",
+    "Superficie": "426 km²",
+    "code": "07309",
+    "lng": "-72.0000000",
+    "lat": "-34.8833333",
+    "NormalizedName": "vichuquen"
+  },
+  {
+    "name": "Linares",
+    "Habitantes": "93.602",
+    "Superficie": "1.466 km²",
+    "code": "07401",
+    "lng": "-71.6000000",
+    "lat": "-35.8500000",
+    "NormalizedName": "linares"
+  },
+  {
+    "name": "Colbún",
+    "Habitantes": "20.765",
+    "Superficie": "2.900 km²",
+    "code": "07402",
+    "lng": "-71.4166667",
+    "lat": "-35.7000000",
+    "NormalizedName": "colbun"
+  },
+  {
+    "name": "Longaví",
+    "Habitantes": "30.534",
+    "Superficie": "1.454 km²",
+    "code": "07403",
+    "lng": "-71.6833333",
+    "lat": "-35.9666667",
+    "NormalizedName": "longavi"
+  },
+  {
+    "name": "Parral",
+    "Habitantes": "41.637",
+    "Superficie": "1.638 km²",
+    "code": "07404",
+    "lng": "-71.8333333",
+    "lat": "-36.1500000",
+    "NormalizedName": "parral"
+  },
+  {
+    "name": "Retiro",
+    "Habitantes": "19.974",
+    "Superficie": "827 km²",
+    "code": "07405",
+    "lng": "-71.7666667",
+    "lat": "-36.0500000",
+    "NormalizedName": "retiro"
+  },
+  {
+    "name": "San Javier",
+    "Habitantes": "45.547",
+    "Superficie": "1.313 km²",
+    "code": "07406",
+    "lng": "-71.7500000",
+    "lat": "-35.6000000",
+    "NormalizedName": "san javier"
+  },
+  {
+    "name": "Villa Alegre",
+    "Habitantes": "16.221",
+    "Superficie": "190 km²",
+    "code": "07407",
+    "lng": "-71.7500000",
+    "lat": "-35.6666667",
+    "NormalizedName": "villa alegre"
+  },
+  {
+    "name": "Yerbas Buenas",
+    "Habitantes": "18.081",
+    "Superficie": "262 km²",
+    "code": "07408",
+    "lng": "-71.5833333",
+    "lat": "-35.7500000",
+    "NormalizedName": "yerbas buenas"
+  },
+  {
+    "name": "Chillán",
+    "Habitantes": "184.739",
+    "Superficie": "92 km²",
+    "code": "08401",
+    "lng": "-72.1166667",
+    "lat": "-36.6000000",
+    "NormalizedName": "chillan"
+  },
+  {
+    "name": "Chillán Viejo",
+    "Habitantes": "30.907",
+    "Superficie": "292 km²",
+    "code": "08406",
+    "lng": "-72.1333333",
+    "lat": "-36.6166667",
+    "NormalizedName": "chillan viejo"
+  },
+  {
+    "name": "Quillón",
+    "Habitantes": "17.485",
+    "Superficie": "423 km²",
+    "code": "08413",
+    "lng": "-72.4666667",
+    "lat": "-36.7333333",
+    "NormalizedName": "quillon"
+  },
+  {
+    "name": "Bulnes",
+    "Habitantes": "21.493",
+    "Superficie": "425 km²",
+    "code": "08402",
+    "lng": "-72.3014290",
+    "lat": "-36.7419870",
+    "NormalizedName": "bulnes"
+  },
+  {
+    "name": "San Ignacio",
+    "Habitantes": "16.079",
+    "Superficie": "363 km²",
+    "code": "08418",
+    "lng": "-72.0333333",
+    "lat": "-36.8000000",
+    "NormalizedName": "san ignacio"
+  },
+  {
+    "name": "El Carmen",
+    "Habitantes": "12.044",
+    "Superficie": "664 km²",
+    "code": "08407",
+    "lng": "-72.0323130",
+    "lat": "-36.8994440",
+    "NormalizedName": "el carmen"
+  },
+  {
+    "name": "Pinto",
+    "Habitantes": "10.827",
+    "Superficie": "1.164 km²",
+    "code": "08411",
+    "lng": "-71.9000000",
+    "lat": "-36.7000000",
+    "NormalizedName": "pinto"
+  },
+  {
+    "name": "Pemuco",
+    "Habitantes": "8.448",
+    "Superficie": "563 km²",
+    "code": "08410",
+    "lng": "-72.1000000",
+    "lat": "-36.9666667",
+    "NormalizedName": "pemuco"
+  },
+  {
+    "name": "Yungay",
+    "Habitantes": "17.787",
+    "Superficie": "823 km²",
+    "code": "08421",
+    "lng": "-72.0166667",
+    "lat": "-37.1166667",
+    "NormalizedName": "yungay"
+  },
+  {
+    "name": "Quirihue",
+    "Habitantes": "11.594",
+    "Superficie": "589 km²",
+    "code": "08414",
+    "lng": "-72.5333333",
+    "lat": "-36.2833333",
+    "NormalizedName": "quirihue"
+  },
+  {
+    "name": "Cobquecura",
+    "Habitantes": "5.012",
+    "Superficie": "570 km²",
+    "code": "08403",
+    "lng": "-72.7833333",
+    "lat": "-36.1333333",
+    "NormalizedName": "cobquecura"
+  },
+  {
+    "name": "Ninhue",
+    "Habitantes": "5.213",
+    "Superficie": "401 km²",
+    "code": "08408",
+    "lng": "-72.4000000",
+    "lat": "-36.4000000",
+    "NormalizedName": "ninhue"
+  },
+  {
+    "name": "Treguaco",
+    "Habitantes": "5.401",
+    "Superficie": "313 km²",
+    "code": "08420",
+    "lng": "-72.6666667",
+    "lat": "-36.4333333",
+    "NormalizedName": "treguaco"
+  },
+  {
+    "name": "Coelemu",
+    "Habitantes": "15.995",
+    "Superficie": "354 km²",
+    "code": "08404",
+    "lng": "-72.7000000",
+    "lat": "-36.4833333",
+    "NormalizedName": "coelemu"
+  },
+  {
+    "name": "Portezuelo",
+    "Habitantes": "4.862",
+    "Superficie": "282 km²",
+    "code": "08412",
+    "lng": "-72.4333333",
+    "lat": "-36.5333333",
+    "NormalizedName": "portezuelo"
+  },
+  {
+    "name": "Ránquil",
+    "Habitantes": "5.755",
+    "Superficie": "248 km²",
+    "code": "08415",
+    "lng": "-72.5500000",
+    "lat": "-36.6500000",
+    "NormalizedName": "ranquil"
+  },
+  {
+    "name": "San Carlos",
+    "Habitantes": "53.024",
+    "Superficie": "874 km²",
+    "code": "08416",
+    "lng": "-71.9580556",
+    "lat": "-36.4247222",
+    "NormalizedName": "san carlos"
+  },
+  {
+    "name": "Ñiquén",
+    "Habitantes": "11.152",
+    "Superficie": "493 km²",
+    "code": "08409",
+    "lng": "-71.9000000",
+    "lat": "-36.3000000",
+    "NormalizedName": "niquen"
+  },
+  {
+    "name": "Coihueco",
+    "Habitantes": "26.881",
+    "Superficie": "3 km²",
+    "code": "08405",
+    "lng": "-71.8333333",
+    "lat": "-36.6166667",
+    "NormalizedName": "coihueco"
+  },
+  {
+    "name": "San Fabián",
+    "Habitantes": "4.308",
+    "Superficie": "1.568 km²",
+    "code": "08417",
+    "lng": "-71.5500000",
+    "lat": "-36.5500000",
+    "NormalizedName": "san fabian"
+  },
+  {
+    "name": "San Nicolás",
+    "Habitantes": "11.603",
+    "Superficie": "490 km²",
+    "code": "08419",
+    "lng": "-72.2166667",
+    "lat": "-36.5000000",
+    "NormalizedName": "san nicolas"
+  },
+  {
+    "name": "Concepción",
+    "Habitantes": "223.574",
+    "Superficie": "222 km²",
+    "code": "08101",
+    "lng": "-73.0500000",
+    "lat": "-36.8333333",
+    "NormalizedName": "concepcion"
+  },
+  {
+    "name": "Coronel",
+    "Habitantes": "116.262",
+    "Superficie": "279 km²",
+    "code": "08102",
+    "lng": "-73.1333333",
+    "lat": "-37.0166667",
+    "NormalizedName": "coronel"
+  },
+  {
+    "name": "Chiguayante",
+    "Habitantes": "85.938",
+    "Superficie": "72 km²",
+    "code": "08103",
+    "lng": "-73.0166667",
+    "lat": "-36.9166667",
+    "NormalizedName": "chiguayante"
+  },
+  {
+    "name": "Florida",
+    "Habitantes": "10.624",
+    "Superficie": "609 km²",
+    "code": "08104",
+    "lng": "-72.6666667",
+    "lat": "-36.8166667",
+    "NormalizedName": "florida"
+  },
+  {
+    "name": "Hualqui",
+    "Habitantes": "24.333",
+    "Superficie": "5.000 km²",
+    "code": "08105",
+    "lng": "-72.9333333",
+    "lat": "-36.9666667",
+    "NormalizedName": "hualqui"
+  },
+  {
+    "name": "Lota",
+    "Habitantes": "43.535",
+    "Superficie": "136 km²",
+    "code": "08106",
+    "lng": "-73.1560560",
+    "lat": "-37.0870730",
+    "NormalizedName": "lota"
+  },
+  {
+    "name": "Penco",
+    "Habitantes": "47.367",
+    "Superficie": "108 km²",
+    "code": "08107",
+    "lng": "-72.9833333",
+    "lat": "-36.7333333",
+    "NormalizedName": "penco"
+  },
+  {
+    "name": "San Pedro de la Paz",
+    "Habitantes": "131.808",
+    "Superficie": "112 km²",
+    "code": "08108",
+    "lng": "-73.1166667",
+    "lat": "-36.8333333",
+    "NormalizedName": "san pedro de la paz"
+  },
+  {
+    "name": "Santa Juana",
+    "Habitantes": "13.749",
+    "Superficie": "731 km²",
+    "code": "08109",
+    "lng": "-72.9333333",
+    "lat": "-37.1666667",
+    "NormalizedName": "santa juana"
+  },
+  {
+    "name": "Talcahuano",
+    "Habitantes": "151.749",
+    "Superficie": "92 km²",
+    "code": "08110",
+    "lng": "-73.1166667",
+    "lat": "-36.7166667",
+    "NormalizedName": "talcahuano"
+  },
+  {
+    "name": "Tomé",
+    "Habitantes": "54.946",
+    "Superficie": "494 km²",
+    "code": "08111",
+    "lng": "-72.9500000",
+    "lat": "-36.6166667",
+    "NormalizedName": "tome"
+  },
+  {
+    "name": "Hualpén",
+    "Habitantes": "91.773",
+    "Superficie": "53 km²",
+    "code": "08112",
+    "lng": "-73.0833333",
+    "lat": "-36.7833333",
+    "NormalizedName": "hualpen"
+  },
+  {
+    "name": "Lebu",
+    "Habitantes": "25.522",
+    "Superficie": "563 km²",
+    "code": "08201",
+    "lng": "-73.6500000",
+    "lat": "-37.6166667",
+    "NormalizedName": "lebu"
+  },
+  {
+    "name": "Arauco",
+    "Habitantes": "36.257",
+    "Superficie": "956 km²",
+    "code": "08202",
+    "lng": "-73.3166667",
+    "lat": "-37.2500000",
+    "NormalizedName": "arauco"
+  },
+  {
+    "name": "Cañete",
+    "Habitantes": "34.537",
+    "Superficie": "760 km²",
+    "code": "08203",
+    "lng": "-73.3833333",
+    "lat": "-37.8000000",
+    "NormalizedName": "canete"
+  },
+  {
+    "name": "Contulmo",
+    "Habitantes": "6.031",
+    "Superficie": "962 km²",
+    "code": "08204",
+    "lng": "-73.2333333",
+    "lat": "-38.0000000",
+    "NormalizedName": "contulmo"
+  },
+  {
+    "name": "Curanilahue",
+    "Habitantes": "32.288",
+    "Superficie": "994 km²",
+    "code": "08205",
+    "lng": "-73.3500000",
+    "lat": "-37.4666667",
+    "NormalizedName": "curanilahue"
+  },
+  {
+    "name": "Los Álamos",
+    "Habitantes": "21.035",
+    "Superficie": "599 km²",
+    "code": "08206",
+    "lng": "-73.4666667",
+    "lat": "-37.6166667",
+    "NormalizedName": "los alamos"
+  },
+  {
+    "name": "Tirúa",
+    "Habitantes": "10.417",
+    "Superficie": "624 km²",
+    "code": "08207",
+    "lng": "-73.5000000",
+    "lat": "-38.3333333",
+    "NormalizedName": "tirua"
+  },
+  {
+    "name": "Los Ángeles",
+    "Habitantes": "202.331",
+    "Superficie": "1.748 km²",
+    "code": "08301",
+    "lng": "-72.3500000",
+    "lat": "-37.4666667",
+    "NormalizedName": "los angeles"
+  },
+  {
+    "name": "Antuco",
+    "Habitantes": "4.073",
+    "Superficie": "1.884 km²",
+    "code": "08302",
+    "lng": "-71.6833333",
+    "lat": "-37.3333333",
+    "NormalizedName": "antuco"
+  },
+  {
+    "name": "Cabrero",
+    "Habitantes": "28.573",
+    "Superficie": "640 km²",
+    "code": "08303",
+    "lng": "-72.4000000",
+    "lat": "-37.0333333",
+    "NormalizedName": "cabrero"
+  },
+  {
+    "name": "Laja",
+    "Habitantes": "22.389",
+    "Superficie": "340 km²",
+    "code": "08304",
+    "lng": "-72.7000000",
+    "lat": "-37.2666667",
+    "NormalizedName": "laja"
+  },
+  {
+    "name": "Mulchén",
+    "Habitantes": "29.627",
+    "Superficie": "1.952 km²",
+    "code": "08305",
+    "lng": "-72.2333333",
+    "lat": "-37.7166667",
+    "NormalizedName": "mulchen"
+  },
+  {
+    "name": "Nacimiento",
+    "Habitantes": "26.315",
+    "Superficie": "935 km²",
+    "code": "08306",
+    "lng": "-72.6666667",
+    "lat": "-37.5000000",
+    "NormalizedName": "nacimiento"
+  },
+  {
+    "name": "Negrete",
+    "Habitantes": "9.737",
+    "Superficie": "156 km²",
+    "code": "08307",
+    "lng": "-72.5166667",
+    "lat": "-37.5833333",
+    "NormalizedName": "negrete"
+  },
+  {
+    "name": "Quilaco",
+    "Habitantes": "3.988",
+    "Superficie": "1.124 km²",
+    "code": "08308",
+    "lng": "-71.9833333",
+    "lat": "-37.6666667",
+    "NormalizedName": "quilaco"
+  },
+  {
+    "name": "Quilleco",
+    "Habitantes": "9.587",
+    "Superficie": "1.122 km²",
+    "code": "08309",
+    "lng": "-71.9666667",
+    "lat": "-37.4666667",
+    "NormalizedName": "quilleco"
+  },
+  {
+    "name": "San Rosendo",
+    "Habitantes": "3.412",
+    "Superficie": "92 km²",
+    "code": "08310",
+    "lng": "-72.7166667",
+    "lat": "-37.2666667",
+    "NormalizedName": "san rosendo"
+  },
+  {
+    "name": "Santa Bárbara",
+    "Habitantes": "13.773",
+    "Superficie": "1.255 km²",
+    "code": "08311",
+    "lng": "-72.0166667",
+    "lat": "-37.6666667",
+    "NormalizedName": "santa barbara"
+  },
+  {
+    "name": "Tucapel",
+    "Habitantes": "14.134",
+    "Superficie": "915 km²",
+    "code": "08312",
+    "lng": "-71.9500000",
+    "lat": "-37.2833333",
+    "NormalizedName": "tucapel"
+  },
+  {
+    "name": "Yumbel",
+    "Habitantes": "21.198",
+    "Superficie": "765 km²",
+    "code": "08313",
+    "lng": "-72.5333333",
+    "lat": "-37.1333333",
+    "NormalizedName": "yumbel"
+  },
+  {
+    "name": "Alto Biobío",
+    "Habitantes": "5.923",
+    "Superficie": "2.125 km²",
+    "code": "08314",
+    "lng": "-71.3166667",
+    "lat": "-38.0500000",
+    "NormalizedName": "alto biobio"
+  },
+  {
+    "name": "Temuco",
+    "Habitantes": "282.415",
+    "Superficie": "464 km²",
+    "code": "09101",
+    "lng": "-72.6666667",
+    "lat": "-38.7500000",
+    "NormalizedName": "temuco"
+  },
+  {
+    "name": "Carahue",
+    "Habitantes": "24.533",
+    "Superficie": "1.341 km²",
+    "code": "09102",
+    "lng": "-73.1666667",
+    "lat": "-38.7000000",
+    "NormalizedName": "carahue"
+  },
+  {
+    "name": "Cunco",
+    "Habitantes": "17.526",
+    "Superficie": "1.907 km²",
+    "code": "09103",
+    "lng": "-72.0333333",
+    "lat": "-38.9166667",
+    "NormalizedName": "cunco"
+  },
+  {
+    "name": "Curarrehue",
+    "Habitantes": "7.489",
+    "Superficie": "1.171 km²",
+    "code": "09104",
+    "lng": "-71.5833333",
+    "lat": "-39.3500000",
+    "NormalizedName": "curarrehue"
+  },
+  {
+    "name": "Freire",
+    "Habitantes": "24.606",
+    "Superficie": "935 km²",
+    "code": "09105",
+    "lng": "-72.6333333",
+    "lat": "-38.9500000",
+    "NormalizedName": "freire"
+  },
+  {
+    "name": "Galvarino",
+    "Habitantes": "11.996",
+    "Superficie": "568 km²",
+    "code": "09106",
+    "lng": "-72.7833333",
+    "lat": "-38.4000000",
+    "NormalizedName": "galvarino"
+  },
+  {
+    "name": "Gorbea",
+    "Habitantes": "14.414",
+    "Superficie": "695 km²",
+    "code": "09107",
+    "lng": "-72.6833333",
+    "lat": "-39.1000000",
+    "NormalizedName": "gorbea"
+  },
+  {
+    "name": "Lautaro",
+    "Habitantes": "38.013",
+    "Superficie": "901 km²",
+    "code": "09108",
+    "lng": "-72.4350000",
+    "lat": "-38.5291667",
+    "NormalizedName": "lautaro"
+  },
+  {
+    "name": "Loncoche",
+    "Habitantes": "23.612",
+    "Superficie": "977 km²",
+    "code": "09109",
+    "lng": "-72.6333333",
+    "lat": "-39.3666667",
+    "NormalizedName": "loncoche"
+  },
+  {
+    "name": "Melipeuco",
+    "Habitantes": "6.138",
+    "Superficie": "1.107 km²",
+    "code": "09110",
+    "lng": "-71.7000000",
+    "lat": "-38.8500000",
+    "NormalizedName": "melipeuco"
+  },
+  {
+    "name": "Nueva Imperial",
+    "Habitantes": "32.510",
+    "Superficie": "732 km²",
+    "code": "09111",
+    "lng": "-72.9500000",
+    "lat": "-38.7333333",
+    "NormalizedName": "nueva imperial"
+  },
+  {
+    "name": "Padre las Casas",
+    "Habitantes": "76.126",
+    "Superficie": "401 km²",
+    "code": "09112",
+    "lng": "-72.6000000",
+    "lat": "-38.7666667",
+    "NormalizedName": "padre las casas"
+  },
+  {
+    "name": "Perquenco",
+    "Habitantes": "6.905",
+    "Superficie": "331 km²",
+    "code": "09113",
+    "lng": "-72.3833333",
+    "lat": "-38.4166667",
+    "NormalizedName": "perquenco"
+  },
+  {
+    "name": "Pitrufquén",
+    "Habitantes": "24.837",
+    "Superficie": "580 km²",
+    "code": "09114",
+    "lng": "-72.6500000",
+    "lat": "-38.9833333",
+    "NormalizedName": "pitrufquen"
+  },
+  {
+    "name": "Pucón",
+    "Habitantes": "28.523",
+    "Superficie": "1.249 km²",
+    "code": "09115",
+    "lng": "-71.9666667",
+    "lat": "-39.2666667",
+    "NormalizedName": "pucon"
+  },
+  {
+    "name": "Saavedra",
+    "Habitantes": "12.450",
+    "Superficie": "401 km²",
+    "code": "09116",
+    "lng": "-73.4000000",
+    "lat": "-38.7833333",
+    "NormalizedName": "saavedra"
+  },
+  {
+    "name": "Teodoro Schmidt",
+    "Habitantes": "15.045",
+    "Superficie": "650 km²",
+    "code": "09117",
+    "lng": "-73.0500000",
+    "lat": "-38.9666667",
+    "NormalizedName": "teodoro schmidt"
+  },
+  {
+    "name": "Toltén",
+    "Habitantes": "9.722",
+    "Superficie": "860 km²",
+    "code": "09118",
+    "lng": "-73.2333333",
+    "lat": "-39.2166667",
+    "NormalizedName": "tolten"
+  },
+  {
+    "name": "Vilcún",
+    "Habitantes": "28.151",
+    "Superficie": "1.421 km²",
+    "code": "09119",
+    "lng": "-72.3794444",
+    "lat": "-39.1183333",
+    "NormalizedName": "vilcun"
+  },
+  {
+    "name": "Villarrica",
+    "Habitantes": "55.478",
+    "Superficie": "1.291 km²",
+    "code": "09120",
+    "lng": "-72.2166667",
+    "lat": "-39.2666667",
+    "NormalizedName": "villarrica"
+  },
+  {
+    "name": "Cholchol",
+    "Habitantes": "11.611",
+    "Superficie": "428 km²",
+    "code": "09121",
+    "lng": "-72.8500000",
+    "lat": "-38.6000000",
+    "NormalizedName": "cholchol"
+  },
+  {
+    "name": "Angol",
+    "Habitantes": "53.262",
+    "Superficie": "1.194 km²",
+    "code": "09201",
+    "lng": "-72.7166667",
+    "lat": "-37.8000000",
+    "NormalizedName": "angol"
+  },
+  {
+    "name": "Collipulli",
+    "Habitantes": "24.598",
+    "Superficie": "1.296 km²",
+    "code": "09202",
+    "lng": "-72.4333333",
+    "lat": "-37.9500000",
+    "NormalizedName": "collipulli"
+  },
+  {
+    "name": "Curacautín",
+    "Habitantes": "17.413",
+    "Superficie": "1.664 km²",
+    "code": "09203",
+    "lng": "-71.8833333",
+    "lat": "-38.4333333",
+    "NormalizedName": "curacautin"
+  },
+  {
+    "name": "Ercilla",
+    "Habitantes": "7.733",
+    "Superficie": "500 km²",
+    "code": "09204",
+    "lng": "-72.3833333",
+    "lat": "-38.0500000",
+    "NormalizedName": "ercilla"
+  },
+  {
+    "name": "Lonquimay",
+    "Habitantes": "10.251",
+    "Superficie": "3.914 km²",
+    "code": "09205",
+    "lng": "-71.2333333",
+    "lat": "-38.4333333",
+    "NormalizedName": "lonquimay"
+  },
+  {
+    "name": "Los Sauces",
+    "Habitantes": "7.265",
+    "Superficie": "850 km²",
+    "code": "09206",
+    "lng": "-72.8333333",
+    "lat": "-37.9666667",
+    "NormalizedName": "los sauces"
+  },
+  {
+    "name": "Lumaco",
+    "Habitantes": "9.548",
+    "Superficie": "1.119 km²",
+    "code": "09207",
+    "lng": "-72.9166667",
+    "lat": "-38.1500000",
+    "NormalizedName": "lumaco"
+  },
+  {
+    "name": "Purén",
+    "Habitantes": "11.779",
+    "Superficie": "465 km²",
+    "code": "09208",
+    "lng": "-73.0833333",
+    "lat": "-38.0166667",
+    "NormalizedName": "puren"
+  },
+  {
+    "name": "Renaico",
+    "Habitantes": "10.250",
+    "Superficie": "267 km²",
+    "code": "09209",
+    "lng": "-72.5833333",
+    "lat": "-37.6666667",
+    "NormalizedName": "renaico"
+  },
+  {
+    "name": "Traiguén",
+    "Habitantes": "18.843",
+    "Superficie": "908 km²",
+    "code": "09210",
+    "lng": "-72.6833333",
+    "lat": "-38.2500000",
+    "NormalizedName": "traiguen"
+  },
+  {
+    "name": "Victoria",
+    "Habitantes": "34.182",
+    "Superficie": "1.256 km²",
+    "code": "09211",
+    "lng": "-72.3333333",
+    "lat": "-38.2166667",
+    "NormalizedName": "victoria"
+  },
+  {
+    "name": "Valdivia",
+    "Habitantes": "166.080",
+    "Superficie": "1.016 km²",
+    "code": "14101",
+    "lng": "-73.2333333",
+    "lat": "-39.8000000",
+    "NormalizedName": "valdivia"
+  },
+  {
+    "name": "Corral",
+    "Habitantes": "5.302",
+    "Superficie": "767 km²",
+    "code": "14102",
+    "lng": "-73.4333333",
+    "lat": "-39.8666667",
+    "NormalizedName": "corral"
+  },
+  {
+    "name": "Lanco",
+    "Habitantes": "16.752",
+    "Superficie": "532 km²",
+    "code": "14103",
+    "lng": "-72.7666667",
+    "lat": "-39.4333333",
+    "NormalizedName": "lanco"
+  },
+  {
+    "name": "Los Lagos",
+    "Habitantes": "19.634",
+    "Superficie": "951 km²",
+    "code": "14104",
+    "lng": "-72.8333333",
+    "lat": "-39.8500000",
+    "NormalizedName": "los lagos"
+  },
+  {
+    "name": "Máfil",
+    "Habitantes": "7.095",
+    "Superficie": "583 km²",
+    "code": "14105",
+    "lng": "-72.9500000",
+    "lat": "-39.6500000",
+    "NormalizedName": "mafil"
+  },
+  {
+    "name": "Mariquina",
+    "Habitantes": "21.278",
+    "Superficie": "1.320 km²",
+    "code": "14106",
+    "lng": "-72.9666667",
+    "lat": "-39.5166667",
+    "NormalizedName": "mariquina"
+  },
+  {
+    "name": "Paillaco",
+    "Habitantes": "20.188",
+    "Superficie": "896 km²",
+    "code": "14107",
+    "lng": "-72.8833333",
+    "lat": "-40.0666667",
+    "NormalizedName": "paillaco"
+  },
+  {
+    "name": "Panguipulli",
+    "Habitantes": "34.539",
+    "Superficie": "3.292 km²",
+    "code": "14108",
+    "lng": "-72.3333333",
+    "lat": "-39.6333333",
+    "NormalizedName": "panguipulli"
+  },
+  {
+    "name": "La Unión",
+    "Habitantes": "38.036",
+    "Superficie": "2.137 km²",
+    "code": "14201",
+    "lng": "-73.0833333",
+    "lat": "-40.2833333",
+    "NormalizedName": "la union"
+  },
+  {
+    "name": "Futrono",
+    "Habitantes": "14.665",
+    "Superficie": "2.268 km²",
+    "code": "14202",
+    "lng": "-72.4000000",
+    "lat": "-40.1333333",
+    "NormalizedName": "futrono"
+  },
+  {
+    "name": "Lago Ranco",
+    "Habitantes": "9.896",
+    "Superficie": "1.763 km²",
+    "code": "14203",
+    "lng": "-72.5000000",
+    "lat": "-40.3166667",
+    "NormalizedName": "lago ranco"
+  },
+  {
+    "name": "Río Bueno",
+    "Habitantes": "31.372",
+    "Superficie": "2.212 km²",
+    "code": "14204",
+    "lng": "-72.9666667",
+    "lat": "-40.3166667",
+    "NormalizedName": "rio bueno"
+  },
+  {
+    "name": "Puerto Montt",
+    "Habitantes": "245.902",
+    "Superficie": "1.673 km²",
+    "code": "10101",
+    "lng": "-72.9333333",
+    "lat": "-41.4666667",
+    "NormalizedName": "puerto montt"
+  },
+  {
+    "name": "Calbuco",
+    "Habitantes": "33.985",
+    "Superficie": "591 km²",
+    "code": "10102",
+    "lng": "-73.1333333",
+    "lat": "-41.7666667",
+    "NormalizedName": "calbuco"
+  },
+  {
+    "name": "Cochamó",
+    "Habitantes": "4.023",
+    "Superficie": "3.910 km²",
+    "code": "10103",
+    "lng": "-72.3166667",
+    "lat": "-41.5000000",
+    "NormalizedName": "cochamo"
+  },
+  {
+    "name": "Fresia",
+    "Habitantes": "12.261",
+    "Superficie": "1.279 km²",
+    "code": "10104",
+    "lng": "-73.4500000",
+    "lat": "-41.1500000",
+    "NormalizedName": "fresia"
+  },
+  {
+    "name": "Frutillar",
+    "Habitantes": "18.428",
+    "Superficie": "831 km²",
+    "code": "10105",
+    "lng": "-73.1000000",
+    "lat": "-41.1166667",
+    "NormalizedName": "frutillar"
+  },
+  {
+    "name": "Los Muermos",
+    "Habitantes": "17.068",
+    "Superficie": "1.246 km²",
+    "code": "10106",
+    "lng": "-73.4833333",
+    "lat": "-41.4000000",
+    "NormalizedName": "los muermos"
+  },
+  {
+    "name": "Llanquihue",
+    "Habitantes": "17.591",
+    "Superficie": "421 km²",
+    "code": "10107",
+    "lng": "-73.0166667",
+    "lat": "-41.2500000",
+    "NormalizedName": "llanquihue"
+  },
+  {
+    "name": "Maullín",
+    "Habitantes": "14.216",
+    "Superficie": "861 km²",
+    "code": "10108",
+    "lng": "-73.6000000",
+    "lat": "-41.6166667",
+    "NormalizedName": "maullin"
+  },
+  {
+    "name": "Puerto Varas",
+    "Habitantes": "44.578",
+    "Superficie": "4.065 km²",
+    "code": "10109",
+    "lng": "-72.9833333",
+    "lat": "-41.3166667",
+    "NormalizedName": "puerto varas"
+  },
+  {
+    "name": "Castro",
+    "Habitantes": "43.807",
+    "Superficie": "427 km²",
+    "code": "10201",
+    "lng": "-73.8000000",
+    "lat": "-42.4666667",
+    "NormalizedName": "castro"
+  },
+  {
+    "name": "Ancud",
+    "Habitantes": "38.991",
+    "Superficie": "1.252 km²",
+    "code": "10202",
+    "lng": "-73.8333333",
+    "lat": "-41.8666667",
+    "NormalizedName": "ancud"
+  },
+  {
+    "name": "Chonchi",
+    "Habitantes": "14.858",
+    "Superficie": "1.362 km²",
+    "code": "10203",
+    "lng": "-73.8166667",
+    "lat": "-42.6166667",
+    "NormalizedName": "chonchi"
+  },
+  {
+    "name": "Curaco de Vélez",
+    "Habitantes": "3.829",
+    "Superficie": "80 km²",
+    "code": "10204",
+    "lng": "-73.5833333",
+    "lat": "-42.4333333",
+    "NormalizedName": "curaco de velez"
+  },
+  {
+    "name": "Dalcahue",
+    "Habitantes": "13.762",
+    "Superficie": "1.239 km²",
+    "code": "10205",
+    "lng": "-73.7000000",
+    "lat": "-42.3666667",
+    "NormalizedName": "dalcahue"
+  },
+  {
+    "name": "Puqueldón",
+    "Habitantes": "3.921",
+    "Superficie": "96 km²",
+    "code": "10206",
+    "lng": "-73.6333333",
+    "lat": "-42.5833333",
+    "NormalizedName": "puqueldon"
+  },
+  {
+    "name": "Queilén",
+    "Habitantes": "5.385",
+    "Superficie": "332 km²",
+    "code": "10207",
+    "lng": "-73.4666667",
+    "lat": "-42.8666667",
+    "NormalizedName": "queilen"
+  },
+  {
+    "name": "Quellón",
+    "Habitantes": "27.192",
+    "Superficie": "3.244 km²",
+    "code": "10208",
+    "lng": "-73.6000000",
+    "lat": "-43.1000000",
+    "NormalizedName": "quellon"
+  },
+  {
+    "name": "Quemchi",
+    "Habitantes": "8.352",
+    "Superficie": "440 km²",
+    "code": "10209",
+    "lng": "-73.5166667",
+    "lat": "-42.1333333",
+    "NormalizedName": "quemchi"
+  },
+  {
+    "name": "Quinchao",
+    "Habitantes": "8.088",
+    "Superficie": "158 km²",
+    "code": "10210",
+    "lng": "-73.4166667",
+    "lat": "-42.5333333",
+    "NormalizedName": "quinchao"
+  },
+  {
+    "name": "Osorno",
+    "Habitantes": "161.460",
+    "Superficie": "951 km²",
+    "code": "10301",
+    "lng": "-73.1500000",
+    "lat": "-40.5666667",
+    "NormalizedName": "osorno"
+  },
+  {
+    "name": "Puerto Octay",
+    "Habitantes": "8.999",
+    "Superficie": "1.796 km²",
+    "code": "10302",
+    "lng": "-72.9000000",
+    "lat": "-40.9666667",
+    "NormalizedName": "puerto octay"
+  },
+  {
+    "name": "Purranque",
+    "Habitantes": "20.369",
+    "Superficie": "1.459 km²",
+    "code": "10303",
+    "lng": "-73.1666667",
+    "lat": "-40.9166667",
+    "NormalizedName": "purranque"
+  },
+  {
+    "name": "Puyehue",
+    "Habitantes": "11.667",
+    "Superficie": "1.598 km²",
+    "code": "10304",
+    "lng": "-72.6166667",
+    "lat": "-40.6666667",
+    "NormalizedName": "puyehue"
+  },
+  {
+    "name": "Río Negro",
+    "Habitantes": "14.085",
+    "Superficie": "1.266 km²",
+    "code": "10305",
+    "lng": "-73.2333333",
+    "lat": "-40.7833333",
+    "NormalizedName": "rio negro"
+  },
+  {
+    "name": "San Juan de la Costa",
+    "Habitantes": "7.512",
+    "Superficie": "1.517 km²",
+    "code": "10306",
+    "lng": "-73.4000000",
+    "lat": "-40.5166667",
+    "NormalizedName": "san juan de la costa"
+  },
+  {
+    "name": "San Pablo",
+    "Habitantes": "10.030",
+    "Superficie": "637 km²",
+    "code": "10307",
+    "lng": "-73.0166667",
+    "lat": "-40.4000000",
+    "NormalizedName": "san pablo"
+  },
+  {
+    "name": "Chaitén",
+    "Habitantes": "5.071",
+    "Superficie": "8.471 km²",
+    "code": "10401",
+    "lng": "-72.7088889",
+    "lat": "-42.9194444",
+    "NormalizedName": "chaiten"
+  },
+  {
+    "name": "Futaleufú",
+    "Habitantes": "2.623",
+    "Superficie": "1.280 km²",
+    "code": "10402",
+    "lng": "-71.8500000",
+    "lat": "-43.1666667",
+    "NormalizedName": "futaleufu"
+  },
+  {
+    "name": "Hualaihué",
+    "Habitantes": "8.944",
+    "Superficie": "2.788 km²",
+    "code": "10403",
+    "lng": "-72.6833333",
+    "lat": "-42.0166667",
+    "NormalizedName": "hualaihue"
+  },
+  {
+    "name": "Palena",
+    "Habitantes": "1.711",
+    "Superficie": "2.764 km²",
+    "code": "10404",
+    "lng": "-71.8000000",
+    "lat": "-43.6166667",
+    "NormalizedName": "palena"
+  },
+  {
+    "name": "Coyhaique",
+    "Habitantes": "57.818",
+    "Superficie": "7290 km²",
+    "code": "11101",
+    "lng": "-72.0666667",
+    "lat": "-45.5666667",
+    "NormalizedName": "coyhaique"
+  },
+  {
+    "name": "Lago Verde",
+    "Habitantes": "852",
+    "Superficie": "4.560 km²",
+    "code": "11102",
+    "lng": "-71.8333333",
+    "lat": "-44.2333333",
+    "NormalizedName": "lago verde"
+  },
+  {
+    "name": "Aysén",
+    "Habitantes": "23.959",
+    "Superficie": "29.796 km²",
+    "code": "11201",
+    "lng": "-72.7000000",
+    "lat": "-45.4000000",
+    "NormalizedName": "aysen"
+  },
+  {
+    "name": "Cisnes",
+    "Habitantes": "6.517",
+    "Superficie": "16.093 km²",
+    "code": "11202",
+    "lng": "-72.7000000",
+    "lat": "-44.7500000",
+    "NormalizedName": "cisnes"
+  },
+  {
+    "name": "Guaitecas",
+    "Habitantes": "1.843",
+    "Superficie": "621 km²",
+    "code": "11203",
+    "lng": "-73.7333333",
+    "lat": "-43.8833333",
+    "NormalizedName": "guaitecas"
+  },
+  {
+    "name": "Cochrane",
+    "Habitantes": "3.490",
+    "Superficie": "8.500 km²",
+    "code": "11301",
+    "lng": "-72.5500000",
+    "lat": "-47.2666667",
+    "NormalizedName": "cochrane"
+  },
+  {
+    "name": "O’Higgins",
+    "Habitantes": "625",
+    "Superficie": "8.182 km²",
+    "code": "11302",
+    "lng": "-72.5666667",
+    "lat": "-48.4666667",
+    "NormalizedName": "o'higgins"
+  },
+  {
+    "name": "Tortel",
+    "Habitantes": "523",
+    "Superficie": "19.711 km²",
+    "code": "11303",
+    "lng": "-73.5666667",
+    "lat": "-47.8333333",
+    "NormalizedName": "tortel"
+  },
+  {
+    "name": "Chile Chico",
+    "Habitantes": "4.865",
+    "Superficie": "5.737 km²",
+    "code": "11401",
+    "lng": "-71.7333333",
+    "lat": "-46.5500000",
+    "NormalizedName": "chile chico"
+  },
+  {
+    "name": "Río Ibáñez",
+    "Habitantes": "2.666",
+    "Superficie": "5.997 km²",
+    "code": "11402",
+    "lng": "-71.9333333",
+    "lat": "-46.3000000",
+    "NormalizedName": "rio ibanez"
+  },
+  {
+    "name": "Punta Arenas",
+    "Habitantes": "131.592",
+    "Superficie": "17.846 km²",
+    "code": "12101",
+    "lng": "-70.9336111",
+    "lat": "-53.1669444",
+    "NormalizedName": "punta arenas"
+  },
+  {
+    "name": "Laguna Blanca",
+    "Habitantes": "274",
+    "Superficie": "3.695 km²",
+    "code": "12102",
+    "lng": "-71.9166667",
+    "lat": "-52.2500000",
+    "NormalizedName": "laguna blanca"
+  },
+  {
+    "name": "Río Verde",
+    "Habitantes": "617",
+    "Superficie": "17.248 km²",
+    "code": "12103",
+    "lng": "-71.4833333",
+    "lat": "-52.6500000",
+    "NormalizedName": "rio verde"
+  },
+  {
+    "name": "San Gregorio",
+    "Habitantes": "799",
+    "Superficie": "6.884 km²",
+    "code": "12104",
+    "lng": "-69.6833333",
+    "lat": "-52.3166667",
+    "NormalizedName": "san gregorio"
+  },
+  {
+    "name": "Cabo de Hornos (Ex. Navarino)",
+    "Habitantes": "2.063",
+    "Superficie": "15.570 km²",
+    "code": "12201",
+    "lng": "-67.6166667",
+    "lat": "-54.9333333",
+    "NormalizedName": "cabo de hornos (ex. navarino)"
+  },
+  {
+    "name": "Antártica",
+    "Habitantes": "138",
+    "Superficie": "1,25 millones km²",
+    "code": "12202",
+    "lng": "-71.5000000",
+    "lat": "-75.0000000",
+    "NormalizedName": "antartica"
+  },
+  {
+    "name": "Porvenir",
+    "Habitantes": "6.801",
+    "Superficie": "9.707 km²",
+    "code": "12301",
+    "lng": "-70.3666667",
+    "lat": "-53.3000000",
+    "NormalizedName": "porvenir"
+  },
+  {
+    "name": "Primavera",
+    "Habitantes": "1.158",
+    "Superficie": "3.500 km²",
+    "code": "12302",
+    "lng": "-69.2500000",
+    "lat": "-52.7166667",
+    "NormalizedName": "primavera"
+  },
+  {
+    "name": "Timaukel",
+    "Habitantes": "405",
+    "Superficie": "12.850 km²",
+    "code": "12303",
+    "lng": "-69.9000000",
+    "lat": "-53.6666667",
+    "NormalizedName": "timaukel"
+  },
+  {
+    "name": "Natales",
+    "Habitantes": "21.477",
+    "Superficie": "49.924 km²",
+    "code": "12401",
+    "lng": "-72.5166667",
+    "lat": "-51.7333333",
+    "NormalizedName": "natales"
+  },
+  {
+    "name": "Torres del Paine",
+    "Habitantes": "1.209",
+    "Superficie": "6.630 km²",
+    "code": "12402",
+    "lng": "-72.3500000",
+    "lat": "-51.2666667",
+    "NormalizedName": "torres del paine"
+  },
+  {
+    "name": "Santiago",
+    "Habitantes": "404.495",
+    "Superficie": "23 km²",
+    "code": "13101",
+    "lng": "-70.6666667",
+    "lat": "-33.4500000",
+    "NormalizedName": "santiago"
+  },
+  {
+    "name": "Cerrillos",
+    "Habitantes": "80.832",
+    "Superficie": "21 km²",
+    "code": "13102",
+    "lng": "-70.7000000",
+    "lat": "-33.4833333",
+    "NormalizedName": "cerrillos"
+  },
+  {
+    "name": "Cerro Navia",
+    "Habitantes": "132.622",
+    "Superficie": "11 km²",
+    "code": "13103",
+    "lng": "-70.7166667",
+    "lat": "-33.4166667",
+    "NormalizedName": "cerro navia"
+  },
+  {
+    "name": "Conchalí",
+    "Habitantes": "126.955",
+    "Superficie": "11 km²",
+    "code": "13104",
+    "lng": "-70.6166667",
+    "lat": "-33.3500000",
+    "NormalizedName": "conchali"
+  },
+  {
+    "name": "El Bosque",
+    "Habitantes": "162.505",
+    "Superficie": "14 km²",
+    "code": "13105",
+    "lng": "-70.7000000",
+    "lat": "-33.5666667",
+    "NormalizedName": "el bosque"
+  },
+  {
+    "name": "Estación Central",
+    "Habitantes": "147.041",
+    "Superficie": "15 km²",
+    "code": "13106",
+    "lng": "-70.7029760",
+    "lat": "-33.4633150",
+    "NormalizedName": "estacion central"
+  },
+  {
+    "name": "Huechuraba",
+    "Habitantes": "98.671",
+    "Superficie": "45 km²",
+    "code": "13107",
+    "lng": "-70.6666667",
+    "lat": "-33.3500000",
+    "NormalizedName": "huechuraba"
+  },
+  {
+    "name": "Independencia",
+    "Habitantes": "100.281",
+    "Superficie": "7 km²",
+    "code": "13108",
+    "lng": "-70.6549320",
+    "lat": "-33.4219880",
+    "NormalizedName": "independencia"
+  },
+  {
+    "name": "La Cisterna",
+    "Habitantes": "90.119",
+    "Superficie": "10 km²",
+    "code": "13109",
+    "lng": "-70.6833333",
+    "lat": "-33.5500000",
+    "NormalizedName": "la cisterna"
+  },
+  {
+    "name": "La Florida",
+    "Habitantes": "366.916",
+    "Superficie": "70 km²",
+    "code": "13110",
+    "lng": "-70.5666667",
+    "lat": "-33.5500000",
+    "NormalizedName": "la florida"
+  },
+  {
+    "name": "La Granja",
+    "Habitantes": "116.571",
+    "Superficie": "10 km²",
+    "code": "13111",
+    "lng": "-70.5833333",
+    "lat": "-33.5833333",
+    "NormalizedName": "la granja"
+  },
+  {
+    "name": "La Pintana",
+    "Habitantes": "177.335",
+    "Superficie": "31 km²",
+    "code": "13112",
+    "lng": "-70.6166667",
+    "lat": "-33.5833333",
+    "NormalizedName": "la pintana"
+  },
+  {
+    "name": "La Reina",
+    "Habitantes": "92.787",
+    "Superficie": "23 km²",
+    "code": "13113",
+    "lng": "-70.5500000",
+    "lat": "-33.4500000",
+    "NormalizedName": "la reina"
+  },
+  {
+    "name": "Las Condes",
+    "Habitantes": "294.838",
+    "Superficie": "1.130 km²",
+    "code": "13114",
+    "lng": "-70.5833333",
+    "lat": "-33.4166667",
+    "NormalizedName": "las condes"
+  },
+  {
+    "name": "Lo Barnechea",
+    "Habitantes": "105.833",
+    "Superficie": "1.024 km²",
+    "code": "13115",
+    "lng": "-70.5166667",
+    "lat": "-33.3500000",
+    "NormalizedName": "lo barnechea"
+  },
+  {
+    "name": "Lo Espejo",
+    "Habitantes": "98.804",
+    "Superficie": "8.001 km²",
+    "code": "13116",
+    "lng": "-70.7166667",
+    "lat": "-33.5333333",
+    "NormalizedName": "lo espejo"
+  },
+  {
+    "name": "Lo Prado",
+    "Habitantes": "96.249",
+    "Superficie": "7 km²",
+    "code": "13117",
+    "lng": "-70.7166667",
+    "lat": "-33.4333333",
+    "NormalizedName": "lo prado"
+  },
+  {
+    "name": "Macul",
+    "Habitantes": "116.534",
+    "Superficie": "13 km²",
+    "code": "13118",
+    "lng": "-70.5666667",
+    "lat": "-33.5000000",
+    "NormalizedName": "macul"
+  },
+  {
+    "name": "Maipú",
+    "Habitantes": "521.627",
+    "Superficie": "135 km²",
+    "code": "13119",
+    "lng": "-70.7666667",
+    "lat": "-33.5166667",
+    "NormalizedName": "maipu"
+  },
+  {
+    "name": "Ñuñoa",
+    "Habitantes": "208.237",
+    "Superficie": "17 km²",
+    "code": "13120",
+    "lng": "-70.6000000",
+    "lat": "-33.4666667",
+    "NormalizedName": "nunoa"
+  },
+  {
+    "name": "Pedro Aguirre Cerda",
+    "Habitantes": "101.174",
+    "Superficie": "10 km²",
+    "code": "13121",
+    "lng": "-70.6780860",
+    "lat": "-33.4924550",
+    "NormalizedName": "pedro aguirre cerda"
+  },
+  {
+    "name": "Peñalolén",
+    "Habitantes": "241.599",
+    "Superficie": "54 km²",
+    "code": "13122",
+    "lng": "-70.5333333",
+    "lat": "-33.4833333",
+    "NormalizedName": "penalolen"
+  },
+  {
+    "name": "Providencia",
+    "Habitantes": "142.079",
+    "Superficie": "14 km²",
+    "code": "13123",
+    "lng": "-70.6166667",
+    "lat": "-33.4333333",
+    "NormalizedName": "providencia"
+  },
+  {
+    "name": "Pudahuel",
+    "Habitantes": "230.293",
+    "Superficie": "197 km²",
+    "code": "13124",
+    "lng": "-70.7166667",
+    "lat": "-33.4333333",
+    "NormalizedName": "pudahuel"
+  },
+  {
+    "name": "Quilicura",
+    "Habitantes": "210.410",
+    "Superficie": "58 km²",
+    "code": "13125",
+    "lng": "-70.7500000",
+    "lat": "-33.3666667",
+    "NormalizedName": "quilicura"
+  },
+  {
+    "name": "Quinta Normal",
+    "Habitantes": "110.026",
+    "Superficie": "12 km²",
+    "code": "13126",
+    "lng": "-70.7000000",
+    "lat": "-33.4500000",
+    "NormalizedName": "quinta normal"
+  },
+  {
+    "name": "Recoleta",
+    "Habitantes": "157.851",
+    "Superficie": "16 km²",
+    "code": "13127",
+    "lng": "-33.4081480",
+    "lat": "-70.6391920",
+    "NormalizedName": "recoleta"
+  },
+  {
+    "name": "Renca",
+    "Habitantes": "147.151",
+    "Superficie": "24 km²",
+    "code": "13128",
+    "lng": "-70.7333333",
+    "lat": "-33.4000000",
+    "NormalizedName": "renca"
+  },
+  {
+    "name": "San Joaquín",
+    "Habitantes": "94.492",
+    "Superficie": "10 km²",
+    "code": "13129",
+    "lng": "-70.6166667",
+    "lat": "-33.5000000",
+    "NormalizedName": "san joaquin"
+  },
+  {
+    "name": "San Miguel",
+    "Habitantes": "107.954",
+    "Superficie": "10 km²",
+    "code": "13130",
+    "lng": "-70.6666667",
+    "lat": "-33.5000000",
+    "NormalizedName": "san miguel"
+  },
+  {
+    "name": "San Ramón",
+    "Habitantes": "82.900",
+    "Superficie": "7 km²",
+    "code": "13131",
+    "lng": "-70.5000000",
+    "lat": "-33.4500000",
+    "NormalizedName": "san ramon"
+  },
+  {
+    "name": "Vitacura",
+    "Habitantes": "85.384",
+    "Superficie": "28 km²",
+    "code": "13132",
+    "lng": "-70.6000000",
+    "lat": "-33.4000000",
+    "NormalizedName": "vitacura"
+  },
+  {
+    "name": "Puente Alto",
+    "Habitantes": "568.106",
+    "Superficie": "88 km²",
+    "code": "13201",
+    "lng": "-70.5833333",
+    "lat": "-33.6166667",
+    "NormalizedName": "puente alto"
+  },
+  {
+    "name": "Pirque",
+    "Habitantes": "26.521",
+    "Superficie": "445 km²",
+    "code": "13202",
+    "lng": "-70.5500000",
+    "lat": "-33.6333333",
+    "NormalizedName": "pirque"
+  },
+  {
+    "name": "San José de Maipo",
+    "Habitantes": "18.189",
+    "Superficie": "4.995 km²",
+    "code": "13203",
+    "lng": "-70.3666667",
+    "lat": "-33.6333333",
+    "NormalizedName": "san jose de maipo"
+  },
+  {
+    "name": "Colina",
+    "Habitantes": "146.207",
+    "Superficie": "971 km²",
+    "code": "13301",
+    "lng": "-70.6833333",
+    "lat": "-33.2000000",
+    "NormalizedName": "colina"
+  },
+  {
+    "name": "Lampa",
+    "Habitantes": "102.034",
+    "Superficie": "452 km²",
+    "code": "13302",
+    "lng": "-70.9000000",
+    "lat": "-33.2833333",
+    "NormalizedName": "lampa"
+  },
+  {
+    "name": "Tiltil",
+    "Habitantes": "19.312",
+    "Superficie": "653 km²",
+    "code": "13303",
+    "lng": "-70.9333333",
+    "lat": "-33.0833333",
+    "NormalizedName": "tiltil"
+  },
+  {
+    "name": "San Bernardo",
+    "Habitantes": "301.313",
+    "Superficie": "155 km²",
+    "code": "13401",
+    "lng": "-70.7166667",
+    "lat": "-33.6000000",
+    "NormalizedName": "san bernardo"
+  },
+  {
+    "name": "Buin",
+    "Habitantes": "96.614",
+    "Superficie": "214 km²",
+    "code": "13402",
+    "lng": "-70.7500000",
+    "lat": "-33.7333333",
+    "NormalizedName": "buin"
+  },
+  {
+    "name": "Calera de Tango",
+    "Habitantes": "25.392",
+    "Superficie": "73 km²",
+    "code": "13403",
+    "lng": "-70.8166667",
+    "lat": "-33.6500000",
+    "NormalizedName": "calera de tango"
+  },
+  {
+    "name": "Paine",
+    "Habitantes": "72.759",
+    "Superficie": "820 km²",
+    "code": "13404",
+    "lng": "-70.7500000",
+    "lat": "-33.8166667",
+    "NormalizedName": "paine"
+  },
+  {
+    "name": "Melipilla",
+    "Habitantes": "123.627",
+    "Superficie": "1.345 km²",
+    "code": "13501",
+    "lng": "-71.2166667",
+    "lat": "-33.7000000",
+    "NormalizedName": "melipilla"
+  },
+  {
+    "name": "Alhué",
+    "Habitantes": "6.444",
+    "Superficie": "845 km²",
+    "code": "13502",
+    "lng": "-71.0566200",
+    "lat": "-34.0430300",
+    "NormalizedName": "alhue"
+  },
+  {
+    "name": "Curacaví",
+    "Habitantes": "32.579",
+    "Superficie": "693 km²",
+    "code": "13503",
+    "lng": "-71.1500000",
+    "lat": "-33.4000000",
+    "NormalizedName": "curacavi"
+  },
+  {
+    "name": "María Pinto",
+    "Habitantes": "13.590",
+    "Superficie": "393 km²",
+    "code": "13504",
+    "lng": "-71.1333333",
+    "lat": "-33.5333333",
+    "NormalizedName": "maria pinto"
+  },
+  {
+    "name": "San Pedro",
+    "Habitantes": "9.726",
+    "Superficie": "788 km²",
+    "code": "13505",
+    "lng": "-71.4666667",
+    "lat": "-33.9000000",
+    "NormalizedName": "san pedro"
+  },
+  {
+    "name": "Talagante",
+    "Habitantes": "74.237",
+    "Superficie": "126 km²",
+    "code": "13601",
+    "lng": "-70.9333333",
+    "lat": "-33.6666667",
+    "NormalizedName": "talagante"
+  },
+  {
+    "name": "El Monte",
+    "Habitantes": "147.041",
+    "Superficie": "118 km²",
+    "code": "13602",
+    "lng": "-71.0166667",
+    "lat": "-33.6833333",
+    "NormalizedName": "el monte"
+  },
+  {
+    "name": "Isla de Maipo",
+    "Habitantes": "36.219",
+    "Superficie": "189 km²",
+    "code": "13603",
+    "lng": "-70.9000000",
+    "lat": "-33.7500000",
+    "NormalizedName": "isla de maipo"
+  },
+  {
+    "name": "Padre Hurtado",
+    "Habitantes": "63.250",
+    "Superficie": "81 km²",
+    "code": "13604",
+    "lng": "-70.7000000",
+    "lat": "-30.2666667",
+    "NormalizedName": "padre hurtado"
+  },
+  {
+    "name": "Peñaflor",
+    "Habitantes": "90.201",
+    "Superficie": "69 km²",
+    "code": "13605",
+    "lng": "-70.9166667",
+    "lat": "-33.6166667",
+    "NormalizedName": "penaflor"
+  }
+]
