@@ -1,0 +1,46 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Map of Santiago, Chile, displaying regions based on GeoJSON data.",
+  "background": "white",
+  "data": {
+    "url": "https://raw.githubusercontent.com/AntoniaDahuabe/AntoniaDahuabe.github.io/refs/heads/main/chile_municipalities.geojson",
+    "format": {"type": "json", "property": "features"}
+  },
+  "transform": [
+    {
+      "filter": "datum['properties']['Comuna'] !== 'Zona sin demarcar' && datum['properties']['Region'] !== 'Zona sin demarcar'"
+    }
+  ],
+  "projection": {
+    "type": "mercator",
+    "scale": 900,
+    "center": [-71, -39],
+    "clipAngle": 90
+  },
+  "mark": {"type": "geoshape", "stroke": "black", "strokeWidth": 0.1},
+  "encoding": {
+    "color": {
+      "field": "properties.Region",
+      "type": "nominal",
+      "legend": {"title": "Region", "orient": "right", "offset": 0},
+      "scale": {"scheme": "spectral"},
+      "condition": {
+        "test": "!isValid(datum['properties']['Region']) || datum['properties']['Region'] === null",
+        "value": "gray"
+      }
+    },
+    "tooltip": [
+      {"field": "properties.Region", "title": "Region"},
+      {"field": "properties.Comuna", "title": "Municipality"}
+    ]
+  },
+  "config": {
+    "view": {
+      "stroke": "transparent",
+      "continuousWidth": 800,
+      "continuousHeight": 600
+    }
+  },
+  "width": 200,
+  "height": 800
+}

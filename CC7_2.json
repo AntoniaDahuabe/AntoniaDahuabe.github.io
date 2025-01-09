@@ -1,0 +1,66 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Choropleth map of Santiago, Chile with population data.",
+  "background": "white",
+  "data": {
+    "url": "https://raw.githubusercontent.com/AntoniaDahuabe/AntoniaDahuabe.github.io/refs/heads/main/chile_municipalities.geojson",
+    "format": {"type": "json", "property": "features"}
+  },
+  "transform": [
+    {
+      "filter": "datum['properties']['Comuna'] !== 'Zona sin demarcar' && datum['properties']['Region'] !== 'Zona sin demarcar'"
+    },
+    {
+      "calculate": "lower(trim(datum['properties']['Comuna']))",
+      "as": "NormalizedComuna"
+    },
+    {
+      "lookup": "NormalizedComuna",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/AntoniaDahuabe/AntoniaDahuabe.github.io/refs/heads/main/flattened_Habitantes_Superficie_Chile.json",
+          "format": {"type": "json"}
+        },
+        "key": "NormalizedName",
+        "fields": ["Habitantes", "NormalizedName"]
+      }
+    },
+    {
+      "calculate": "isValid(datum.Habitantes) ? toNumber(replace(datum.Habitantes, /\\D/g, '')) : 0",
+      "as": "Habitantes"
+    }
+  ],
+  "projection": {
+    "type": "mercator",
+    "scale": 700,
+    "center": [-71, -39],
+    "clipAngle": 90
+  },
+  "mark": {"type": "geoshape", "stroke": "black", "strokeWidth": 0.1},
+  "encoding": {
+    "color": {
+      "condition": {
+        "test": "datum.Habitantes > 0",
+        "field": "Habitantes",
+        "type": "quantitative",
+        "scale": {"scheme": "blues"}
+      },
+      "value": "gray"
+    },
+    "tooltip": [
+      {"field": "properties.Comuna", "title": "Municipality"},
+      {"field": "NormalizedComuna", "title": "Normalized Comuna"},
+      {"field": "Habitantes", "title": "Population"},
+      {"field": "NormalizedName", "title": "Normalized Name"}
+    ]
+  },
+  "config": {
+    "view": {
+      "stroke": "transparent",
+      "continuousWidth": 800,
+      "continuousHeight": 600
+    }
+  },
+  "width": 150,
+  "height": 600
+}
