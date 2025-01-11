@@ -1,0 +1,308 @@
+[
+    {
+        "Entity": "Argentina",
+        "Total days of leave available for the father": 2,
+        "Total days of leave available for the mother": 90,
+        "Gender wage gap (%)": -3.62
+    },
+    {
+        "Entity": "Austria",
+        "Total days of leave available for the father": 540,
+        "Total days of leave available for the mother": 652,
+        "Gender wage gap (%)": 22.22
+    },
+    {
+        "Entity": "Belgium",
+        "Total days of leave available for the father": 134,
+        "Total days of leave available for the mother": 225,
+        "Gender wage gap (%)": 6.54
+    },
+    {
+        "Entity": "Bolivia",
+        "Total days of leave available for the father": 3,
+        "Total days of leave available for the mother": 90,
+        "Gender wage gap (%)": 6.18
+    },
+    {
+        "Entity": "Brazil",
+        "Total days of leave available for the father": 7,
+        "Total days of leave available for the mother": 120,
+        "Gender wage gap (%)": 15.97
+    },
+    {
+        "Entity": "Brunei",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 91,
+        "Gender wage gap (%)": 2.74
+    },
+    {
+        "Entity": "Bulgaria",
+        "Total days of leave available for the father": 380,
+        "Total days of leave available for the mother": 775,
+        "Gender wage gap (%)": 12.66
+    },
+    {
+        "Entity": "Colombia",
+        "Total days of leave available for the father": 10,
+        "Total days of leave available for the mother": 98,
+        "Gender wage gap (%)": 2.99
+    },
+    {
+        "Entity": "Cyprus",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 126,
+        "Gender wage gap (%)": 14.15
+    },
+    {
+        "Entity": "Czechia",
+        "Total days of leave available for the father": 720,
+        "Total days of leave available for the mother": 916,
+        "Gender wage gap (%)": 21.16
+    },
+    {
+        "Entity": "Denmark",
+        "Total days of leave available for the father": 238,
+        "Total days of leave available for the mother": 350,
+        "Gender wage gap (%)": 15.96
+    },
+    {
+        "Entity": "Dominican Republic",
+        "Total days of leave available for the father": 2,
+        "Total days of leave available for the mother": 84,
+        "Gender wage gap (%)": 8.25
+    },
+    {
+        "Entity": "Ecuador",
+        "Total days of leave available for the father": 14,
+        "Total days of leave available for the mother": 84,
+        "Gender wage gap (%)": 12.9
+    },
+    {
+        "Entity": "El Salvador",
+        "Total days of leave available for the father": 3,
+        "Total days of leave available for the mother": 84,
+        "Gender wage gap (%)": -5.26
+    },
+    {
+        "Entity": "Estonia",
+        "Total days of leave available for the father": 449,
+        "Total days of leave available for the mother": 575,
+        "Gender wage gap (%)": 28.16
+    },
+    {
+        "Entity": "Finland",
+        "Total days of leave available for the father": 297,
+        "Total days of leave available for the mother": 368,
+        "Gender wage gap (%)": 16.93
+    },
+    {
+        "Entity": "France",
+        "Total days of leave available for the father": 15,
+        "Total days of leave available for the mother": 112,
+        "Gender wage gap (%)": 15.5
+    },
+    {
+        "Entity": "Germany",
+        "Total days of leave available for the father": 360,
+        "Total days of leave available for the mother": 458,
+        "Gender wage gap (%)": 22.29
+    },
+    {
+        "Entity": "Guatemala",
+        "Total days of leave available for the father": 2,
+        "Total days of leave available for the mother": 84,
+        "Gender wage gap (%)": 0.68
+    },
+    {
+        "Entity": "Honduras",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 84,
+        "Gender wage gap (%)": -15.05
+    },
+    {
+        "Entity": "Hungary",
+        "Total days of leave available for the father": 232,
+        "Total days of leave available for the mother": 393,
+        "Gender wage gap (%)": 15.12
+    },
+    {
+        "Entity": "Iceland",
+        "Total days of leave available for the father": 180,
+        "Total days of leave available for the mother": 180,
+        "Gender wage gap (%)": 16.55
+    },
+    {
+        "Entity": "Ireland",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 182,
+        "Gender wage gap (%)": 13.93
+    },
+    {
+        "Entity": "Israel",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 98,
+        "Gender wage gap (%)": 15.52
+    },
+    {
+        "Entity": "Italy",
+        "Total days of leave available for the father": 211,
+        "Total days of leave available for the mother": 330,
+        "Gender wage gap (%)": 6.12
+    },
+    {
+        "Entity": "Latvia",
+        "Total days of leave available for the father": 319,
+        "Total days of leave available for the mother": 421,
+        "Gender wage gap (%)": 17.38
+    },
+    {
+        "Entity": "Lithuania",
+        "Total days of leave available for the father": 339,
+        "Total days of leave available for the mother": 435,
+        "Gender wage gap (%)": 13.29
+    },
+    {
+        "Entity": "Luxembourg",
+        "Total days of leave available for the father": 182,
+        "Total days of leave available for the mother": 292,
+        "Gender wage gap (%)": 5.38
+    },
+    {
+        "Entity": "Malaysia",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 60,
+        "Gender wage gap (%)": -1.43
+    },
+    {
+        "Entity": "Malta",
+        "Total days of leave available for the father": 1,
+        "Total days of leave available for the mother": 126,
+        "Gender wage gap (%)": 10.19
+    },
+    {
+        "Entity": "Mexico",
+        "Total days of leave available for the father": 7,
+        "Total days of leave available for the mother": 84,
+        "Gender wage gap (%)": 6.65
+    },
+    {
+        "Entity": "Montenegro",
+        "Total days of leave available for the father": 365,
+        "Total days of leave available for the mother": 410,
+        "Gender wage gap (%)": 7.78
+    },
+    {
+        "Entity": "Netherlands",
+        "Total days of leave available for the father": 2,
+        "Total days of leave available for the mother": 112,
+        "Gender wage gap (%)": 16.07
+    },
+    {
+        "Entity": "Nicaragua",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 84,
+        "Gender wage gap (%)": 2.62
+    },
+    {
+        "Entity": "North Macedonia",
+        "Total days of leave available for the father": 2,
+        "Total days of leave available for the mother": 270,
+        "Gender wage gap (%)": 9.15
+    },
+    {
+        "Entity": "Norway",
+        "Total days of leave available for the father": 224,
+        "Total days of leave available for the mother": 245,
+        "Gender wage gap (%)": 14.45
+    },
+    {
+        "Entity": "Panama",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 98,
+        "Gender wage gap (%)": 4.44
+    },
+    {
+        "Entity": "Paraguay",
+        "Total days of leave available for the father": 2,
+        "Total days of leave available for the mother": 63,
+        "Gender wage gap (%)": 5.41
+    },
+    {
+        "Entity": "Peru",
+        "Total days of leave available for the father": 4,
+        "Total days of leave available for the mother": 90,
+        "Gender wage gap (%)": 20.51
+    },
+    {
+        "Entity": "Poland",
+        "Total days of leave available for the father": 196,
+        "Total days of leave available for the mother": 364,
+        "Gender wage gap (%)": 7.73
+    },
+    {
+        "Entity": "Romania",
+        "Total days of leave available for the father": 658,
+        "Total days of leave available for the mother": 763,
+        "Gender wage gap (%)": 4.5
+    },
+    {
+        "Entity": "Serbia",
+        "Total days of leave available for the father": 237,
+        "Total days of leave available for the mother": 365,
+        "Gender wage gap (%)": 8.72
+    },
+    {
+        "Entity": "Slovakia",
+        "Total days of leave available for the father": 899,
+        "Total days of leave available for the mother": 1137,
+        "Gender wage gap (%)": 19.66
+    },
+    {
+        "Entity": "Slovenia",
+        "Total days of leave available for the father": 151,
+        "Total days of leave available for the mother": 235,
+        "Gender wage gap (%)": 7.0
+    },
+    {
+        "Entity": "South Korea",
+        "Total days of leave available for the father": 368,
+        "Total days of leave available for the mother": 455,
+        "Gender wage gap (%)": 33.8
+    },
+    {
+        "Entity": "Spain",
+        "Total days of leave available for the father": 15,
+        "Total days of leave available for the mother": 112,
+        "Gender wage gap (%)": 12.5
+    },
+    {
+        "Entity": "Sweden",
+        "Total days of leave available for the father": 434,
+        "Total days of leave available for the mother": 420,
+        "Gender wage gap (%)": 13.85
+    },
+    {
+        "Entity": "Switzerland",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 98,
+        "Gender wage gap (%)": 17.38
+    },
+    {
+        "Entity": "Turkey",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 112,
+        "Gender wage gap (%)": -1.26
+    },
+    {
+        "Entity": "United Kingdom",
+        "Total days of leave available for the father": 14,
+        "Total days of leave available for the mother": 273,
+        "Gender wage gap (%)": 20.91
+    },
+    {
+        "Entity": "Uruguay",
+        "Total days of leave available for the father": 6,
+        "Total days of leave available for the mother": 98,
+        "Gender wage gap (%)": 8.62
+    }
+]
