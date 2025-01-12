@@ -1,15 +1,93 @@
 [
     {
+        "Entity": "Afghanistan",
+        "Total days of leave available for the father": 14,
+        "Total days of leave available for the mother": 90,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Albania",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 365,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Algeria",
+        "Total days of leave available for the father": 3,
+        "Total days of leave available for the mother": 98,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Angola",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 90,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Antigua and Barbuda",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 91,
+        "Gender wage gap (%)": NaN
+    },
+    {
         "Entity": "Argentina",
         "Total days of leave available for the father": 2,
         "Total days of leave available for the mother": 90,
         "Gender wage gap (%)": -3.62
     },
     {
+        "Entity": "Armenia",
+        "Total days of leave available for the father": 660,
+        "Total days of leave available for the mother": 800,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Australia",
+        "Total days of leave available for the father": 140,
+        "Total days of leave available for the mother": 126,
+        "Gender wage gap (%)": NaN
+    },
+    {
         "Entity": "Austria",
         "Total days of leave available for the father": 540,
         "Total days of leave available for the mother": 652,
         "Gender wage gap (%)": 22.22
+    },
+    {
+        "Entity": "Azerbaijan",
+        "Total days of leave available for the father": 1039,
+        "Total days of leave available for the mother": 1165,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Bahamas",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 84,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Bahrain",
+        "Total days of leave available for the father": 1,
+        "Total days of leave available for the mother": 60,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Bangladesh",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 112,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Barbados",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 84,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Belarus",
+        "Total days of leave available for the father": 1095,
+        "Total days of leave available for the mother": 1221,
+        "Gender wage gap (%)": NaN
     },
     {
         "Entity": "Belgium",
@@ -21,7 +99,19 @@
         "Entity": "Belize",
         "Total days of leave available for the father": 0,
         "Total days of leave available for the mother": 98,
-        "Gender wage gap (%)": -20.03
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Benin",
+        "Total days of leave available for the father": 3,
+        "Total days of leave available for the mother": 98,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Bhutan",
+        "Total days of leave available for the father": 7,
+        "Total days of leave available for the mother": 56,
+        "Gender wage gap (%)": NaN
     },
     {
         "Entity": "Bolivia",
@@ -30,22 +120,166 @@
         "Gender wage gap (%)": 6.18
     },
     {
+        "Entity": "Bosnia and Herzegovina",
+        "Total days of leave available for the father": 9,
+        "Total days of leave available for the mother": 365,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Botswana",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 84,
+        "Gender wage gap (%)": NaN
+    },
+    {
         "Entity": "Brazil",
         "Total days of leave available for the father": 7,
         "Total days of leave available for the mother": 120,
         "Gender wage gap (%)": 15.97
     },
     {
+        "Entity": "Brunei",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 91,
+        "Gender wage gap (%)": 2.74
+    },
+    {
+        "Entity": "Bulgaria",
+        "Total days of leave available for the father": 380,
+        "Total days of leave available for the mother": 775,
+        "Gender wage gap (%)": 12.66
+    },
+    {
+        "Entity": "Burkina Faso",
+        "Total days of leave available for the father": 3,
+        "Total days of leave available for the mother": 98,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Burundi",
+        "Total days of leave available for the father": 4,
+        "Total days of leave available for the mother": 84,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Cambodia",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 90,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Cameroon",
+        "Total days of leave available for the father": 3,
+        "Total days of leave available for the mother": 98,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Canada",
+        "Total days of leave available for the father": 245,
+        "Total days of leave available for the mother": 350,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Cape Verde",
+        "Total days of leave available for the father": 2,
+        "Total days of leave available for the mother": 60,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Central African Republic",
+        "Total days of leave available for the father": 2,
+        "Total days of leave available for the mother": 98,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Chad",
+        "Total days of leave available for the father": 1,
+        "Total days of leave available for the mother": 98,
+        "Gender wage gap (%)": NaN
+    },
+    {
         "Entity": "Chile",
         "Total days of leave available for the father": 49,
         "Total days of leave available for the mother": 210,
-        "Gender wage gap (%)": 20.55
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "China",
+        "Total days of leave available for the father": 3,
+        "Total days of leave available for the mother": 128,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Colombia",
+        "Total days of leave available for the father": 10,
+        "Total days of leave available for the mother": 98,
+        "Gender wage gap (%)": 2.99
+    },
+    {
+        "Entity": "Comoros",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 98,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Congo",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 105,
+        "Gender wage gap (%)": NaN
     },
     {
         "Entity": "Costa Rica",
         "Total days of leave available for the father": 0,
         "Total days of leave available for the mother": 120,
-        "Gender wage gap (%)": -0.15
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Cote d'Ivoire",
+        "Total days of leave available for the father": 2,
+        "Total days of leave available for the mother": 98,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Croatia",
+        "Total days of leave available for the father": 120,
+        "Total days of leave available for the mother": 328,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Cyprus",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 126,
+        "Gender wage gap (%)": 14.15
+    },
+    {
+        "Entity": "Czechia",
+        "Total days of leave available for the father": 720,
+        "Total days of leave available for the mother": 916,
+        "Gender wage gap (%)": 21.16
+    },
+    {
+        "Entity": "Democratic Republic of Congo",
+        "Total days of leave available for the father": 2,
+        "Total days of leave available for the mother": 98,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Denmark",
+        "Total days of leave available for the father": 238,
+        "Total days of leave available for the mother": 350,
+        "Gender wage gap (%)": 15.96
+    },
+    {
+        "Entity": "Djibouti",
+        "Total days of leave available for the father": 3,
+        "Total days of leave available for the mother": 98,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Dominica",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 84,
+        "Gender wage gap (%)": NaN
     },
     {
         "Entity": "Dominican Republic",
@@ -54,16 +288,64 @@
         "Gender wage gap (%)": 8.25
     },
     {
+        "Entity": "East Timor",
+        "Total days of leave available for the father": 7,
+        "Total days of leave available for the mother": 84,
+        "Gender wage gap (%)": NaN
+    },
+    {
         "Entity": "Ecuador",
         "Total days of leave available for the father": 14,
         "Total days of leave available for the mother": 84,
         "Gender wage gap (%)": 12.9
     },
     {
+        "Entity": "Egypt",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 90,
+        "Gender wage gap (%)": NaN
+    },
+    {
         "Entity": "El Salvador",
         "Total days of leave available for the father": 3,
         "Total days of leave available for the mother": 84,
         "Gender wage gap (%)": -5.26
+    },
+    {
+        "Entity": "Equatorial Guinea",
+        "Total days of leave available for the father": 3,
+        "Total days of leave available for the mother": 84,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Eritrea",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 60,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Estonia",
+        "Total days of leave available for the father": 449,
+        "Total days of leave available for the mother": 575,
+        "Gender wage gap (%)": 28.16
+    },
+    {
+        "Entity": "Eswatini",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 14,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Ethiopia",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 90,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Fiji",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 84,
+        "Gender wage gap (%)": NaN
     },
     {
         "Entity": "Finland",
@@ -78,16 +360,46 @@
         "Gender wage gap (%)": 15.5
     },
     {
+        "Entity": "Gabon",
+        "Total days of leave available for the father": 3,
+        "Total days of leave available for the mother": 98,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Gambia",
+        "Total days of leave available for the father": 14,
+        "Total days of leave available for the mother": 180,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Georgia",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 183,
+        "Gender wage gap (%)": NaN
+    },
+    {
         "Entity": "Germany",
         "Total days of leave available for the father": 360,
         "Total days of leave available for the mother": 458,
         "Gender wage gap (%)": 22.29
     },
     {
+        "Entity": "Ghana",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 84,
+        "Gender wage gap (%)": NaN
+    },
+    {
         "Entity": "Greece",
         "Total days of leave available for the father": 2,
         "Total days of leave available for the mother": 119,
-        "Gender wage gap (%)": 15.07
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Grenada",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 90,
+        "Gender wage gap (%)": NaN
     },
     {
         "Entity": "Guatemala",
@@ -96,10 +408,76 @@
         "Gender wage gap (%)": 0.68
     },
     {
+        "Entity": "Guinea",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 98,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Guinea-Bissau",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 60,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Guyana",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 91,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Haiti",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 84,
+        "Gender wage gap (%)": NaN
+    },
+    {
         "Entity": "Honduras",
         "Total days of leave available for the father": 0,
         "Total days of leave available for the mother": 84,
         "Gender wage gap (%)": -15.05
+    },
+    {
+        "Entity": "Hong Kong",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 70,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Hungary",
+        "Total days of leave available for the father": 232,
+        "Total days of leave available for the mother": 393,
+        "Gender wage gap (%)": 15.12
+    },
+    {
+        "Entity": "Iceland",
+        "Total days of leave available for the father": 180,
+        "Total days of leave available for the mother": 180,
+        "Gender wage gap (%)": 16.55
+    },
+    {
+        "Entity": "India",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 84,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Indonesia",
+        "Total days of leave available for the father": 2,
+        "Total days of leave available for the mother": 90,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Iran",
+        "Total days of leave available for the father": 14,
+        "Total days of leave available for the mother": 180,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Iraq",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 72,
+        "Gender wage gap (%)": NaN
     },
     {
         "Entity": "Ireland",
@@ -108,10 +486,112 @@
         "Gender wage gap (%)": 13.93
     },
     {
+        "Entity": "Israel",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 98,
+        "Gender wage gap (%)": 15.52
+    },
+    {
         "Entity": "Italy",
         "Total days of leave available for the father": 211,
         "Total days of leave available for the mother": 330,
         "Gender wage gap (%)": 6.12
+    },
+    {
+        "Entity": "Jamaica",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 56,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Japan",
+        "Total days of leave available for the father": 365,
+        "Total days of leave available for the mother": 407,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Jordan",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 70,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Kazakhstan",
+        "Total days of leave available for the father": 309,
+        "Total days of leave available for the mother": 435,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Kenya",
+        "Total days of leave available for the father": 14,
+        "Total days of leave available for the mother": 90,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Kiribati",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 84,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Kosovo",
+        "Total days of leave available for the father": 7,
+        "Total days of leave available for the mother": 270,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Kuwait",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 70,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Kyrgyzstan",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 126,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Laos",
+        "Total days of leave available for the father": 3,
+        "Total days of leave available for the mother": 105,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Latvia",
+        "Total days of leave available for the father": 319,
+        "Total days of leave available for the mother": 421,
+        "Gender wage gap (%)": 17.38
+    },
+    {
+        "Entity": "Lebanon",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 70,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Lesotho",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 84,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Liberia",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 90,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Libya",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 98,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Lithuania",
+        "Total days of leave available for the father": 339,
+        "Total days of leave available for the mother": 435,
+        "Gender wage gap (%)": 13.29
     },
     {
         "Entity": "Luxembourg",
@@ -120,10 +600,118 @@
         "Gender wage gap (%)": 5.38
     },
     {
+        "Entity": "Madagascar",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 98,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Malawi",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 56,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Malaysia",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 60,
+        "Gender wage gap (%)": -1.43
+    },
+    {
+        "Entity": "Maldives",
+        "Total days of leave available for the father": 3,
+        "Total days of leave available for the mother": 60,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Mali",
+        "Total days of leave available for the father": 3,
+        "Total days of leave available for the mother": 98,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Malta",
+        "Total days of leave available for the father": 1,
+        "Total days of leave available for the mother": 126,
+        "Gender wage gap (%)": 10.19
+    },
+    {
+        "Entity": "Marshall Islands",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 0,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Mauritania",
+        "Total days of leave available for the father": 1,
+        "Total days of leave available for the mother": 98,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Mauritius",
+        "Total days of leave available for the father": 7,
+        "Total days of leave available for the mother": 84,
+        "Gender wage gap (%)": NaN
+    },
+    {
         "Entity": "Mexico",
         "Total days of leave available for the father": 7,
         "Total days of leave available for the mother": 84,
         "Gender wage gap (%)": 6.65
+    },
+    {
+        "Entity": "Micronesia (country)",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 0,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Moldova",
+        "Total days of leave available for the father": 1039,
+        "Total days of leave available for the mother": 1165,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Mongolia",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 120,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Montenegro",
+        "Total days of leave available for the father": 365,
+        "Total days of leave available for the mother": 410,
+        "Gender wage gap (%)": 7.78
+    },
+    {
+        "Entity": "Morocco",
+        "Total days of leave available for the father": 3,
+        "Total days of leave available for the mother": 98,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Mozambique",
+        "Total days of leave available for the father": 1,
+        "Total days of leave available for the mother": 60,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Myanmar",
+        "Total days of leave available for the father": 21,
+        "Total days of leave available for the mother": 98,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Namibia",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 84,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Nepal",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 52,
+        "Gender wage gap (%)": NaN
     },
     {
         "Entity": "Netherlands",
@@ -132,16 +720,76 @@
         "Gender wage gap (%)": 16.07
     },
     {
+        "Entity": "New Zealand",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 98,
+        "Gender wage gap (%)": NaN
+    },
+    {
         "Entity": "Nicaragua",
         "Total days of leave available for the father": 0,
         "Total days of leave available for the mother": 84,
         "Gender wage gap (%)": 2.62
     },
     {
+        "Entity": "Niger",
+        "Total days of leave available for the father": 1,
+        "Total days of leave available for the mother": 98,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Nigeria",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 84,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "North Macedonia",
+        "Total days of leave available for the father": 2,
+        "Total days of leave available for the mother": 270,
+        "Gender wage gap (%)": 9.15
+    },
+    {
+        "Entity": "Norway",
+        "Total days of leave available for the father": 224,
+        "Total days of leave available for the mother": 245,
+        "Gender wage gap (%)": 14.45
+    },
+    {
+        "Entity": "Oman",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 50,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Pakistan",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 84,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Palau",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 0,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Palestine",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 70,
+        "Gender wage gap (%)": NaN
+    },
+    {
         "Entity": "Panama",
         "Total days of leave available for the father": 0,
         "Total days of leave available for the mother": 98,
         "Gender wage gap (%)": 4.44
+    },
+    {
+        "Entity": "Papua New Guinea",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 0,
+        "Gender wage gap (%)": NaN
     },
     {
         "Entity": "Paraguay",
@@ -156,10 +804,166 @@
         "Gender wage gap (%)": 20.51
     },
     {
+        "Entity": "Philippines",
+        "Total days of leave available for the father": 7,
+        "Total days of leave available for the mother": 60,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Poland",
+        "Total days of leave available for the father": 196,
+        "Total days of leave available for the mother": 364,
+        "Gender wage gap (%)": 7.73
+    },
+    {
         "Entity": "Portugal",
         "Total days of leave available for the father": 136,
         "Total days of leave available for the mother": 120,
-        "Gender wage gap (%)": 9.59
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Puerto Rico",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 56,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Qatar",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 50,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Romania",
+        "Total days of leave available for the father": 658,
+        "Total days of leave available for the mother": 763,
+        "Gender wage gap (%)": 4.5
+    },
+    {
+        "Entity": "Russia",
+        "Total days of leave available for the father": 475,
+        "Total days of leave available for the mother": 615,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Rwanda",
+        "Total days of leave available for the father": 4,
+        "Total days of leave available for the mother": 42,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Saint Kitts and Nevis",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 91,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Saint Lucia",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 91,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Saint Vincent and the Grenadines",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 91,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Samoa",
+        "Total days of leave available for the father": 7,
+        "Total days of leave available for the mother": 28,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "San Marino",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 635,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Sao Tome and Principe",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 60,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Saudi Arabia",
+        "Total days of leave available for the father": 1,
+        "Total days of leave available for the mother": 70,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Senegal",
+        "Total days of leave available for the father": 1,
+        "Total days of leave available for the mother": 98,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Serbia",
+        "Total days of leave available for the father": 237,
+        "Total days of leave available for the mother": 365,
+        "Gender wage gap (%)": 8.72
+    },
+    {
+        "Entity": "Seychelles",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 98,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Sierra Leone",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 84,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Singapore",
+        "Total days of leave available for the father": 14,
+        "Total days of leave available for the mother": 105,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Slovakia",
+        "Total days of leave available for the father": 899,
+        "Total days of leave available for the mother": 1137,
+        "Gender wage gap (%)": 19.66
+    },
+    {
+        "Entity": "Slovenia",
+        "Total days of leave available for the father": 151,
+        "Total days of leave available for the mother": 235,
+        "Gender wage gap (%)": 7.0
+    },
+    {
+        "Entity": "Solomon Islands",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 84,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Somalia",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 98,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "South Africa",
+        "Total days of leave available for the father": 3,
+        "Total days of leave available for the mother": 120,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "South Korea",
+        "Total days of leave available for the father": 368,
+        "Total days of leave available for the mother": 455,
+        "Gender wage gap (%)": 33.8
+    },
+    {
+        "Entity": "South Sudan",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 56,
+        "Gender wage gap (%)": NaN
     },
     {
         "Entity": "Spain",
@@ -168,9 +972,165 @@
         "Gender wage gap (%)": 12.5
     },
     {
+        "Entity": "Sri Lanka",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 84,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Sudan",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 56,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Suriname",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 0,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Sweden",
+        "Total days of leave available for the father": 434,
+        "Total days of leave available for the mother": 420,
+        "Gender wage gap (%)": 13.85
+    },
+    {
+        "Entity": "Switzerland",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 98,
+        "Gender wage gap (%)": 17.38
+    },
+    {
+        "Entity": "Syria",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 120,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Tajikistan",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 618,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Tanzania",
+        "Total days of leave available for the father": 3,
+        "Total days of leave available for the mother": 84,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Thailand",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 90,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Togo",
+        "Total days of leave available for the father": 2,
+        "Total days of leave available for the mother": 98,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Tonga",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 0,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Trinidad and Tobago",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 98,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Tunisia",
+        "Total days of leave available for the father": 1,
+        "Total days of leave available for the mother": 30,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Turkey",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 112,
+        "Gender wage gap (%)": -1.26
+    },
+    {
+        "Entity": "Uganda",
+        "Total days of leave available for the father": 4,
+        "Total days of leave available for the mother": 84,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Ukraine",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 126,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "United Arab Emirates",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 45,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "United Kingdom",
+        "Total days of leave available for the father": 14,
+        "Total days of leave available for the mother": 273,
+        "Gender wage gap (%)": 20.91
+    },
+    {
+        "Entity": "United States",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 0,
+        "Gender wage gap (%)": NaN
+    },
+    {
         "Entity": "Uruguay",
         "Total days of leave available for the father": 6,
         "Total days of leave available for the mother": 98,
         "Gender wage gap (%)": 8.62
+    },
+    {
+        "Entity": "Uzbekistan",
+        "Total days of leave available for the father": 674,
+        "Total days of leave available for the mother": 800,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Vanuatu",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 84,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Venezuela",
+        "Total days of leave available for the father": 14,
+        "Total days of leave available for the mother": 182,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Vietnam",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 180,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Yemen",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 70,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Zambia",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 90,
+        "Gender wage gap (%)": NaN
+    },
+    {
+        "Entity": "Zimbabwe",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 98,
+        "Gender wage gap (%)": NaN
     }
 ]
