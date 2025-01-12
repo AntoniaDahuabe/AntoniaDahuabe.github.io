@@ -1,0 +1,482 @@
+[
+    {
+        "Entity": "Afghanistan",
+        "Total days of leave available for the father": 14,
+        "Total days of leave available for the mother": 90,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 6.93
+    },
+    {
+        "Entity": "Angola",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 90,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 18.19
+    },
+    {
+        "Entity": "Argentina",
+        "Total days of leave available for the father": 2,
+        "Total days of leave available for the mother": 90,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 38.64
+    },
+    {
+        "Entity": "Australia",
+        "Total days of leave available for the father": 140,
+        "Total days of leave available for the mother": 126,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 34.99
+    },
+    {
+        "Entity": "Austria",
+        "Total days of leave available for the father": 540,
+        "Total days of leave available for the mother": 652,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 27.85
+    },
+    {
+        "Entity": "Belgium",
+        "Total days of leave available for the father": 134,
+        "Total days of leave available for the mother": 225,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 31.3
+    },
+    {
+        "Entity": "Bolivia",
+        "Total days of leave available for the father": 3,
+        "Total days of leave available for the mother": 90,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 35.46
+    },
+    {
+        "Entity": "Bosnia and Herzegovina",
+        "Total days of leave available for the father": 9,
+        "Total days of leave available for the mother": 365,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 24.16
+    },
+    {
+        "Entity": "Brazil",
+        "Total days of leave available for the father": 7,
+        "Total days of leave available for the mother": 120,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 36.48
+    },
+    {
+        "Entity": "Brunei",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 91,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 32.51
+    },
+    {
+        "Entity": "Bulgaria",
+        "Total days of leave available for the father": 380,
+        "Total days of leave available for the mother": 775,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 34.27
+    },
+    {
+        "Entity": "Cambodia",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 90,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 15.89
+    },
+    {
+        "Entity": "Colombia",
+        "Total days of leave available for the father": 10,
+        "Total days of leave available for the mother": 98,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 27.94
+    },
+    {
+        "Entity": "Croatia",
+        "Total days of leave available for the father": 120,
+        "Total days of leave available for the mother": 328,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 24.02
+    },
+    {
+        "Entity": "Cyprus",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 126,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 18.14
+    },
+    {
+        "Entity": "Czechia",
+        "Total days of leave available for the father": 720,
+        "Total days of leave available for the mother": 916,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 26.31
+    },
+    {
+        "Entity": "Denmark",
+        "Total days of leave available for the father": 238,
+        "Total days of leave available for the mother": 350,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 25.86
+    },
+    {
+        "Entity": "Dominican Republic",
+        "Total days of leave available for the father": 2,
+        "Total days of leave available for the mother": 84,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 46.67
+    },
+    {
+        "Entity": "Ecuador",
+        "Total days of leave available for the father": 14,
+        "Total days of leave available for the mother": 84,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 35.7
+    },
+    {
+        "Entity": "El Salvador",
+        "Total days of leave available for the father": 3,
+        "Total days of leave available for the mother": 84,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 35.58
+    },
+    {
+        "Entity": "Estonia",
+        "Total days of leave available for the father": 449,
+        "Total days of leave available for the mother": 575,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 30.84
+    },
+    {
+        "Entity": "Finland",
+        "Total days of leave available for the father": 297,
+        "Total days of leave available for the mother": 368,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 33.31
+    },
+    {
+        "Entity": "France",
+        "Total days of leave available for the father": 15,
+        "Total days of leave available for the mother": 112,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 32.03
+    },
+    {
+        "Entity": "Georgia",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 183,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 33.76
+    },
+    {
+        "Entity": "Germany",
+        "Total days of leave available for the father": 360,
+        "Total days of leave available for the mother": 458,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 27.66
+    },
+    {
+        "Entity": "Greece",
+        "Total days of leave available for the father": 2,
+        "Total days of leave available for the mother": 119,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 27.75
+    },
+    {
+        "Entity": "Guatemala",
+        "Total days of leave available for the father": 2,
+        "Total days of leave available for the mother": 84,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 35.44
+    },
+    {
+        "Entity": "Honduras",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 84,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 42.32
+    },
+    {
+        "Entity": "Hungary",
+        "Total days of leave available for the father": 232,
+        "Total days of leave available for the mother": 393,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 37.59
+    },
+    {
+        "Entity": "Iceland",
+        "Total days of leave available for the father": 180,
+        "Total days of leave available for the mother": 180,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 38.24
+    },
+    {
+        "Entity": "Iran",
+        "Total days of leave available for the father": 14,
+        "Total days of leave available for the mother": 180,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 4.51
+    },
+    {
+        "Entity": "Ireland",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 182,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 31.62
+    },
+    {
+        "Entity": "Israel",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 98,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 32.41
+    },
+    {
+        "Entity": "Italy",
+        "Total days of leave available for the father": 211,
+        "Total days of leave available for the mother": 330,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 22.07
+    },
+    {
+        "Entity": "Jamaica",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 56,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 63.91
+    },
+    {
+        "Entity": "Japan",
+        "Total days of leave available for the father": 365,
+        "Total days of leave available for the mother": 407,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 11.39
+    },
+    {
+        "Entity": "Kyrgyzstan",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 126,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 33.44
+    },
+    {
+        "Entity": "Latvia",
+        "Total days of leave available for the father": 319,
+        "Total days of leave available for the mother": 421,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 42.05
+    },
+    {
+        "Entity": "Lithuania",
+        "Total days of leave available for the father": 339,
+        "Total days of leave available for the mother": 435,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 35.36
+    },
+    {
+        "Entity": "Luxembourg",
+        "Total days of leave available for the father": 182,
+        "Total days of leave available for the mother": 292,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 17.73
+    },
+    {
+        "Entity": "Maldives",
+        "Total days of leave available for the father": 3,
+        "Total days of leave available for the mother": 60,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 20.78
+    },
+    {
+        "Entity": "Mauritius",
+        "Total days of leave available for the father": 7,
+        "Total days of leave available for the mother": 84,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 27.26
+    },
+    {
+        "Entity": "Mexico",
+        "Total days of leave available for the father": 7,
+        "Total days of leave available for the mother": 84,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 35.95
+    },
+    {
+        "Entity": "Micronesia (country)",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 0,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 18.19
+    },
+    {
+        "Entity": "Mongolia",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 120,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 34.16
+    },
+    {
+        "Entity": "Montenegro",
+        "Total days of leave available for the father": 365,
+        "Total days of leave available for the mother": 410,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 24.63
+    },
+    {
+        "Entity": "Namibia",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 84,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 46.67
+    },
+    {
+        "Entity": "Netherlands",
+        "Total days of leave available for the father": 2,
+        "Total days of leave available for the mother": 112,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 24.79
+    },
+    {
+        "Entity": "Nicaragua",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 84,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 53.68
+    },
+    {
+        "Entity": "North Macedonia",
+        "Total days of leave available for the father": 2,
+        "Total days of leave available for the mother": 270,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 25.95
+    },
+    {
+        "Entity": "Norway",
+        "Total days of leave available for the father": 224,
+        "Total days of leave available for the mother": 245,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 31.07
+    },
+    {
+        "Entity": "Pakistan",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 84,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 5.95
+    },
+    {
+        "Entity": "Palau",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 0,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 35.52
+    },
+    {
+        "Entity": "Palestine",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 70,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 16.45
+    },
+    {
+        "Entity": "Panama",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 98,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 43.54
+    },
+    {
+        "Entity": "Philippines",
+        "Total days of leave available for the father": 7,
+        "Total days of leave available for the mother": 60,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 41.76
+    },
+    {
+        "Entity": "Poland",
+        "Total days of leave available for the father": 196,
+        "Total days of leave available for the mother": 364,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 36.36
+    },
+    {
+        "Entity": "Portugal",
+        "Total days of leave available for the father": 136,
+        "Total days of leave available for the mother": 120,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 31.84
+    },
+    {
+        "Entity": "Romania",
+        "Total days of leave available for the father": 658,
+        "Total days of leave available for the mother": 763,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 30.73
+    },
+    {
+        "Entity": "Russia",
+        "Total days of leave available for the father": 475,
+        "Total days of leave available for the mother": 615,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 38.06
+    },
+    {
+        "Entity": "Serbia",
+        "Total days of leave available for the father": 237,
+        "Total days of leave available for the mother": 365,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 31.46
+    },
+    {
+        "Entity": "Seychelles",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 98,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 44.87
+    },
+    {
+        "Entity": "Sierra Leone",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 84,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 38.53
+    },
+    {
+        "Entity": "Slovakia",
+        "Total days of leave available for the father": 899,
+        "Total days of leave available for the mother": 1137,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 27.88
+    },
+    {
+        "Entity": "Slovenia",
+        "Total days of leave available for the father": 151,
+        "Total days of leave available for the mother": 235,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 36.5
+    },
+    {
+        "Entity": "South Africa",
+        "Total days of leave available for the father": 3,
+        "Total days of leave available for the mother": 120,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 34.29
+    },
+    {
+        "Entity": "Spain",
+        "Total days of leave available for the father": 15,
+        "Total days of leave available for the mother": 112,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 27.52
+    },
+    {
+        "Entity": "Sri Lanka",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 84,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 24.0
+    },
+    {
+        "Entity": "Sweden",
+        "Total days of leave available for the father": 434,
+        "Total days of leave available for the mother": 420,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 37.45
+    },
+    {
+        "Entity": "Switzerland",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 98,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 28.93
+    },
+    {
+        "Entity": "Tanzania",
+        "Total days of leave available for the father": 3,
+        "Total days of leave available for the mother": 84,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 17.34
+    },
+    {
+        "Entity": "Thailand",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 90,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 29.37
+    },
+    {
+        "Entity": "Tunisia",
+        "Total days of leave available for the father": 1,
+        "Total days of leave available for the mother": 30,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 16.69
+    },
+    {
+        "Entity": "Turkey",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 112,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 15.5
+    },
+    {
+        "Entity": "Uganda",
+        "Total days of leave available for the father": 4,
+        "Total days of leave available for the mother": 84,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 24.78
+    },
+    {
+        "Entity": "United Kingdom",
+        "Total days of leave available for the father": 14,
+        "Total days of leave available for the mother": 273,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 32.17
+    },
+    {
+        "Entity": "United States",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 0,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 38.8
+    },
+    {
+        "Entity": "Uruguay",
+        "Total days of leave available for the father": 6,
+        "Total days of leave available for the mother": 98,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 31.8
+    },
+    {
+        "Entity": "Vietnam",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 180,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 11.23
+    },
+    {
+        "Entity": "Yemen",
+        "Total days of leave available for the father": 0,
+        "Total days of leave available for the mother": 70,
+        "5.5.2 - Proportion of women in senior and middle management positions - 13th ICLS (%) - IC_GEN_MGTN": 4.5
+    }
+]
