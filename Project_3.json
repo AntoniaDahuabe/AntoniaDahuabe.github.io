@@ -1,0 +1,82 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 400,
+  "height": 400,
+  "title": {
+    "text": [
+      "Conservative Gender Norms",
+      "for Chile (2018) and the UK (2022)",
+      "(World Values Survey Wave 7 (2017-2022))"
+    ],
+    "align": "center"
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/AntoniaDahuabe/AntoniaDahuabe.github.io/refs/heads/main/Project_WVS_filtered.csv",
+    "format": {"type": "csv"}
+  },
+  "transform": [
+    {
+      "fold": [
+        "Strongly_Agree_Percent",
+        "Agree_Percent",
+        "Disagree_Percent",
+        "Strongly_Disagree_Percent"
+      ],
+      "as": ["Category", "Percentage"]
+    },
+    {
+      "calculate": "datum.Category === 'Strongly_Agree_Percent' ? 'Strongly Agree' : datum.Category === 'Agree_Percent' ? 'Agree' : datum.Category === 'Disagree_Percent' ? 'Disagree' : datum.Category === 'Strongly_Disagree_Percent' ? 'Strongly Disagree' : datum.Category",
+      "as": "Relabeled_Category"
+    },
+    {
+      "calculate": "datum.B_COUNTRY_ALPHA === 'CHL' ? 'Chile' : datum.B_COUNTRY_ALPHA === 'GBR' ? 'United Kingdom' : datum.B_COUNTRY_ALPHA",
+      "as": "Relabeled_Country"
+    }
+  ],
+  "mark": {"type": "bar", "opacity": 0.8},
+  "encoding": {
+    "x": {
+      "field": "Relabeled_Category",
+      "type": "nominal",
+      "axis": {
+        "title": "Q28: When a mother works for pay, the children suffer",
+        "labelAngle": -45
+      },
+      "sort": ["Strongly Disagree", "Disagree", "Agree", "Strongly Agree"]
+    },
+    "y": {
+      "field": "Percentage",
+      "type": "quantitative",
+      "axis": {"title": "Percentage (%)", "labelFontWeight": "normal"}
+    },
+    "xOffset": {"field": "Relabeled_Country", "type": "nominal"},
+    "color": {
+      "field": "Relabeled_Country",
+      "type": "nominal",
+      "legend": {
+        "title": "Country",
+        "orient": "top",
+        "values": ["Chile", "United Kingdom"]
+      },
+      "scale": {
+        "domain": ["Chile", "United Kingdom"],
+        "range": ["#B34C4E", "teal"]
+      }
+    },
+    "tooltip": [
+      {"field": "Relabeled_Country", "type": "nominal", "title": "Country"},
+      {
+        "field": "Relabeled_Category",
+        "type": "nominal",
+        "title": "Response Category"
+      },
+      {
+        "field": "Percentage",
+        "type": "quantitative",
+        "title": "Percentage (%)",
+        "format": ".2f"
+      }
+    ]
+  },
+  "config": {}
+}

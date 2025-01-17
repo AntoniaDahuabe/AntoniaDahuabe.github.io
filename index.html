@@ -31,7 +31,7 @@
     <div class="chart-description">
         <h2>Section 1: Portfolio</h2>
         <p>The folowing website contains practical examples of what we learned in PP434. Click it to check 10 applied exercises.</p>
-        <p>Click on the preview for opening my Portfolio site in a new tab. Use the scroller for navigating the preview wihitn this tab.</p>
+        <p>Click on the preview for opening my Portfolio site in a new tab. Use the scroller for navigating the preview within this tab.</p>
     </div>
 
     <!-- Wrapper for iframe and the clickable overlay -->
@@ -51,23 +51,44 @@
             <h2>Section 2: Project</h2>
             
             <h3>Productive and reproductive labour balance in the UK and Chile. </h3>
-            <p> 1. Workforce participation by gender over the years. --> productive labour for women has increased </p>
-            <p> 2. Time use data unbalance. --> reproductive work for women has not decreased equally. </p>
-            <p> 3. Gender norms perception. --> There are rooted beliefs about labour distribution. </p>
-            <p> 4. Child and marriage penalty over the world. --> These unbalances are driven (or enhanced) after marriage and the first child. Every country in the world has a different weight on which penalty is stronger. </p>
-            <p> 5. Importance of productive labour for women and reproductive laboru for men? </p>
             
+            <h3> 1. Workforce participation by gender over the years. --> productive labour for women has increased </h3>
+           <p> https://ilostat.ilo.org/data/ </p>
+            <figure id="Location1"></figure>
+
+            <h3> 2. Time use data unbalance. --> reproductive work for women has not decreased equally. </h3>
+            <p> SDG Target 5.4: Recognize and value unpaid care and domestic work through the provision of public services, infrastructure and social protection policies and the promotion of shared responsibility within the household and the family as nationally appropriate</p>
+            <p> https://genderdata.worldbank.org/en/indicator/sg-tim-uwrk?view=trend</p>
+            <figure id="Location2"></figure>
+            <figure id="Location3"></figure>
+
+            <h3> 3. Gender norms perception. --> There are rooted beliefs about labour distribution. </h3>
+            <p> https://www.worldvaluessurvey.org/WVSDocumentationWV7.jsp </p>
+            <figure id="Location4"></figure>
+            <h3> 4. Share not working due to care responsibilities </h3>
+            <p> https://ilostat.ilo.org/data/ </p>
+            <figure id="Location5"></figure>
+            <h3> 5. Child and marriage penalty over the world. --> These unbalances are driven (or enhanced) after marriage and the first child. Every country in the world has a different weight on which penalty is stronger. </h3>
+            <h3> 6. Importance of productive labour for women and reproductive laboru for men? </h3>
+            <h3> <a href="https://www.oecd.org/en/data/datasets/oecd-family-database.html"> OECD family database</a></h3>
         </div>
     </section>
 
     <section>
         <div class="chart-description">
-            <h2>Questions</h2>
-            <p> 1. How to center my graphs on each section?</p>
-            <p> 2. How to put Figure labels?</p>
+            <h2>Questions and pendings</h2>
+            <p> 3. Scatter bubble leaves and gap: Data source: ILOSTAT Earnings and labour cost: Gender wage gap (%) ; Data source: World Bank - Women, Business and the Law (2024). </p>
         </div>
     </section>
 
+
+    <script>
+        vegaEmbed('#Location1', "Project_1.json");
+        vegaEmbed('#Location2', "Project_2_1.json");
+        vegaEmbed('#Location3', "Project_2_2.json");
+        vegaEmbed('#Location4', "Project_3.json");
+        vegaEmbed('#Location5', "Project_4.json");
+    </script>
    
 
 </body>

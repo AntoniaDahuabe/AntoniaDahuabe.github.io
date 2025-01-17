@@ -1,0 +1,74 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 300,
+  "height": 450,
+  "data": {
+    "url": "https://raw.githubusercontent.com/AntoniaDahuabe/AntoniaDahuabe.github.io/refs/heads/main/gendered_pairs_prices.csv"
+  },
+  "transform": [
+    {"filter": "datum.item_id == 510522 || datum.item_id == 510523"},
+    {"filter": "datum.quote_date <= datetime(2004, 1, 1)"},
+    {
+      "window": [{"op": "mean", "field": "price", "as": "smoothed_price"}],
+      "frame": [-2, 2],
+      "groupby": ["region", "description"]
+    },
+    {
+      "calculate": "datum.region == 1 ? 'Catalogue' : datum.region == 2 ? 'London, England' : datum.region == 3 ? 'South East, England' : datum.region == 4 ? 'South West, England' : datum.region == 5 ? 'East Anglia, England' : datum.region == 6 ? 'East Midlands, England' : datum.region == 7 ? 'West Midlands, England' : datum.region == 8 ? 'Yorkshire & Humber, England' : datum.region == 9 ? 'North West, England' : datum.region == 10 ? 'North, England' : datum.region == 11 ? 'Wales' : datum.region == 12 ? 'Scotland' : datum.region == 13 ? 'Northern Ireland' : ''",
+      "as": "region_label"
+    },
+    {
+      "calculate": "round((datum.smoothed_price || 0) * 100) / 100",
+      "as": "smoothed_price"
+    }
+  ],
+  "facet": {
+    "field": "region_label",
+    "type": "nominal",
+    "title": "Region",
+    "sort": [
+      "Catalogue",
+      "London, England",
+      "South East, England",
+      "South West, England",
+      "East Anglia, England",
+      "East Midlands, England",
+      "West Midlands, England",
+      "Yorkshire & Humber, England",
+      "North West, England",
+      "North, England",
+      "Wales",
+      "Scotland",
+      "Northern Ireland"
+    ],
+    "columns": 3
+  },
+  "spec": {
+    "mark": {"type": "line", "strokeWidth": 3, "opacity": 0.5},
+    "encoding": {
+      "x": {"field": "quote_date", "type": "temporal", "title": "Date"},
+      "y": {
+        "field": "smoothed_price",
+        "type": "quantitative",
+        "title": "Smoothed Price"
+      },
+      "color": {
+        "field": "description",
+        "type": "nominal",
+        "title": "Item",
+        "scale": {"range": ["teal", "purple"]}
+      },
+      "tooltip": [
+        {"field": "quote_date", "type": "temporal", "title": "Date"},
+        {
+          "field": "smoothed_price",
+          "type": "quantitative",
+          "title": "Smoothed Price"
+        },
+        {"field": "description", "type": "nominal", "title": "Item"},
+        {"field": "region_label", "type": "nominal", "title": "Region"}
+      ]
+    }
+  },
+  "config": {"facet": {"columns": 3}, "legend": {"orient": "top"}}
+}
