@@ -1,0 +1,143 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": [
+      "Child Penalty: Impact of becoming a mother/father",
+      "over labour participation"
+    ],
+    "subtitle": "Source: childpenaltyatlas.org",
+    "fontSize": 16,
+    "subtitleFontSize": 14,
+    "anchor": "start",
+    "color": "#000000",
+    "subtitleColor": "#555555"
+  },
+  "vconcat": [
+    {
+      "height": 250,
+      "width": 400,
+      "title": {
+        "text": "Child Penalty Chile",
+        "anchor": "start",
+        "fontSize": 14,
+        "subtitleFontSize": 12,
+        "color": "#000000",
+        "subtitleColor": "#000000"
+      },
+      "data": {
+        "url": "https://raw.githubusercontent.com/AntoniaDahuabe/AntoniaDahuabe.github.io/refs/heads/main/Project_estimates_CL.csv"
+      },
+      "transform": [{"calculate": "'Chile'", "as": "Country"}],
+      "layer": [
+        {
+          "mark": {"type": "line", "tooltip": true, "point": {"size": 70}},
+          "encoding": {
+            "x": {
+              "field": "t_es",
+              "type": "quantitative",
+              "axis": {"title": "Years w.r.t Event"}
+            },
+            "y": {
+              "field": "estimate",
+              "type": "quantitative",
+              "axis": {"title": "Penalty (%)"},
+              "scale": {"domain": [-0.8, 0.8]}
+            },
+            "color": {
+              "field": "gender",
+              "type": "nominal",
+              "scale": {
+                "domain": ["male", "female"],
+                "range": ["#8f5151", "#d68b8b"]
+              },
+              "legend": {"title": "Gender", "orient": "top"}
+            },
+            "tooltip": [
+              {
+                "field": "estimate",
+                "type": "quantitative",
+                "title": "Child Penalty"
+              },
+              {"field": "t_es", "type": "ordinal", "title": "Years from event"},
+              {"field": "gender", "type": "nominal", "title": "Gender"},
+              {"field": "Country", "type": "nominal", "title": "Country"}
+            ]
+          }
+        },
+        {
+          "mark": {
+            "type": "rule",
+            "color": "grey",
+            "strokeWidth": 1,
+            "strokeDash": [4, 4]
+          },
+          "encoding": {"x": {"datum": 0}, "size": {"value": 2}}
+        }
+      ]
+    },
+    {
+      "height": 250,
+      "width": 400,
+      "title": {
+        "text": "Child Penalty UK",
+        "anchor": "start",
+        "fontSize": 14,
+        "subtitleFontSize": 12,
+        "color": "#000000",
+        "subtitleColor": "#000000"
+      },
+      "data": {
+        "url": "https://raw.githubusercontent.com/AntoniaDahuabe/AntoniaDahuabe.github.io/refs/heads/main/Project_estimates_GB.csv"
+      },
+      "transform": [{"calculate": "'United Kingdom'", "as": "Country"}],
+      "layer": [
+        {
+          "mark": {"type": "line", "tooltip": true, "point": {"size": 70}},
+          "encoding": {
+            "x": {
+              "field": "t_es",
+              "type": "quantitative",
+              "axis": {"title": "Years w.r.t Event"}
+            },
+            "y": {
+              "field": "estimate",
+              "type": "quantitative",
+              "axis": {"title": "Penalty (%)"},
+              "scale": {"domain": [-0.8, 0.8]}
+            },
+            "color": {
+              "field": "gender",
+              "type": "nominal",
+              "scale": {
+                "domain": ["male", "female"],
+                "range": ["#006d77", "#83c5be"]
+              },
+              "legend": {"title": "Gender", "orient": "top"}
+            },
+            "tooltip": [
+              {
+                "field": "estimate",
+                "type": "quantitative",
+                "title": "Child Penalty"
+              },
+              {"field": "t_es", "type": "ordinal", "title": "Years from event"},
+              {"field": "gender", "type": "nominal", "title": "Gender"},
+              {"field": "Country", "type": "nominal", "title": "Country"}
+            ]
+          }
+        },
+        {
+          "mark": {
+            "type": "rule",
+            "color": "grey",
+            "strokeWidth": 1,
+            "strokeDash": [4, 4]
+          },
+          "encoding": {"x": {"datum": 0}, "size": {"value": 2}}
+        }
+      ]
+    }
+  ],
+  "resolve": {"scale": {"color": "independent"}},
+  "config": {}
+}
