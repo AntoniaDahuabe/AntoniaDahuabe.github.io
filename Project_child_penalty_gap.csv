@@ -1,10 +1,4 @@
 name,iso,penalty,fraction,gap
-Africa,C-AF,8,,
-Asia,C-AS,26,,
-Europe,C-EU,29,,
-Latin America,C-LA,37,,
-North America,C-NA,25,,
-Oceania,C-OC,30,,
 Afghanistan,AF,32,0.2434,0.8693
 Albania,AL,30,0.3843,0.5784
 Algeria,DZ,47,0.3954,0.8593
