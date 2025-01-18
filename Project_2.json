@@ -1,36 +1,39 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 400,
-  "height": 400,
+  "width": 300,
+  "height": 300,
   "title": {
     "text": [
-      "Proportion of time spent on unpaid domestic and care work (% of 24 hour day)"
+      "Proportion of time spent on unpaid domestic",
+      "and care work (% of 24 hour day)"
     ],
+    "subtitle": "Source: https://genderdata.worldbank.org/en/indicator/sg-tim-uwrk?view=trend",
     "anchor": "start",
     "fontSize": 14,
     "fontWeight": "bold"
   },
   "data": {
-    "url": "https://raw.githubusercontent.com/AntoniaDahuabe/AntoniaDahuabe.github.io/refs/heads/main/Project_Proportion%20of%20time%20spent%20on%20unpaid%20domestic%20and%20care%20work%20(%25%20of%2024%20hour%20day).csv"
+    "url": "https://raw.githubusercontent.com/AntoniaDahuabe/AntoniaDahuabe.github.io/refs/heads/main/Project_Proportion%20of%20time%20spent%20on%20unpaid%20domestic%20and%20care%20work%20(%25%20of%2024%20hour%20day)_both_genders.csv"
   },
   "transform": [
     {
-      "fold": ["Chile, Female", "United Kingdom, Female"],
-      "as": ["Country", "Value"]
+      "fold": [
+        "Chile, Female",
+        "United Kingdom, Female",
+        "Chile, Male",
+        "United Kingdom, Male"
+      ],
+      "as": ["variable", "Value"]
     },
-    {"filter": "datum['Value'] != ''"}
+    {"calculate": "split(datum.variable, ', ')[0]", "as": "Country"},
+    {"calculate": "split(datum.variable, ', ')[1]", "as": "Gender"},
+    {"filter": "datum.Value != ''"}
   ],
   "layer": [
     {
       "mark": {"type": "line", "strokeWidth": 5, "opacity": 0.6},
       "encoding": {
-        "x": {
-          "field": "Year",
-          "type": "nominal",
-          "timeUnit": "year",
-          "title": "Year",
-          "axis": {"grid": true}
-        },
+        "x": {"field": "Year", "type": "nominal", "title": "Year"},
         "y": {
           "field": "Value",
           "type": "quantitative",
@@ -40,61 +43,58 @@
         "color": {
           "field": "Country",
           "type": "nominal",
-          "title": "Country",
-          "scale": {"range": ["#B34C4E", "teal"]},
-          "legend": {"orient": "top", "symbolSize": 5000, "title": null}
+          "scale": {
+            "domain": ["Chile", "United Kingdom"],
+            "range": ["#B34C4E", "teal"]
+          },
+          "legend": {"orient": "top", "title": ""}
+        },
+        "strokeDash": {
+          "field": "Gender",
+          "type": "nominal",
+          "scale": {"domain": ["Female", "Male"], "range": [[], [5, 5]]},
+          "legend": {
+            "title": "",
+            "orient": "top",
+            "symbolType": "stroke",
+            "symbolSize": 300,
+            "symbolStrokeWidth": 4
+          }
         },
         "tooltip": [
           {"field": "Country", "type": "nominal", "title": "Country"},
-          {"field": "Year", "type": "temporal", "title": "Year"},
+          {"field": "Gender", "type": "nominal", "title": "Gender"},
+          {"field": "Year", "type": "nominal", "title": "Year"},
           {"field": "Value", "type": "quantitative", "title": "Proportion (%)"}
         ]
       }
     },
     {
-      "transform": [{"filter": "datum['Country'] == 'United Kingdom, Female'"}],
-      "mark": {
-        "type": "point",
-        "shape": "triangle-down",
-        "size": 250,
-        "filled": true
-      },
+      "mark": {"type": "point", "size": 250, "filled": true},
       "encoding": {
-        "x": {
-          "field": "Year",
-          "type": "nominal",
-          "timeUnit": "year",
-          "title": "Year"
-        },
+        "x": {"field": "Year", "type": "nominal", "title": "Year"},
         "y": {"field": "Value", "type": "quantitative"},
-        "color": {"field": "Country", "type": "nominal"},
+        "color": {
+          "field": "Country",
+          "type": "nominal",
+          "scale": {
+            "domain": ["Chile", "United Kingdom"],
+            "range": ["#B34C4E", "teal"]
+          }
+        },
+        "shape": {
+          "field": "Country",
+          "type": "nominal",
+          "scale": {
+            "domain": ["Chile", "United Kingdom"],
+            "range": ["triangle", "triangle-down"]
+          },
+          "legend": {"orient": "top", "title": ""}
+        },
         "tooltip": [
           {"field": "Country", "type": "nominal", "title": "Country"},
-          {"field": "Year", "type": "temporal", "title": "Year"},
-          {"field": "Value", "type": "quantitative", "title": "Proportion (%)"}
-        ]
-      }
-    },
-    {
-      "transform": [{"filter": "datum['Country'] == 'Chile, Female'"}],
-      "mark": {
-        "type": "point",
-        "shape": "triangle",
-        "size": 250,
-        "filled": true
-      },
-      "encoding": {
-        "x": {
-          "field": "Year",
-          "type": "nominal",
-          "timeUnit": "year",
-          "title": "Year"
-        },
-        "y": {"field": "Value", "type": "quantitative"},
-        "color": {"field": "Country", "type": "nominal"},
-        "tooltip": [
-          {"field": "Country", "type": "nominal", "title": "Country"},
-          {"field": "Year", "type": "temporal", "title": "Year"},
+          {"field": "Gender", "type": "nominal", "title": "Gender"},
+          {"field": "Year", "type": "nominal", "title": "Year"},
           {"field": "Value", "type": "quantitative", "title": "Proportion (%)"}
         ]
       }

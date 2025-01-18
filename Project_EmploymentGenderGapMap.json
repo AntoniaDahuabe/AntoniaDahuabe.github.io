@@ -1,0 +1,109 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Gender gap in employment by Country",
+    "subtitle": ["Source: https://childpenaltyatlas.org/", ""],
+    "fontSize": 16,
+    "subtitleFontSize": 12,
+    "subtitleFontWeight": "lighter",
+    "anchor": "middle"
+  },
+  "width": 600,
+  "height": 330,
+  "projection": {
+    "type": "naturalEarth1",
+    "scale": 125,
+    "translate": [285, 180]
+  },
+  "layer": [
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/EconomicsObservatory/courses/main/datasets/advanced/map_world.geojson",
+        "format": {"property": "features"}
+      },
+      "transform": [
+        {
+          "lookup": "properties.ISO",
+          "from": {
+            "key": "iso",
+            "fields": ["name", "penalty", "gap", "fraction"],
+            "data": {
+              "url": "https://raw.githubusercontent.com/AntoniaDahuabe/AntoniaDahuabe.github.io/refs/heads/main/Project_child_penalty_gap.csv"
+            }
+          }
+        },
+        {
+          "calculate": "datum['gap'] ? format(datum['gap'] * 100, '0.2f') + '%' : 'No data'",
+          "as": "formattedGap"
+        },
+        {
+          "calculate": "datum['fraction'] ? format(datum['fraction'] * 100, '0.2f') + '%' : 'No data'",
+          "as": "formattedFraction"
+        },
+        {
+          "calculate": "datum['penalty'] ? format(datum['penalty'], '0.2f') + '%' : 'No data'",
+          "as": "formattedPenalty"
+        }
+      ],
+      "mark": {"type": "geoshape", "stroke": "white", "strokeWidth": 0.3},
+      "encoding": {
+        "color": {
+          "field": "gap",
+          "type": "quantitative",
+          "legend": {"title": "Employment gap", "format": "0.2f"},
+          "scale": {
+            "type": "linear",
+            "scheme": "yelloworangebrown",
+            "reverse": false
+          },
+          "condition": {"test": "datum['gap'] == null", "value": "lightgrey"}
+        },
+        "tooltip": [
+          {"field": "name", "title": "Country"},
+          {"field": "formattedPenalty", "title": "Child Penalty"},
+          {"field": "formattedGap", "title": "Employment gap *100"},
+          {
+            "field": "formattedFraction",
+            "title": "Fraction of gap due to penalty"
+          }
+        ]
+      }
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/EconomicsObservatory/courses/main/datasets/advanced/map_world.geojson",
+        "format": {"property": "features"}
+      },
+      "transform": [
+        {
+          "lookup": "properties.ISO",
+          "from": {
+            "key": "iso",
+            "fields": ["name", "penalty", "gap", "fraction"],
+            "data": {
+              "url": "https://raw.githubusercontent.com/AntoniaDahuabe/AntoniaDahuabe.github.io/refs/heads/main/Project_child_penalty_gap.csv"
+            }
+          }
+        },
+        {
+          "filter": "datum.properties.ISO == 'CL' || datum.properties.ISO == 'GB'"
+        }
+      ],
+      "mark": {
+        "type": "geoshape",
+        "stroke": "black",
+        "strokeWidth": 1.5,
+        "fill": "transparent"
+      },
+      "encoding": {
+        "tooltip": [
+          {"field": "name", "title": "Country"},
+          {"field": "penalty", "title": "Child Penalty"},
+          {"field": "gap", "title": "Employment gap *100"},
+          {"field": "fraction", "title": "Fraction of gap due to penalty"}
+        ]
+      }
+    }
+  ],
+  "config": {}
+}

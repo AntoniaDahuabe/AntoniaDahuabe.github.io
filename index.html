@@ -26,8 +26,27 @@
         <a href="Portfolio.html">Portfolio</a> | <a href="https://www.linkedin.com/in/antonia-dahuabe/">LinkedIn</a> | <a href="https://github.com/AntoniaDahuabe">GitHub</a>
     </p>
 
-<!-- Embedded Portfolio -->
+    
+<!-- Intro -->
 <section class="chart-description">
+    <div class="chart-description">
+        <h2>Introduction</h2>
+        <p> This website portrays what I learned in the Automated Data Visualisation for Policymaking (<a href="https://www.lse.ac.uk/resources/calendar2024-2025/courseGuides/PP/2024_PP434.htm">PP434</a>) course at LSE,
+             during winter term 2024-25.  </p>
+        <p> Here you will find two pieces of work. First, a <a href="#section1">Portfolio (Section 1) </a> with different tasks that
+              demonstrate the tools I acquire class by class. The learned skills include building a web site, embedding a live visualisation,
+              hosting data in the cloud (<a href="https://github.com/AntoniaDahuabe">GitHub</a>), editing and cleaning data, using API-driven charts,
+               applying loops, APIs, and scrapers, and adding interactivity to my charts, among others. </p>
+        <p>    Then, I show a data science <a href="#section2">Project (Section 2) </a> that gathers the mentioned 
+              learnings and applies them to a social policy issue (in my case, the balance between productive (paid) and
+               reproductive (unpaid) labour for Chile, my country of origin, and the UK, where I took this course). </p>
+        <p> I conclude at the bottom (<a href="#section3">Discussion</a>) with data challenges and features I intentionally added to this website.
+                
+            </p>
+    </div>
+
+<!-- Embedded Portfolio -->
+<section class="chart-description" id="section1">
     <div class="chart-description">
         <h2>Section 1: Portfolio</h2>
         <p>The folowing website contains practical examples of what we learned in PP434. Click it to check 10 applied exercises.</p>
@@ -45,52 +64,68 @@
 </section>
 
 
-
-    <section>
-        <div class="chart-description">
+<!-- Project -->
+<section class="chart-description" id="section2">
+    <div class="chart-description"></div>
             <h2>Section 2: Project</h2>
             
             <h3>Productive and reproductive labour balance in the UK and Chile. </h3>
-            
-            <h3> 1. Workforce participation by gender over the years. --> productive labour for women has increased </h3>
-           <p> https://ilostat.ilo.org/data/ </p>
-            <figure id="Location1"></figure>
+            <p> Borrar tooltip. Hay un gender gap: hombres trabajan mas que mujeres. EL gap se da en dos contextos: producitvio y reproductivo.</p>
+            <p> Radiografia del trabajo en estos dos paises. </p>
+            <figure id="Location7"></figure>
 
+            <h3> 1. Workforce participation by gender over the years. --> productive labour for women has increased </h3>
+            <p> EL emplpyment ggap se da incluso cuando han aumentado los niveles de participacion femeninna. Mostrar varios paises y justificar en que elegir uno de alta y de baja participacion, o dos de participacion media en dos regiones distintas. Ya en 2020 son parecidos, pero cmo fue la historia detras y las instituciones underlying. Hay una convergencia (mensaje) </p>
+             <figure id="Location1"></figure>
+ 
             <h3> 2. Time use data unbalance. --> reproductive work for women has not decreased equally. </h3>
             <p> SDG Target 5.4: Recognize and value unpaid care and domestic work through the provision of public services, infrastructure and social protection policies and the promotion of shared responsibility within the household and the family as nationally appropriate</p>
-            <p> https://genderdata.worldbank.org/en/indicator/sg-tim-uwrk?view=trend</p>
+            <p> Pero a la vez el cuidado sigue recayendo en las mujeres. Tambien hay un trabajo que no es productivo pagado, que ha tenido su porpia dimnamica: el trabajo de los cuidados. La convergencia se ha dado pese a que las mujeres en chile no ven una reducion proporcional en trabajo reproductivo que productivo.</p>
+            <p> (*) Scatter de uso de tiempo vs trabajo productivo. La idea seria ecnontrar una relacion inversa, aunque que sea mas contexto que explicacion </p>
             <figure id="Location2"></figure>
-            <figure id="Location3"></figure>
+
+            <h3> 4. Share not working due to care responsibilities </h3>
+            <p> Cuanto los cuidados frenan la creciente participacion femenina. O pueden surgur como potenciales barreras para cerrar la brecha entre UK y CHile. Igual hay mujeres no trabajando y es por los cuidados </p>
+            <figure id="Location5"></figure>
 
             <h3> 3. Gender norms perception. --> There are rooted beliefs about labour distribution. </h3>
-            <p> https://www.worldvaluessurvey.org/WVSDocumentationWV7.jsp </p>
+            <p> De hecho, estan re enraizadas estas barreras por la sociedad. Tenemos este escenario, que instituciones o creencias lo explican? </p>
             <figure id="Location4"></figure>
-            <h3> 4. Share not working due to care responsibilities </h3>
-            <p> https://ilostat.ilo.org/data/ </p>
-            <figure id="Location5"></figure>
+           
             <h3> 5. Child and marriage penalty over the world. --> These unbalances are driven (or enhanced) after marriage and the first child. Every country in the world has a different weight on which penalty is stronger. </h3>
-            <p></p>
+            <p> Entonces, cuidado de hijo, reduce los niveles de participacion previos?</p>
             <figure id="Location6"></figure>
-            <h3> 6. Importance of productive labour for women and reproductive laboru for men? </h3>
-            <h3> <a href="https://www.oecd.org/en/data/datasets/oecd-family-database.html"> OECD family database</a></h3>
+            <h3> 6.Employment gap and child penalty over the world </h3>
+            <p> En todas las regiones mientras mas alto el penalty, mas alto el gap, entonces mientras mas afectan los cuidados (principalmente a rtazi de la maternidd), mas fuerte es el gap resultante.</p>
+            <p> DESTACAR CHILE Y EL REINO UNIDO</p>
+            <p> EL child penalty va a ser un creciente desafio para cerrar la brecha para los paises qu vienen avanzando en esta materia, como chile.</p>
+            
+            <figure id="Location8"></figure>
+            <figure id="Location9"></figure>
         </div>
     </section>
 
-    <section>
-        <div class="chart-description">
-            <h2>Questions and pendings</h2>
-            <p> 3. Scatter bubble leaves and gap: Data source: ILOSTAT Earnings and labour cost: Gender wage gap (%) ; Data source: World Bank - Women, Business and the Law (2024). </p>
-        </div>
-    </section>
+
+    <!-- Discussion -->
+<section class="chart-description" id="section3">
+    <div class="chart-description">
+        <h2>Discussion</h2>
+        <p> </p>
+    </div>
+
+
+</section>
 
 
     <script>
         vegaEmbed('#Location1', "Project_1.json");
-        vegaEmbed('#Location2', "Project_2_1.json");
-        vegaEmbed('#Location3', "Project_2_2.json");
+        vegaEmbed('#Location2', "Project_2.json");
         vegaEmbed('#Location4', "Project_3.json");
         vegaEmbed('#Location5', "Project_4.json");
         vegaEmbed('#Location6', "Project_5.json");
+        vegaEmbed('#Location7', "Project_EmploymentGenderGapMap.json");
+        vegaEmbed('#Location8', "Project_ChildPenaltyMap.json");
+        vegaEmbed('#Location9', "Project_ScatterPenalty.json");
     </script>
    
 

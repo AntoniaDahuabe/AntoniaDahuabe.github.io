@@ -1,4 +1,4 @@
-/* Top bar styling*/
+/* Top bar styling */
 .top-bar {
   background-color: #67c8a4; 
   height: 50px;
@@ -10,6 +10,18 @@
   border-bottom: 10px solid #d79898; 
   box-shadow: 0 6px 0 0 #f7c8c8, 
               0 10px 0 0 #c9edd7; 
+}
+.top-bar2 {
+  background-color: #c9edd7; 
+  height: 50px;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+  border-bottom: 10px solid #d79898; 
+  box-shadow: 0 6px 0 0 #f7c8c8, 
+              0 10px 0 0 #67c8a4; 
 }
 
 /* Body styling */
@@ -23,6 +35,16 @@ body {
   max-width: 800px;
   padding-top: 60px;
 }
+body.embedded-body {
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 16px;
+  color: #72522a; 
+  line-height: 1.6;
+  background-color: #f2faf5;
+  margin: 0 auto;
+  max-width: 800px;
+  padding-top: 60px;
+}
 
 /* Headings */
 h1 {
@@ -31,9 +53,8 @@ h1 {
   margin-bottom: 16px;
   margin-left: 24px;
   font-weight: 600;
-  text-shadow: 2px 2px 5px rgba(124, 142, 143, 0.5); /* Updated shadow to soft blue */
+  text-shadow: 2px 2px 5px rgba(124, 142, 143, 0.5);
 }
-
 h2, h3, h4, h5, h6 {
   color: #0a5656; 
   margin-top: 24px;
@@ -52,16 +73,13 @@ h2 {
 .small {
   font-size: 1.25em;
 }
-
-/* Adjusting h1 to screen size*/
 h1.big {
-  font-size: 2.5rem; /* Relative to the root font size */
- }
-
+  font-size: 2.5rem; 
+}
 
 /* Paragraph styling */
 p {
-  font-size: 1rem; /* 1 rem = default font size of the root (typically 16px) */
+  font-size: 1rem; 
   margin-bottom: 1em;
   margin-left: 24px;
   color: #525A76; 
@@ -70,12 +88,12 @@ p {
 
 /* Section styling */
 section {
-  background-color: #FFFFFF; /* White background for each section*/
+  background-color: #FFFFFF; 
   margin: 20px 0;
   padding: 20px;
   border-radius: 8px;
-  box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.1); /* Shadow for each box */
-  box-sizing: border-box; /* Add this to include padding in the width calculation */
+  box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.1); 
+  box-sizing: border-box; 
 }
 
 /* Links styling */
@@ -83,8 +101,6 @@ a {
   color: #69A6A0; 
   text-decoration: none;
 }
-
-/* Hovering styling*/
 a:hover {
   color: #2A2A72; 
   text-decoration: underline;
@@ -96,88 +112,77 @@ img {
   height: auto;
 }
 
-/* Styling for iframe wrapper */
-.iframe-wrapper {
-  position: relative;
-  display: inline-block;
+/* Ensures that each figure takes up the full available width */
+figure {
   width: 100%;
-  height: 100%;  /* Adjust height as needed */
-  border-radius: 10px; /* Optional: rounded corners */
-  padding: 0px; /* Optional: add padding around the iframe */
-  border: 4px solid #f7c8c8;
-  box-shadow: 0px 4px 10px rgba(12, 5, 5, 0.1); /* Optional: shadow around the border */
+  max-width: 100%;
+  margin: 0 auto;
 }
 
-/* Transparent overlay that makes iframe content clickable */
+/* Makes Vega/Vega-Lite charts (SVG or Canvas) scale with their parent container */
+.vega-embed svg,
+.vega-embed canvas {
+  max-width: 100% !important; 
+  height: auto !important;
+}
+
+/* Charts description container */
+.chart-description {
+  width: 100%; 
+  align-items: center;
+  margin: 20px auto;
+}
+
+/* Iframe wrapper (ratio-based) */
+.iframe-wrapper {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; /* 16:9 ratio; adjust as needed */
+  height: 0;
+  overflow: hidden;
+  border: 4px solid #f7c8c8;
+  border-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(12, 5, 5, 0.1);
+}
 .iframe-wrapper .overlay {
+  /* If you want an overlay that covers the iframe:
+     uncomment or style as needed */
+  /* position: absolute;
+     top: 0;
+     left: 0;
+     width: 100%;
+     height: 100%;
+     background-color: rgba(255, 255, 255, 0.02);
+     z-index: 1;
+     cursor: pointer; */
+}
+
+/* Embedded iframe */
+.embedded-iframe {
   position: absolute;
   top: 0;
   left: 0;
-  width: 97%;
-  height: 100%;
-  background-color: rgba(255, 255, 255, 0.02); /* Semi-transparent white */
-  z-index: 1;
-  cursor: pointer;
-}
-
-
-/* Allow scrolling within the iframe */
-.embedded-iframe {
   width: 100%;
-  height: 500px;
+  height: 100%;
   border: none;
-  overflow: auto; /* Ensure that the content can scroll if necessary */
-  overflow-y: auto; /* Enable vertical scrolling */
-  z-index: 0;  /* Ensure iframe content is below overlay */
+  z-index: 0;
+  display: block;
+  overflow: auto;
 }
 
-
-/*Size*/
-.chart-description {
-  width: 100%; /* Relative width */
-  /*max-width: 1200px; /* Optional: Limit the maximum width */
-  align-items: center;
-  margin: 0 auto; /* Center it */
-}
-
-
-
-/* Styles for devices smaller than 768px (like tablets and phones) */
+/* Styles for devices smaller than 768px */
 @media screen and (max-width: 768px) {
   .big {
-      font-size: 1.5em;
+    font-size: 1.5em;
   }
-
   .chart-description {
-      width: 100%; /* Make content wider on smaller screens */
+    width: 100%;
   }
 }
 
-/* Styles for devices smaller than 480px (like mobile phones) */
+/* Styles for devices smaller than 480px */
 @media screen and (max-width: 480px) {
   .big {
-      font-size: 1.2em;
-  }
-
-  .iframe-wrapper::before {
-    content: "";
-    display: block;
-    padding-top: 56.25%; /* 16:9 aspect ratio (9/16 = 0.5625) */
-  }
-
-  .iframe-wrapper {
-      flex-direction: column;
-      min-height: 300px;
-      max-height: 500px; /* Use a max height on small screens */
-      overflow: auto; /* scrollbars */
-  }
-
-  .embedded-iframe {
-    height: 250px; /* Set a specific height for small screens */
-    min-height: 200px;
-}
-
-  iframe {
-      height: 200px; /* Reduce iframe height on smaller screens */
+    font-size: 1.2em;
   }
 }

@@ -1,0 +1,88 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 300,
+  "height": 300,
+  "title": {
+    "text": "Employment Gender Gap and Child Penalty across Regions",
+    "subtitle": "Source: https://childpenaltyatlas.org"
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/AntoniaDahuabe/AntoniaDahuabe.github.io/refs/heads/main/Project_child_penalty_gap.csv",
+    "format": {"type": "csv"}
+  },
+  "transform": [
+    {
+      "lookup": "iso",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/lukes/ISO-3166-Countries-with-Regional-Codes/refs/heads/master/all/all.csv",
+          "format": {"type": "csv"}
+        },
+        "key": "alpha-2",
+        "fields": ["region", "sub-region"]
+      }
+    },
+    {
+      "filter": "datum.region != null && datum.region != '' && datum.region != 'NULL'"
+    }
+  ],
+  "layer": [
+    {
+      "mark": {"type": "point", "filled": true, "opacity": 0.7, "size": 80},
+      "encoding": {
+        "x": {"field": "penalty", "type": "quantitative", "title": "Penalty"},
+        "y": {"field": "gap", "type": "quantitative", "title": "Gap"},
+        "color": {
+          "field": "region",
+          "type": "nominal",
+          "title": "Region",
+          "scale": {
+            "range": [
+              "#1f77b4",
+              "#ff7f0e",
+              "#2ca02c",
+              "#d62728",
+              "#9467bd",
+              "#8c564b",
+              "#e377c2",
+              "#7f7f7f",
+              "#bcbd22",
+              "#17becf"
+            ]
+          }
+        },
+        "tooltip": [
+          {"field": "name", "type": "nominal", "title": "Country"},
+          {"field": "penalty", "type": "quantitative", "title": "Penalty"},
+          {"field": "gap", "type": "quantitative", "title": "Gap"},
+          {"field": "region", "type": "nominal", "title": "Region"},
+          {"field": "sub-region", "type": "nominal", "title": "Sub-region"}
+        ]
+      }
+    },
+    {
+      "transform": [{"filter": "datum.iso == 'CL' || datum.iso == 'GB'"}],
+      "mark": {
+        "type": "point",
+        "filled": true,
+        "size": 140,
+        "stroke": "black",
+        "strokeWidth": 2,
+        "opacity": 1
+      },
+      "encoding": {
+        "x": {"field": "penalty", "type": "quantitative"},
+        "y": {"field": "gap", "type": "quantitative"},
+        "color": {"field": "region", "type": "nominal"},
+        "tooltip": [
+          {"field": "name", "type": "nominal", "title": "Country"},
+          {"field": "penalty", "type": "quantitative", "title": "Penalty"},
+          {"field": "gap", "type": "quantitative", "title": "Gap"},
+          {"field": "region", "type": "nominal", "title": "Region"},
+          {"field": "sub-region", "type": "nominal", "title": "Sub-region"}
+        ]
+      }
+    }
+  ],
+  "config": {}
+}
