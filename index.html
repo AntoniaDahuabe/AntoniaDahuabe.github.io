@@ -54,13 +54,17 @@
     </div>
 
     <!-- Wrapper for iframe and the clickable overlay -->
-    <div class="iframe-wrapper">
+<div class="iframe-wrapper">
+    <!-- Portfolio preview iframe -->
+    <iframe src="Portfolio.html" class="embedded-iframe"></iframe>
+
+    <!-- A separate link/button for opening the portfolio -->
+    <div class="iframe-overlay">
         <a href="Portfolio.html" target="_blank" class="portfolio-link">
-            <iframe src="Portfolio.html" class="embedded-iframe"></iframe>
-            <!-- Transparent overlay to make the iframe content clickable -->
-            <div class="overlay"></div>
+            Open Portfolio in a New Tab
         </a>
     </div>
+</div>
 </section>
 
 
@@ -84,9 +88,10 @@
             <p> (*) Scatter de uso de tiempo vs trabajo productivo. La idea seria ecnontrar una relacion inversa, aunque que sea mas contexto que explicacion </p>
             <figure id="Location2"></figure>
 
-            <h3> 4. Share not working due to care responsibilities </h3>
+            <h3> 3. Share not working due to care responsibilities </h3>
             <p> Cuanto los cuidados frenan la creciente participacion femenina. O pueden surgur como potenciales barreras para cerrar la brecha entre UK y CHile. Igual hay mujeres no trabajando y es por los cuidados </p>
             <figure id="Location5"></figure>
+            <figure id="Location10"></figure>
 
             <h3> 3. Gender norms perception. --> There are rooted beliefs about labour distribution. </h3>
             <p> De hecho, estan re enraizadas estas barreras por la sociedad. Tenemos este escenario, que instituciones o creencias lo explican? </p>
@@ -126,6 +131,7 @@
         vegaEmbed('#Location7', "Project_EmploymentGenderGapMap.json");
         vegaEmbed('#Location8', "Project_ChildPenaltyMap.json");
         vegaEmbed('#Location9', "Project_ScatterPenalty.json");
+        vegaEmbed('#Location10', "Project_Scatter_Time_Labour.json");
     </script>
    
 
