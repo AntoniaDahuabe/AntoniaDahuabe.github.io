@@ -1,0 +1,101 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": [
+      "Labour Force Participation vs.",
+      "Unpaid Care Work Time (%24 hrs)",
+      "for available countries"
+    ],
+    "subtitle": ["Sources: genderdata.worldbank.org and rshiny.ilo.org", ""],
+    "fontSize": 18,
+    "subtitleFontSize": 14,
+    "anchor": "middle"
+  },
+  "vconcat": [
+    {
+      "title": "Women",
+      "data": {
+        "url": "https://raw.githubusercontent.com/AntoniaDahuabe/AntoniaDahuabe.github.io/refs/heads/main/Project_Merged_Time_Use_Labour_Female.csv",
+        "format": {"type": "csv"}
+      },
+      "mark": {"type": "point", "opacity": 0.6, "filled": true, "size": 100},
+      "encoding": {
+        "x": {
+          "field": "LabourForceParticipation",
+          "type": "quantitative",
+          "title": "Labour Force Participation (%)",
+          "scale": {"domain": [0, 100]}
+        },
+        "y": {
+          "field": "UnpaidCareWorkTimeFemale",
+          "type": "quantitative",
+          "title": "Unpaid Care Work Time (%)",
+          "scale": {"domain": [0, 30]}
+        },
+        "color": {
+          "condition": {
+            "test": "datum['Country'] === 'Chile' || datum['Country'] === 'United Kingdom'",
+            "value": "red"
+          },
+          "value": "purple"
+        },
+        "tooltip": [
+          {"field": "Country", "type": "nominal", "title": "Country"},
+          {
+            "field": "LabourForceParticipation",
+            "type": "quantitative",
+            "title": "Labour Force Participation"
+          },
+          {
+            "field": "UnpaidCareWorkTimeFemale",
+            "type": "quantitative",
+            "title": "Unpaid Care Work Time"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Men",
+      "data": {
+        "url": "https://raw.githubusercontent.com/AntoniaDahuabe/AntoniaDahuabe.github.io/refs/heads/main/Project_Merged_Time_Use_Labour_Male.csv",
+        "format": {"type": "csv"}
+      },
+      "mark": {"type": "point", "opacity": 0.6, "filled": true, "size": 100},
+      "encoding": {
+        "x": {
+          "field": "LabourForceParticipation",
+          "type": "quantitative",
+          "title": "Labour Force Participation (%)",
+          "scale": {"domain": [0, 100]}
+        },
+        "y": {
+          "field": "UnpaidCareWorkTimeMale",
+          "type": "quantitative",
+          "title": "Unpaid Care Work Time (%)",
+          "scale": {"domain": [0, 30]}
+        },
+        "color": {
+          "condition": {
+            "test": "datum['Country'] === 'Chile' || datum['Country'] === 'United Kingdom'",
+            "value": "red"
+          },
+          "value": "darkgreen"
+        },
+        "tooltip": [
+          {"field": "Country", "type": "nominal", "title": "Country"},
+          {
+            "field": "LabourForceParticipation",
+            "type": "quantitative",
+            "title": "Labour Force Participation"
+          },
+          {
+            "field": "UnpaidCareWorkTimeMale",
+            "type": "quantitative",
+            "title": "Unpaid Care Work Time"
+          }
+        ]
+      }
+    }
+  ],
+  "config": {}
+}
