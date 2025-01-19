@@ -31,13 +31,13 @@
 <section class="chart-description">
     <div class="chart-description">
         <h2>Introduction</h2>
-        <p> This website portrays what I learned in the Automated Data Visualisation for Policymaking (<a href="https://www.lse.ac.uk/resources/calendar2024-2025/courseGuides/PP/2024_PP434.htm">PP434</a>) course at LSE,
+        <p> This website portrays what I learned in the <b>Automated Data Visualisation for Policymaking (<a href="https://www.lse.ac.uk/resources/calendar2024-2025/courseGuides/PP/2024_PP434.htm">PP434</a>)</b> course at LSE,
              during winter term 2024-25.  </p>
-        <p> Here you will find two pieces of work. First, a <a href="#section1">Portfolio (Section 1) </a> with different tasks that
+        <p> Here you will find two pieces of work. First, a <b><a href="#section1">Portfolio (Section 1) </a></b> with different tasks that
               demonstrate the tools I acquire class by class. The learned skills include building a web site, embedding a live visualisation,
               hosting data in the cloud (<a href="https://github.com/AntoniaDahuabe">GitHub</a>), editing and cleaning data, using API-driven charts,
                applying loops, APIs, and scrapers, and adding interactivity to my charts, among others. </p>
-        <p>    Then, I show a data science <a href="#section2">Project (Section 2) </a> that gathers the mentioned 
+        <p>    Then, I show a data science <b><a href="#section2">Project (Section 2) </a></b> that gathers the mentioned 
               learnings and applies them to a social policy issue (in my case, the balance between productive (paid) and
                reproductive (unpaid) labour for Chile, my country of origin, and the UK, where I took this course). </p>
         <p> I conclude at the bottom (<a href="#section3">Discussion</a>) with data challenges and features I intentionally added to this website.
@@ -73,34 +73,68 @@
     <div class="chart-description"></div>
             <h2>Section 2: Project</h2>
             
-            <h3>Productive and reproductive labour balance in the UK and Chile. </h3>
-            <p> Borrar tooltip. Hay un gender gap: hombres trabajan mas que mujeres. EL gap se da en dos contextos: producitvio y reproductivo.</p>
-            <p> Radiografia del trabajo en estos dos paises. </p>
+            <h1>Balancing Productive and Reproductive Labour: Gender Dynamics in the UK and Chile </h1>
+            <p>  
+                Women and men do not participate in the world in the same way, either economically or personally. This situation is troublesome in many aspects. Unbalanced powers result from underlying gendered institutions, such as societal norms, or job and care policies. The economic markets are not benefiting from a diverse and more extensive working population, undermining productivity. Many women do not benefit from employment-related income, entitlements, or self-satisfaction. But even when we see the female labour force rising, the well-known double shift (where care work has not decreased proportionally nor has been divided equally) is a present burden for women's and society's wellbeing.
+                </p>
+                <p>
+                    This project examines the gendered panorama of productive (paid) and reproductive (unpaid/care) labour. I avoid using the better know term <i> Work-family Balance</i>, as it ignores that family-related tasks are also work. I state that caring responsibilities, mostly on women's shoulders, are biding the extent to which they can participate freely in economic markets. The extra unpaid work women perform is strengthened by the arrival of a first child, and as men do not compensate fully for such caring tasks, having a family becomes a cornerstone in the evergoing dispute between a woman's work and their personal life.
+            </p>
+                <p> I focus on the cases of Chile and the United Kingdom, two converging economies regarding female labour but with very different foundational institutions concerning care and gender norms. </p>
+            
+            
+            
+            
+            <h3> 1. The gender gap around the world. </h3>
+            <p> Globally, around 47% of women are employed or looking for employment, while the figure for men rises to 72% <a href = https://webapps.ilo.org/infostories/en-GB/Stories/Employment/barriers-women#unemployed-vulnerable>(ILO, 2022)</a>. The 25 percentage point difference extends to over 50 pp in some regions. Being outside the labour force makes women vulnerable to economic dependence (related to intrahousehold violence), lack of social security, less scope for self-satisfaction, and poor prospects for the elder years. When considering that men participate more than women, power relationships become unbalanced, leading to a disequilibrium in political, personal and economic fields. </p>
+            <p> While the UK's gap stands at 9.1 pp, Chile's rises to 21.3, with women working less in Chile than in the UK and men working more. </p>
+            <figcaption>Figure 1</figcaption>
             <figure id="Location7"></figure>
 
-            <h3> 1. Workforce participation by gender over the years. --> productive labour for women has increased </h3>
-            <p> EL emplpyment ggap se da incluso cuando han aumentado los niveles de participacion femeninna. Mostrar varios paises y justificar en que elegir uno de alta y de baja participacion, o dos de participacion media en dos regiones distintas. Ya en 2020 son parecidos, pero cmo fue la historia detras y las instituciones underlying. Hay una convergencia (mensaje) </p>
+            <h3> 2. Female workforce participation over the years</h3>
+            <p> 
+                The employment gap shown above (Figure 1) stands even when women's participation has risen over the years. And despite the fact that the UK's and Chile's situation is converging, as shown below, their distance in previous decades might hide more underlying factors than it seems. Not long ago, in the 1990s, Chile had a female participation of no more than 31% <a href="https://webapps.ilo.org/infostories/en-GB/Stories/Employment/barriers-women#global-gap/gap-labour-force">(ILO, 2024)</a>. Those institutions hold in other dimensions of women's lives.   </p>
+            
+                <figcaption>Figure 2</figcaption>
              <figure id="Location1"></figure>
  
-            <h3> 2. Time use data unbalance. --> reproductive work for women has not decreased equally. </h3>
-            <p> SDG Target 5.4: Recognize and value unpaid care and domestic work through the provision of public services, infrastructure and social protection policies and the promotion of shared responsibility within the household and the family as nationally appropriate</p>
-            <p> Pero a la vez el cuidado sigue recayendo en las mujeres. Tambien hay un trabajo que no es productivo pagado, que ha tenido su porpia dimnamica: el trabajo de los cuidados. La convergencia se ha dado pese a que las mujeres en chile no ven una reducion proporcional en trabajo reproductivo que productivo.</p>
-            <p> (*) Scatter de uso de tiempo vs trabajo productivo. La idea seria ecnontrar una relacion inversa, aunque que sea mas contexto que explicacion </p>
+            <h3> 3. Unpaid domestic and care work </h3>
+            <p> 
+                The UN acknowledges the need for balance in the domestic field, as the <a href="https://www.globalgoals.org/goals/5-gender-equality/">Sustainable Development Goal Target 5.4</a> recognizes and values unpaid care and domestic work through the provision of public services, infrastructure and social protection policies and the promotion of shared responsibility within the household and the family as nationally appropriate. </p>
+                <p>
+                While the amount of women working in the paid market has increased (Figure 2), a significant part of their complementary time is devoted to unpaid domestic and care work (Figure 3). Reproductive labour still falls upon Chilean women, as they are spending up to 2.24 times what men spend on domestic and care work. The figure is lower for the UK (1.82 times), as well as for absolute terms; while Chilean women spend 22% of their day caring for their houses and families, UK women spend 12.7%. What is more striking is the increasing trend in the Chilean case; given that more women work in the paid market every year, balanced societies would have, as a consequence, greater parity. Nevertheless, women entering the productive world do not translate into them sharing the reproductive one.  </p>
+            
+            <figcaption>Figure 3</figcaption>
             <figure id="Location2"></figure>
 
-            <h3> 3. Share not working due to care responsibilities </h3>
-            <p> Cuanto los cuidados frenan la creciente participacion femenina. O pueden surgur como potenciales barreras para cerrar la brecha entre UK y CHile. Igual hay mujeres no trabajando y es por los cuidados </p>
+            <h3> 4. Share not working due to care responsibilities </h3>
+            <p> Even when women in Chile and the UK sustain increasing rates of paid employment (pushing the double shift to burdensome levels), many women are restricted from participating in productive labour because of their care responsibilities. As Figure 4 shows, 33.8% of Chilean women do not participate due to these reasons. That the UK's figure is much lower (12%) sheds light on the different institutions (formal and informal) that prevail in both settings. 
+                 </p>
+          
+            <figcaption>Figure 4</figcaption>
             <figure id="Location5"></figure>
+
+            <p>
+                Figure 5 shows the relationship between country levels of labour force participation and unpaid care work time. No evident trend describes the situation either for women or men, and the observed variation for the same levels of female employment, for instance, implies that multiple factors shape the underlying structures and dynamics behind productive and reproductive balance. Both sides of the equation are not as substitutes as one might think, and different labour conditions for women (such as informality or half-time schedules) moderate the resulting scenario. Additionally, as stated before, societal norms intrinsic to each country have a relevant role.  
+            </p>
+
+
+            <figcaption>Figure 5</figcaption>
             <figure id="Location10"></figure>
 
-            <h3> 3. Gender norms perception. --> There are rooted beliefs about labour distribution. </h3>
-            <p> De hecho, estan re enraizadas estas barreras por la sociedad. Tenemos este escenario, que instituciones o creencias lo explican? </p>
+            <h3> 5. Gender norms perception. </h3>
+            <p> Societal norms (such as gender ones) can affect the outcome of productive and reproductive labour balance. Indeed, the <a href="https://www.worldvaluessurvey.org/WVSDocumentationWV7.jsp">World Values Survey</a> asked people from both the UK and Chile if they agreed with the following statement: <i>When a mother works for pay, the children suffer</i>. This statement puts a social constraint on women working in the productive sphere. While 27.5% of UK respondents strongly disagree with such an idea, only 14.8% of Chileans did. On the other hand, 13.7% of Chileans strongly agreed with it, compared to barely 3.8% in the UK. These strong-rooted perceptions of gender roles shape personal decisions beyond merely labour policies' parameters.  </p>
+            
+            <figcaption>Figure 6</figcaption>
             <figure id="Location4"></figure>
            
-            <h3> 5. Child and marriage penalty over the world. --> These unbalances are driven (or enhanced) after marriage and the first child. Every country in the world has a different weight on which penalty is stronger. </h3>
-            <p> Entonces, cuidado de hijo, reduce los niveles de participacion previos?</p>
-            <figure id="Location6"></figure>
-            <h3> 6.Employment gap and child penalty over the world </h3>
+            <h3> 6. Productive labour after becoming parents </h3>
+            <p> Is reproductive labour constraining productive work? 
+                A relevant study in this field is the <a href="https://childpenaltyatlas.org/"> Child Penalty Atlas</a>. Researchers estimated the penalty women and men suffer labour-wise when becoming parents. While men maintain participation levels after becoming parents, women reduce their labour by 35% in Chile and 27% in the UK. Yes, the UK experiences a smaller penalty compared to Chile, as expected. Nevertheless, the UK's penalty is quite substantial and (like the Chilean one) does not go away for over 10 years. </p>
+           
+                <figcaption>Figure 7</figcaption>
+                <figure id="Location6"></figure>
+            <h3> 7.Employment gap and child penalty over the world </h3>
             <p> En todas las regiones mientras mas alto el penalty, mas alto el gap, entonces mientras mas afectan los cuidados (principalmente a rtazi de la maternidd), mas fuerte es el gap resultante.</p>
             <p> DESTACAR CHILE Y EL REINO UNIDO</p>
             <p> EL child penalty va a ser un creciente desafio para cerrar la brecha para los paises qu vienen avanzando en esta materia, como chile.</p>

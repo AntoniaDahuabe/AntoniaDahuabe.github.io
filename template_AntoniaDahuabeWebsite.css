@@ -112,14 +112,22 @@ img {
   height: auto;
 }
 
-/* Ensures that each figure takes up the full available width */
+/* Width */
 figure {
   width: 100%;
   max-width: 100%;
   margin: 0 auto;
+  text-align: center;
 }
 
-/* Makes Vega/Vega-Lite charts (SVG or Canvas) scale with their parent container */
+figcaption {
+  margin-top: 8px;
+  font-size: 0.9rem;
+  color: #525A76; /* Subtle color for the label */
+  font-style: italic;
+  text-align: center; /* Center the caption text */
+}
+/*Scaling */
 .vega-embed svg,
 .vega-embed canvas {
   max-width: 100% !important; 

@@ -5,56 +5,106 @@
   "title": {
     "text": [
       "Female Labour Force Participation in Chile",
-      "and the United Kingdom (1990-2024)"
+      "and the United Kingdom (1990-2023)"
     ],
+    "subtitle": "Source: https://ilostat.ilo.org/data/",
     "anchor": "start",
     "fontSize": 14,
     "fontWeight": "bold"
   },
   "data": {
-    "url": "https://raw.githubusercontent.com/AntoniaDahuabe/AntoniaDahuabe.github.io/refs/heads/main/Project_labour_force_NorthenEurope_SouthAmerica.csv"
+    "url": "https://raw.githubusercontent.com/AntoniaDahuabe/AntoniaDahuabe.github.io/refs/heads/main/Project_labour_force_all_time.csv"
   },
-  "mark": {"type": "line", "strokeWidth": 5, "opacity": 0.7},
-  "transform": [
-    {"filter": "datum['sex.label'] === 'Sex: Female'"},
+  "layer": [
     {
-      "filter": "(datum['ref_area.label'] === 'Chile' || datum['ref_area.label'] === 'United Kingdom of Great Britain and Northern Ireland')"
+      "mark": {"type": "line", "size": 10, "opacity": 0.2, "color": "gray"},
+      "transform": [
+        {"filter": "datum['sex.label'] === 'Sex: Female'"},
+        {
+          "filter": "datum['time'] >= 631152000000 && datum['time'] <= 1672531200000"
+        },
+        {"filter": "datum['obs_value'] != null"},
+        {
+          "aggregate": [
+            {"op": "mean", "field": "obs_value", "as": "mean_obs_value"}
+          ],
+          "groupby": ["time"]
+        },
+        {"calculate": "\"World's Aggregate\"", "as": "label"}
+      ],
+      "encoding": {
+        "x": {"field": "time", "type": "temporal", "axis": {"title": "Year"}},
+        "y": {"field": "mean_obs_value", "type": "quantitative", "title": ""},
+        "color": {
+          "field": "label",
+          "type": "nominal",
+          "legend": {"title": " ", "orient": "top"},
+          "scale": {"domain": ["World's Aggregate"], "range": ["gray"]}
+        },
+        "tooltip": [
+          {"field": "label", "title": " "},
+          {
+            "field": "time",
+            "type": "temporal",
+            "title": "Year",
+            "timeUnit": "year"
+          },
+          {
+            "field": "mean_obs_value",
+            "type": "quantitative",
+            "title": "Average Rate",
+            "format": ".2f"
+          }
+        ]
+      }
+    },
+    {
+      "mark": {"type": "line", "strokeWidth": 5, "opacity": 0.7},
+      "transform": [
+        {"filter": "datum['sex.label'] === 'Sex: Female'"},
+        {
+          "filter": "(datum['ref_area.label'] === 'Chile' || datum['ref_area.label'] === 'United Kingdom of Great Britain and Northern Ireland')"
+        },
+        {"filter": "datum['time'] >= 631152000000"}
+      ],
+      "encoding": {
+        "x": {
+          "field": "time",
+          "type": "temporal",
+          "timeUnit": "year",
+          "axis": {"title": "Year"}
+        },
+        "y": {
+          "field": "obs_value",
+          "type": "quantitative",
+          "title": "Labour Force Participation Rate",
+          "scale": {"domain": [0, 70]}
+        },
+        "color": {
+          "field": "[ref_area.label]",
+          "type": "nominal",
+          "title": null,
+          "legend": {"orient": "top", "symbolSize": 2000},
+          "scale": {"range": ["#B34C4E", "teal"]}
+        },
+        "tooltip": [
+          {"field": "[ref_area.label]", "type": "nominal", "title": "Country"},
+          {
+            "field": "time",
+            "type": "temporal",
+            "title": "Year",
+            "timeUnit": "year"
+          },
+          {
+            "field": "obs_value",
+            "type": "quantitative",
+            "title": "Participation Rate",
+            "format": ".2f"
+          }
+        ]
+      }
     }
   ],
-  "encoding": {
-    "x": {
-      "field": "time",
-      "type": "temporal",
-      "timeUnit": "year",
-      "axis": {"title": "Year"}
-    },
-    "y": {
-      "field": "obs_value",
-      "type": "quantitative",
-      "title": "Labour Force Participation Rate",
-      "scale": {"domain": [0, 70]}
-    },
-    "color": {
-      "field": "[ref_area.label]",
-      "type": "nominal",
-      "title": null,
-      "legend": {"orient": "top", "symbolSize": 2000},
-      "scale": {"range": ["#B34C4E", "teal"]}
-    },
-    "tooltip": [
-      {"field": "[ref_area.label]", "type": "nominal", "title": "Country"},
-      {
-        "field": "time",
-        "type": "temporal",
-        "title": "Year",
-        "timeUnit": "year"
-      },
-      {
-        "field": "obs_value",
-        "type": "quantitative",
-        "title": "Participation Rate"
-      }
-    ]
-  },
+  "resolve": {"scale": {"color": "independent"}},
   "config": {}
 }
