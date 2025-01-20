@@ -171,11 +171,29 @@
             The prices are smoothed using a moving average and restricted until 2006 for comparison. The motivation was common literature on 
             <a href="https://researchbriefings.files.parliament.uk/documents/CDP-2016-0027/CDP-2016-0027.pdf">gendered prices</a> or the better-known 
             "Pink tax", although I found no evidence of that for the selected item (leather boots).</p>
-        <figure id="Location14"></figure>
+        
+            <figcaption>Figure 13</figcaption>
+            <figure id="Location14"></figure>
     </section>
 
     <section id="cc10">
         <h3>CC10: Machine Learning</h3>
+        <p> The image in Figure 14 comes from a selected <a href="https://peaceadegbite1.medium.com/iris-flower-classification-60790e9718a1">website</a>, and shows three species of flowers that look similar but differ on the lenght and width of their petals and sepals.
+        First I performed an unsupervised learning method. I used a <a href="https://colab.research.google.com/drive/16HfOMhEPbkr4cKaAcq_PEzOpppDJVj5R?usp=sharing">Google Colab code</a> to load the data, 
+        standarize it, and apply a K-Means Clustering (with three clusters, knowing that we want to identify three species of flowers). I then plot the PCA results in Figure 15, along with comparing resulting clusters
+        with true labels, and observe that one species (cluster 1) was identified correctly (with 33 samples of label 0 setosa), but the two (versicolor and virginica) others were not, so K-Means (PCA) has some limitations for this analysis.
+        </p>
+        <figcaption>Figure 14</figcaption>
+        <figure> <img src="iris_types.png"> </figure>
+        <p> </p>
+        <figcaption>Figure 15</figcaption>
+        <figure> <img src="CC10_unsupervised.png"> </figure>
+
+        <p> Then I performed a supervised ML based on a linear regression analysis, shown in Figure 16. The corresponding code is on <a href="https://colab.research.google.com/drive/1L402VUGAwjRnybYKz9dcBlhOE-hnsNHh?usp=sharing"> Google Colab</a> </p>
+        
+        <figcaption>Figure 16</figcaption>
+        <figure> <img src="CC10_ML_supervised.png"> </figure>
+    
     </section>
 
     <script>
