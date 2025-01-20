@@ -2,6 +2,9 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "height": 250,
   "width": 400,
+  "title": {
+    "text": "Life expectancy by derpivation deciles in the UK"
+  },
    "data": {
     "url": "https://raw.githubusercontent.com/AntoniaDahuabe/AntoniaDahuabe.github.io/refs/heads/main/Figure_5__Male_DFLE_in_the_least_deprived_areas_was_2.6_years_higher_than_for_females.csv"
   },

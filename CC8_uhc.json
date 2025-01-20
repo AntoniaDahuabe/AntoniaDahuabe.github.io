@@ -2,7 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": {
     "text": [
-      "Relationship between father's leave days and Universal Health Coverage"
+      "Relationship between mother's leave days","and Universal Health Coverage", "by father's leave days"
     ],
     "fontWeight": 600,
     "anchor": "start"

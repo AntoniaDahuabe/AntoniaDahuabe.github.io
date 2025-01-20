@@ -50,7 +50,7 @@
 
     <section id="assessment">
         <h3>Assessment Overview</h3>
-        <p>Click the preview below to view or download the full PDF:</p>
+        <p>Download or preview the pdf file below with instructions for the Portfolio tasks. </p>
         <a href="portfolioTasks2024-2.pdf" target="_blank">
             <iframe src="portfolioTasks2024-2.pdf#view=fitH" width="100%" height="350px" style="border:none;"></iframe>
         </a>
@@ -58,56 +58,116 @@
 
     <section id="cc1">
         <h3>CC1: Hosting - Display charts in your own site</h3>
-        <figure id="Location1"></figure>
+        <p> The following charts were built with data from <a href="https://github.com/RDeconomist/RDeconomist.github.io">Richard Davies's GitHub repository</a>
+            and inspired by the charts in his <a href="https://www.richarddavies.io/library"> library</a>. 
+        Hoover over them for additional information about data points.</p>
+        <p> I chose topics related to social issues, such as the Glasgow Effect (life expectancy and deprivation) and school enrollment gaps by gender.</p>
+       
+        <figcaption>Figure 1</figcaption>
+         <figure id="Location1"></figure>
+         
+         <figcaption>Figure 2</figcaption>
         <figure id="Location2"></figure>
     </section>
 
     <section id="cc2">
         <h3>CC2: Building - Create your own visualisations</h3>
+        <p> From the <a href="https://www.economicsobservatory.com/explore">Economics Observatory Data Hub</a>, 
+        I chose two other charts to reproduce them within my own adapted json codes. 
+        Click on the upper right corner of each chart to go to each json file, visualized in VegaLite. </p>
+        
+        <figcaption>Figure 3</figcaption>
         <figure id="Location3"></figure>
+        
+        <figcaption>Figure 4</figcaption>
         <figure id="Location4"></figure>
     </section>
 
     <section id="cc3">
         <h3>CC3: Debating - Use a visualisation in economic/policy commentary</h3>
-        <figure id="Location5"></figure>
-        <figure id="Location6"></figure>
+        <p> From the <a href="https://www.economicsobservatory.com/festival-of-economics-2024"> Festival of Economics 2024</a>
+            I created two charts focusing on the  Marshall Paley Lecture about inequalities, where Professor Sir Richard Blundell
+            discussed different dimensions and dynamics in that field. </p>
+       
+            <figcaption>Figure 5</figcaption>
+            <figure id="Location5"></figure>
+        
+        <p> From the second chart, growth incidence curves in the UK show highly regressive dynamics in 1982-1992 and more progressive
+            ones from then on. Nevertheless, there was a setback from 2002-2012 to 2012-2022, where lower percentiles did not enjoy
+             as much growth relatively compared to the previous decade. </p>
+        
+             <figcaption>Figure 6</figcaption>
+             <figure id="Location6"></figure>
     </section>
 
     <section id="cc4">
         <h3>CC4: Replication - Re-create, then improve, someone else’s chart</h3>
-        <figure id="Location7"></figure>
+        <p> From the <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/timeuseintheuk/march2023#time-use-among-adults-who-were-employed-and-economically-inactive">
+            ONS's site</a> about time use in the UK, I selected the following chart (Figure 7). </p>
+        
+        <figcaption>Figure 7</figcaption>
+        <figure> <img src="CC4_Original.png"> </figure>
+        
+        <p> Then, I replicated their chart and changed several features that seemed better for me to be displayed in other ways. 
+            For instance, I avoided stacking bars and, instead, I chose to divide by activities for a better understanding of the relative differences by gender.  </p>
+        <figcaption>Figure 8</figcaption>
+        <figure id="Location7">
+        </figure>
+        
+     
     </section>
 
     <section id="cc5">
         <h3>CC5: Scraper - Implement a data scraper of your own</h3>
-        <figure id="Location8"></figure>
+        <p> I chose the <a href="https://childpenaltyatlas.org/"> Child Penalty Atlas</a> website as it has valuable analysis of the gender dynamics behind labour penalization for becoming parents.
+            This is not a negative view of parenthood but a call for attention for labour markets and intrahousehold allocations to rebalance their outcomes. 
+            I developed this topic further in my <a href="index.html">Project</a>. </p>
+            <p> I scrapped data from their website and cleaned it on a <a href="https://colab.research.google.com/drive/1xqYm5Lk1HjsOLdhHbaWJrzXi1AqGqS_4?usp=sharing">GoogleColab file</a>. </p>
+            <figcaption>Figure 9</figcaption>
+            <figure id="Location8"></figure>
     </section>
 
     <section id="cc6">
         <h3>CC6: Loops - Build a dashboard</h3>
+        <p> I used the ONS API to batch download nine series as json files using a loop. In this
+            <a href="https://colab.research.google.com/drive/1Vwd-08bOI0q0K_kLtrb_yTbxD5v9_ahP?usp=sharing">GoogleColab file</a>
+            I conducted the data analysis to create the following charts. 
+         </p>
+         <figcaption>Figure 10</figcaption>
         <iframe src="labour_market_dashboard.html" width="100%" height="500px" style="border:none;"></iframe>
     </section>
 
     <section id="cc7">
         <h3>CC7: Maps - Base maps and choropleths</h3>
+        <p> I produced two maps of Chile, one showing the different regions with their municipalities' borders and the other plotting population by each municipality. From both maps, we can see how different regions consider very different lands in terms of geographical scope and latitude. Then we see, in Figure 12, that some municipalities, such as Antofagasta, are very populated while covering a large geographical space. In contrast, others from the capital of Chile (Santiago), such as La Florida, have similar populations but in a much smaller area.
+        </p>
+        <figcaption>Figure 11</figcaption>
         <figure id="Location9"></figure>
+        
+        <figcaption>Figure 12</figcaption>
         <figure id="Location10"></figure>
     </section>
 
     <section id="cc8">
         <h3>CC8: Analytics charts</h3>
-        <p> COMPLEMENTARIOS NO SUSTITUTOS</p>
-        <p>Data source: ILOSTAT Earnings and labour cost: Gender wage gap (%) ; Data source: World Bank - Women, Business and the Law (2024).</p>
+         <p> The following charts use coloured scatter techniques for three-dimensional analysis. I chose the topic of parenthood leaves
+            to assess the relationship between mothers' and fathers' available days, along with an additional feature, either Gender Wage Gap, Share of women in 
+            high management positions, or universal health coverage levels. The main finding here is that health coverage plays a more significant role when relating to 
+            leaves than measures of women's power. Codes that manage data can be found in <a href="https://colab.research.google.com/drive/1gjuTaf8CwJTff0fEkK2KdudVIzl6SSBm?usp=sharing">here.</a>
+        </p>
+        
+        <figcaption>Figure 13</figcaption>
         <figure id="Location11"></figure>
+        <figcaption>Figure 14</figcaption>
         <figure id="Location12"></figure>
-        <figure id="Location13"></figure>
+        <figcaption>Figure 12</figcaption>
+        <figure id="Location15"></figure>
     </section>
 
     <section id="cc9">
         <h3>CC9: Big Data - Extracting a story from millions of prices</h3>
-        <p>I used price data from xxxx, transformed it in xxxcolabxxxx to identify pairs of items that were the same but 
-            specified for women or men. I averaged shop prices by region, and then used the output dataset to generate a JSON chart grid. 
+        <p>I used price data from <a href="https://github.com/RDeconomist/prices"> Richard Davies's GitHub</a>, transformed it in <a href="https://colab.research.google.com/drive/1rhK_b9QJdvBLDHAJwVi4gNvpmE4KBlnz?usp=sharing"> Google Colab</a> to identify pairs of items that share descriptions but 
+            were specified for women or men. I averaged shop prices by region, and then used the output dataset to generate a JSON chart grid. 
             The prices are smoothed using a moving average and restricted until 2006 for comparison. The motivation was common literature on 
             <a href="https://researchbriefings.files.parliament.uk/documents/CDP-2016-0027/CDP-2016-0027.pdf">gendered prices</a> or the better-known 
             "Pink tax", although I found no evidence of that for the selected item (leather boots).</p>

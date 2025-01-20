@@ -1,5 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title":["Relationship between mother's","leave days and gender wage gap" , "by father's leave days"],
   "data": {
     "url": "https://raw.githubusercontent.com/AntoniaDahuabe/AntoniaDahuabe.github.io/refs/heads/main/Project_combined_leave_and_wage_gap_data.json"
   },
@@ -14,7 +15,7 @@
     "color": {
       "field": "[Total days of leave available for the father]",
       "type": "quantitative",
-      "title": "Days of Leave Available for Fathers",
+      "title": "Days for Father's Leave",
       "scale": {"scheme": "redyellowblue"}
     },
     "x": {

@@ -1,5 +1,10 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": { 
+  "text":"Time spent on different activities (%24 hrs) in the UK, by gender",
+  "align": "center",
+  "anchor": "middle",
+  "subtitle":" "},  
   "data": {
     "url": "https://raw.githubusercontent.com/AntoniaDahuabe/AntoniaDahuabe.github.io/refs/heads/main/long_format_data_Figure_4__Daily_time_use.csv"
   },
